@@ -1,0 +1,31 @@
+check,status,detail
+orders -> customers,PASS,orphans=0
+order_items -> orders,PASS,orphans=0
+order_items -> products,PASS,orphans=0
+payments -> orders,PASS,orphans=0
+shipments -> orders,PASS,orphans=0
+reviews -> orders,PASS,orphans=0
+reviews -> customers,PASS,orphans=0
+reviews -> products,PASS,orphans=0
+returns -> orders,PASS,orphans=0
+returns -> customers,PASS,orphans=0
+returns -> products,PASS,orphans=0
+customers.customer_id unique,PASS,duplicates=0
+products.product_id unique,PASS,duplicates=0
+orders.order_id unique,PASS,duplicates=0
+order_items.order_item_id unique,PASS,duplicates=0
+payments.payment_id unique,PASS,duplicates=0
+shipments.shipment_id unique,PASS,duplicates=0
+reviews.review_id unique,PASS,duplicates=0
+returns.return_id unique,PASS,duplicates=0
+campaigns.campaign_id unique,PASS,duplicates=0
+orders.subtotal == sum(order_items.item_revenue),PASS,max_absolute_difference=0.0
+row count: customers,PASS,"actual=20000, expected=20000"
+row count: products,PASS,"actual=550, expected=550"
+row count: orders,PASS,"actual=20000, expected=20000"
+row count: order_items,PASS,"actual=20000, expected=20000"
+row count: payments,PASS,"actual=20000, expected=20000"
+row count: shipments,PASS,"actual=19205, expected=19205"
+row count: customer_reviews,PASS,"actual=6503, expected=6503"
+row count: returns,PASS,"actual=1641, expected=1641"
+row count: marketing_campaigns,PASS,"actual=151, expected=151"

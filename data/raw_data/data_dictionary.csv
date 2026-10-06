@@ -1,0 +1,107 @@
+table_name,column_name,data_type,description,example,allowed_values,nullable,business_meaning
+customers,customer_id,string,Unique customer identifier,CUST100001,CUSTxxxxxx,No,Primary key
+customers,customer_signup_date,date,Date the customer registered,2023-04-12,2023-01-01 to 2025-12-31,No,Acquisition date
+customers,gender,string,Self-reported gender,Female,Male/Female/Other,No,Demographic
+customers,age,int,Customer age in years,29,18-70,Yes (~1%),Demographic
+customers,age_group,string,Binned age group,25-34,18-24/25-34/35-44/45-54/55+,No,Demographic segment
+customers,state,string,Indian state of residence,Gujarat,15 Indian states,No,Geography
+customers,city,string,Indian city of residence,Ahmedabad,31 Indian cities,No,Geography
+customers,pincode_prefix,int,First 3 digits of postal PIN code (synthetic),382,100-899,No,Geography proxy
+customers,customer_segment,string,Latent value segment used to drive behavior,Premium,Premium/Regular/Budget/New,No,Marketing segmentation
+customers,preferred_device,string,Most-used shopping device,Mobile App,Mobile App/Mobile Web/Desktop,Yes (~0.5%),UX analytics
+customers,preferred_payment_method,string,Customer's usual payment method,UPI,10 payment methods,No,Payments analytics
+customers,acquisition_channel,string,Marketing channel that acquired the customer,Organic Search,10 channels,No,Marketing attribution
+customers,total_orders,int,Count of non-Failed orders placed (derived),12,>= 0,No,RFM - Frequency
+customers,total_spend,float,Sum of final_amount across non-Failed orders (derived),45210.50,>= 0,No,RFM - Monetary / CLV base
+customers,average_order_value,float,total_spend / total_orders (derived),3767.54,>= 0,No,Spending behavior
+customers,last_order_date,date,Date of most recent non-Failed order (derived),2025-11-02,date or null,Yes (never purchased),RFM - Recency
+customers,customer_status,string,"Derived from recency of last_order_date vs 2025-12-31: Active <=90d, At Risk <=180d, Churned >180d, Never Purchased if 0 orders",Active,Active/At Risk/Churned/Never Purchased,No,Churn label
+customers,loyalty_tier,string,Derived from total_spend quartile among purchasers,Gold,Bronze/Silver/Gold/Platinum,No,Loyalty program tier
+products,product_id,string,Unique product identifier,PROD10001,PRODxxxxx,No,Primary key
+products,product_name,string,Generated product title,Nike Premium Sneaker,free text,No,Catalog display
+products,category,string,Top-level product category,Footwear,22 categories,No,Catalog taxonomy
+products,subcategory,string,Product subcategory,Sports Shoes,varies by category,No,Catalog taxonomy
+products,brand,string,Synthetic brand name,Nike,~150 brands,No,Catalog attribute
+products,price,float,Listed selling price (MRP-like),2499.00,> 0,No,Pricing
+products,cost_price,float,Internal cost price used for margin calc,1499.40,"> 0, < price",No,Profitability
+products,discount_range,string,Typical discount band shown for this product,10-25%,text range,No,Merchandising
+products,rating_average,float,Average product star rating,4.2,1.0-5.0,Yes (~0.8%),Product quality signal
+products,rating_count,int,Number of ratings received,312,>= 0,No,Popularity proxy
+products,stock_quantity,int,Units currently in stock (synthetic snapshot),540,>= 0,No,Inventory
+products,product_launch_date,date,Date product was first listed,2023-06-01,2023-01-01 to 2025-12-31,No,Catalog lifecycle
+products,product_type,string,Merchandising tier,Premium,Standard/Premium/Budget/Exclusive,No,Merchandising
+products,return_rate_baseline,float,Underlying (hidden) probability driving return simulation for this product,0.12,0.005-0.5,No,Simulation parameter / leakage risk if used post-hoc
+orders,order_id,string,Unique order identifier,ORD1000001,ORDxxxxxxx,No,Primary key
+orders,customer_id,string,Customer who placed the order,CUST100001,FK -> customers,No,Relationship
+orders,order_date,date,Date order was placed,2024-11-01,2023-01-01 to 2025-12-31,No,Transaction timestamp
+orders,order_time,string,Time of day order was placed (HH:MM:SS),20:14:03,00:00:00-23:59:59,No,Behavioral analytics
+orders,order_status,string,Final status of the order,Delivered,Delivered/Cancelled/Returned/Failed/Processing,No,Order lifecycle / target variable
+orders,shipping_method,string,Selected shipping method,Express,5 methods,No,Fulfillment
+orders,delivery_city,string,Destination city,Pune,31 cities,No,Geography
+orders,delivery_state,string,Destination state,Maharashtra,15 states,No,Geography
+orders,coupon_code,string,"Coupon applied, if any",FEST20,coupon list or null,Yes (~65%),Promotions
+orders,discount_percentage,float,Order-level discount percentage applied,15.0,0-30,No,Pricing
+orders,marketing_channel,string,Channel attributed for this order,Paid Search,10 channels,No,Marketing attribution
+orders,subtotal,float,Sum of item_revenue across order_items for this order (derived),18500.00,>= 0,No,Revenue base
+orders,shipping_fee,float,Shipping charge (waived above INR499 subtotal),49.00,>= 0,No,Revenue component
+orders,tax_amount,float,Approximate 5% GST on subtotal,925.00,>= 0,No,Revenue component
+orders,final_amount,float,subtotal + shipping_fee + tax_amount (derived),19474.00,>= 0,No,Order value / revenue target
+orders,campaign_id,string,"Marketing campaign active for this channel/date, if any",CAMP1042,FK -> marketing_campaigns or null,Yes,Marketing attribution
+order_items,order_item_id,string,Unique line-item identifier,OI10000001,OIxxxxxxxx,No,Primary key
+order_items,order_id,string,Parent order,ORD1000001,FK -> orders,No,Relationship
+order_items,product_id,string,Product purchased,PROD10001,FK -> products,No,Relationship
+order_items,quantity,int,Units purchased of this product in this order,2,1-8,No,Volume
+order_items,unit_price,float,Product list price at time of purchase,2499.00,> 0,No,Pricing
+order_items,discount_percentage,float,Line-item discount percentage,15.0,0-60,No,Pricing
+order_items,item_revenue,float,quantity * discounted unit price (derived),4248.30,>= 0,No,Revenue
+order_items,item_cost,float,quantity * cost_price (derived),2998.80,>= 0,No,Cost
+order_items,profit,float,item_revenue - item_cost (derived),1249.50,can be negative,No,Profitability target
+payments,payment_id,string,Unique payment record identifier,PAY1000001,PAYxxxxxxx,No,Primary key
+payments,order_id,string,Order being paid for,ORD1000001,FK -> orders,No,Relationship
+payments,payment_date,date,Date payment was processed,2024-11-01,2023-01-01 to 2025-12-31,No,Transaction timestamp
+payments,payment_method,string,Method used,UPI,10 methods,No,Payments analytics
+payments,payment_status,string,Outcome of the payment,Success,Success/Pending/Failed/Refunded/Not Charged,No,Fraud/ops target
+payments,amount_paid,float,Amount actually captured,19474.00,>= 0,No,Cashflow
+payments,transaction_fee,float,Payment-gateway fee charged to merchant,292.11,>= 0,No,Cost
+payments,refund_amount,float,"Amount refunded, if any (<= amount that could be paid)",0.00,>= 0,No,Cashflow
+shipments,shipment_id,string,Unique shipment identifier,SHIP1000001,SHIPxxxxxxx,No,Primary key
+shipments,order_id,string,Associated order,ORD1000001,FK -> orders,No,Relationship
+shipments,warehouse_city,string,Dispatching warehouse hub,Mumbai,8 hub cities,No,Fulfillment
+shipments,delivery_city,string,Destination city,Pune,31 cities,No,Geography
+shipments,shipping_method,string,Method used for this shipment,Express,5 methods,No,Fulfillment
+shipments,dispatch_date,date,Date parcel left warehouse,2024-11-02,2023-01-01 to 2025-12-31,No,Fulfillment - available pre-delivery
+shipments,expected_delivery_date,date,SLA-promised delivery date (available at order time),2024-11-04,2023-01-01 to 2025-12-31,No,"Feature for delay-prediction (safe, no leakage)"
+shipments,actual_delivery_date,date,Date parcel was actually delivered,2024-11-05,date or null (cancelled-in-transit),Yes,TARGET / leakage risk - do not use as an input feature to predict delayed_flag
+shipments,delivery_days,float,"actual_delivery_date - dispatch_date, in days",3,>= 0 or null,Yes,"Derived from actual date - leakage risk, same caution as actual_delivery_date"
+shipments,delivery_status,string,Final shipment outcome,Delivered,Delivered/Delivered then Returned/Cancelled in Transit,No,Fulfillment outcome
+shipments,delayed_flag,int (0/1),1 if actual_delivery_date > expected_delivery_date,0,0/1,No,TARGET variable for delay prediction
+returns,return_id,string,Unique return record identifier,RET100001,RETxxxxxx,No,Primary key
+returns,order_id,string,Order the return belongs to,ORD1000001,FK -> orders,No,Relationship
+returns,customer_id,string,Customer who returned the item,CUST100001,FK -> customers,No,Relationship
+returns,product_id,string,Product returned,PROD10001,FK -> products,No,Relationship
+returns,return_date,date,Date return was initiated,2024-11-10,2023-01-01 to 2025-12-31,No,Transaction timestamp
+returns,return_reason,string,Stated reason for return,Size issue,8 reasons,No,Return-driver analysis
+returns,refund_amount,float,Amount refunded for this return (<= item_revenue),2499.00,>= 0,No,Cashflow
+returns,return_status,string,Current status of the return,Refund Completed,Approved/Rejected/Pending/Refund Completed,No,Ops target
+customer_reviews,review_id,string,Unique review identifier,REV100001,REVxxxxxx,No,Primary key
+customer_reviews,order_id,string,Order the review is linked to,ORD1000001,FK -> orders,No,Relationship
+customer_reviews,customer_id,string,Reviewer,CUST100001,FK -> customers,No,Relationship
+customer_reviews,product_id,string,Product reviewed,PROD10001,FK -> products,No,Relationship
+customer_reviews,review_date,date,Date review was posted,2024-11-20,2023-01-01 to 2025-12-31,No,Transaction timestamp
+customer_reviews,rating,int,Star rating given,4,1-5,No,Satisfaction target
+customer_reviews,review_sentiment,string,Sentiment label derived from rating,Positive,Positive/Neutral/Negative,Yes (~0.3%),NLP / sentiment target
+customer_reviews,verified_purchase,bool,Whether review came from a verified purchase,True,True/False,No,Trust signal
+marketing_campaigns,campaign_id,string,Unique campaign identifier,CAMP1001,CAMPxxxx,No,Primary key
+marketing_campaigns,campaign_name,string,Human-readable campaign name,Paid Search Flash Sale Nov 2024,free text,No,Marketing catalog
+marketing_campaigns,channel,string,Marketing channel used,Paid Search,10 channels,No,Attribution
+marketing_campaigns,campaign_start_date,date,Campaign start date,2024-11-01,2023-01-01 to 2025-12-31,No,Campaign window
+marketing_campaigns,campaign_end_date,date,Campaign end date,2024-11-15,2023-01-01 to 2025-12-31,No,Campaign window
+marketing_campaigns,campaign_type,string,Type of campaign,Flash Sale,8 types,No,Marketing catalog
+marketing_campaigns,target_segment,string,Intended customer segment,Premium,Premium/Regular/Budget/New/All,No,Targeting
+marketing_campaigns,discount_percentage,float,Headline discount offered,20.0,5-30,No,Promotions
+marketing_campaigns,impressions,int,Estimated ad impressions (derived from conversions & channel CTR/CVR assumptions),185000,>= 0,No,Marketing funnel
+marketing_campaigns,clicks,int,Estimated clicks (derived),9200,>= 0,No,Marketing funnel
+marketing_campaigns,conversions,int,Actual orders attributed to this campaign (from orders table),410,>= 0,No,Marketing funnel - ground truth
+marketing_campaigns,campaign_cost,float,Estimated media spend for the campaign,58400.00,>= 0,No,Marketing cost
+marketing_campaigns,revenue_generated,float,Sum of final_amount for attributed orders (from orders table),512300.00,>= 0,No,Marketing ROI - ground truth
+marketing_campaigns,roi,float,(revenue_generated - campaign_cost) / campaign_cost,7.77,can be negative,No,Marketing performance
