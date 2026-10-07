@@ -1,0 +1,1101 @@
+image_id,product_id,image_path,image_type,category,subcategory,brand,variant,source_type,cv_ready
+IMG000001_1,PROD10000,product_images/IMG000001_1.png,synthetic_product_visual,Grocery,Staples,Sen,1,semi_synthetic_for_cv_development,True
+IMG000001_2,PROD10000,product_images/IMG000001_2.png,synthetic_product_visual,Grocery,Staples,Sen,2,semi_synthetic_for_cv_development,True
+IMG000002_1,PROD10001,product_images/IMG000002_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Gupta-Chandra,1,semi_synthetic_for_cv_development,True
+IMG000002_2,PROD10001,product_images/IMG000002_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Gupta-Chandra,2,semi_synthetic_for_cv_development,True
+IMG000003_1,PROD10002,product_images/IMG000003_1.png,synthetic_product_visual,Footwear,Women's Casual,"Murty,",1,semi_synthetic_for_cv_development,True
+IMG000003_2,PROD10002,product_images/IMG000003_2.png,synthetic_product_visual,Footwear,Women's Casual,"Murty,",2,semi_synthetic_for_cv_development,True
+IMG000004_1,PROD10003,product_images/IMG000004_1.png,synthetic_product_visual,Home & Kitchen,Bedding,Madan-Kanda,1,semi_synthetic_for_cv_development,True
+IMG000004_2,PROD10003,product_images/IMG000004_2.png,synthetic_product_visual,Home & Kitchen,Bedding,Madan-Kanda,2,semi_synthetic_for_cv_development,True
+IMG000005_1,PROD10004,product_images/IMG000005_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Sami,",1,semi_synthetic_for_cv_development,True
+IMG000005_2,PROD10004,product_images/IMG000005_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Sami,",2,semi_synthetic_for_cv_development,True
+IMG000006_1,PROD10005,product_images/IMG000006_1.png,synthetic_product_visual,Beauty,Skincare,Bhatt,1,semi_synthetic_for_cv_development,True
+IMG000006_2,PROD10005,product_images/IMG000006_2.png,synthetic_product_visual,Beauty,Skincare,Bhatt,2,semi_synthetic_for_cv_development,True
+IMG000007_1,PROD10006,product_images/IMG000007_1.png,synthetic_product_visual,Sports,Cycling,Sen,1,semi_synthetic_for_cv_development,True
+IMG000007_2,PROD10006,product_images/IMG000007_2.png,synthetic_product_visual,Sports,Cycling,Sen,2,semi_synthetic_for_cv_development,True
+IMG000008_1,PROD10007,product_images/IMG000008_1.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Gara-Chad,1,semi_synthetic_for_cv_development,True
+IMG000008_2,PROD10007,product_images/IMG000008_2.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Gara-Chad,2,semi_synthetic_for_cv_development,True
+IMG000009_1,PROD10008,product_images/IMG000009_1.png,synthetic_product_visual,Grocery,Snacks,Sabharwal-Kothari,1,semi_synthetic_for_cv_development,True
+IMG000009_2,PROD10008,product_images/IMG000009_2.png,synthetic_product_visual,Grocery,Snacks,Sabharwal-Kothari,2,semi_synthetic_for_cv_development,True
+IMG000010_1,PROD10009,product_images/IMG000010_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Kapoor,1,semi_synthetic_for_cv_development,True
+IMG000010_2,PROD10009,product_images/IMG000010_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Kapoor,2,semi_synthetic_for_cv_development,True
+IMG000011_1,PROD10010,product_images/IMG000011_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Virk,",1,semi_synthetic_for_cv_development,True
+IMG000011_2,PROD10010,product_images/IMG000011_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Virk,",2,semi_synthetic_for_cv_development,True
+IMG000012_1,PROD10011,product_images/IMG000012_1.png,synthetic_product_visual,Footwear,Women's Casual,Bhatt,1,semi_synthetic_for_cv_development,True
+IMG000012_2,PROD10011,product_images/IMG000012_2.png,synthetic_product_visual,Footwear,Women's Casual,Bhatt,2,semi_synthetic_for_cv_development,True
+IMG000013_1,PROD10012,product_images/IMG000013_1.png,synthetic_product_visual,Appliances,Kitchen Appliances,"Nair,",1,semi_synthetic_for_cv_development,True
+IMG000013_2,PROD10012,product_images/IMG000013_2.png,synthetic_product_visual,Appliances,Kitchen Appliances,"Nair,",2,semi_synthetic_for_cv_development,True
+IMG000014_1,PROD10013,product_images/IMG000014_1.png,synthetic_product_visual,Bags,Backpacks,Andra,1,semi_synthetic_for_cv_development,True
+IMG000014_2,PROD10013,product_images/IMG000014_2.png,synthetic_product_visual,Bags,Backpacks,Andra,2,semi_synthetic_for_cv_development,True
+IMG000015_1,PROD10014,product_images/IMG000015_1.png,synthetic_product_visual,Grocery,Packaged Food,Handa,1,semi_synthetic_for_cv_development,True
+IMG000015_2,PROD10014,product_images/IMG000015_2.png,synthetic_product_visual,Grocery,Packaged Food,Handa,2,semi_synthetic_for_cv_development,True
+IMG000016_1,PROD10015,product_images/IMG000016_1.png,synthetic_product_visual,Furniture,Storage,"Nagy,",1,semi_synthetic_for_cv_development,True
+IMG000016_2,PROD10015,product_images/IMG000016_2.png,synthetic_product_visual,Furniture,Storage,"Nagy,",2,semi_synthetic_for_cv_development,True
+IMG000017_1,PROD10016,product_images/IMG000017_1.png,synthetic_product_visual,Appliances,Fans & Coolers,"Loke,",1,semi_synthetic_for_cv_development,True
+IMG000017_2,PROD10016,product_images/IMG000017_2.png,synthetic_product_visual,Appliances,Fans & Coolers,"Loke,",2,semi_synthetic_for_cv_development,True
+IMG000018_1,PROD10017,product_images/IMG000018_1.png,synthetic_product_visual,Books,Academic,"Chaudhry,",1,semi_synthetic_for_cv_development,True
+IMG000018_2,PROD10017,product_images/IMG000018_2.png,synthetic_product_visual,Books,Academic,"Chaudhry,",2,semi_synthetic_for_cv_development,True
+IMG000019_1,PROD10018,product_images/IMG000019_1.png,synthetic_product_visual,Books,Non-Fiction,Rai,1,semi_synthetic_for_cv_development,True
+IMG000019_2,PROD10018,product_images/IMG000019_2.png,synthetic_product_visual,Books,Non-Fiction,Rai,2,semi_synthetic_for_cv_development,True
+IMG000020_1,PROD10019,product_images/IMG000020_1.png,synthetic_product_visual,Home & Kitchen,Dinnerware,Kala-Rattan,1,semi_synthetic_for_cv_development,True
+IMG000020_2,PROD10019,product_images/IMG000020_2.png,synthetic_product_visual,Home & Kitchen,Dinnerware,Kala-Rattan,2,semi_synthetic_for_cv_development,True
+IMG000021_1,PROD10020,product_images/IMG000021_1.png,synthetic_product_visual,Books,Non-Fiction,Bhatti-Kakar,1,semi_synthetic_for_cv_development,True
+IMG000021_2,PROD10020,product_images/IMG000021_2.png,synthetic_product_visual,Books,Non-Fiction,Bhatti-Kakar,2,semi_synthetic_for_cv_development,True
+IMG000022_1,PROD10021,product_images/IMG000022_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Barad-Singhal,1,semi_synthetic_for_cv_development,True
+IMG000022_2,PROD10021,product_images/IMG000022_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Barad-Singhal,2,semi_synthetic_for_cv_development,True
+IMG000023_1,PROD10022,product_images/IMG000023_1.png,synthetic_product_visual,Furniture,Office Furniture,"Cherian,",1,semi_synthetic_for_cv_development,True
+IMG000023_2,PROD10022,product_images/IMG000023_2.png,synthetic_product_visual,Furniture,Office Furniture,"Cherian,",2,semi_synthetic_for_cv_development,True
+IMG000024_1,PROD10023,product_images/IMG000024_1.png,synthetic_product_visual,Mobile Accessories,Phone Cases,"Prakash,",1,semi_synthetic_for_cv_development,True
+IMG000024_2,PROD10023,product_images/IMG000024_2.png,synthetic_product_visual,Mobile Accessories,Phone Cases,"Prakash,",2,semi_synthetic_for_cv_development,True
+IMG000025_1,PROD10024,product_images/IMG000025_1.png,synthetic_product_visual,Beauty,Haircare,Patla-Gaba,1,semi_synthetic_for_cv_development,True
+IMG000025_2,PROD10024,product_images/IMG000025_2.png,synthetic_product_visual,Beauty,Haircare,Patla-Gaba,2,semi_synthetic_for_cv_development,True
+IMG000026_1,PROD10025,product_images/IMG000026_1.png,synthetic_product_visual,Grocery,Snacks,Kade-Sani,1,semi_synthetic_for_cv_development,True
+IMG000026_2,PROD10025,product_images/IMG000026_2.png,synthetic_product_visual,Grocery,Snacks,Kade-Sani,2,semi_synthetic_for_cv_development,True
+IMG000027_1,PROD10026,product_images/IMG000027_1.png,synthetic_product_visual,Bags,Handbags,"Cherian,",1,semi_synthetic_for_cv_development,True
+IMG000027_2,PROD10026,product_images/IMG000027_2.png,synthetic_product_visual,Bags,Handbags,"Cherian,",2,semi_synthetic_for_cv_development,True
+IMG000028_1,PROD10027,product_images/IMG000028_1.png,synthetic_product_visual,Mobile Accessories,Power Banks,Mallick,1,semi_synthetic_for_cv_development,True
+IMG000028_2,PROD10027,product_images/IMG000028_2.png,synthetic_product_visual,Mobile Accessories,Power Banks,Mallick,2,semi_synthetic_for_cv_development,True
+IMG000029_1,PROD10028,product_images/IMG000029_1.png,synthetic_product_visual,Beauty,Makeup,Grewal,1,semi_synthetic_for_cv_development,True
+IMG000029_2,PROD10028,product_images/IMG000029_2.png,synthetic_product_visual,Beauty,Makeup,Grewal,2,semi_synthetic_for_cv_development,True
+IMG000030_1,PROD10029,product_images/IMG000030_1.png,synthetic_product_visual,Office Supplies,Printers,"Sami,",1,semi_synthetic_for_cv_development,True
+IMG000030_2,PROD10029,product_images/IMG000030_2.png,synthetic_product_visual,Office Supplies,Printers,"Sami,",2,semi_synthetic_for_cv_development,True
+IMG000031_1,PROD10030,product_images/IMG000031_1.png,synthetic_product_visual,Electronics,Smartwatches,"Sen,",1,semi_synthetic_for_cv_development,True
+IMG000031_2,PROD10030,product_images/IMG000031_2.png,synthetic_product_visual,Electronics,Smartwatches,"Sen,",2,semi_synthetic_for_cv_development,True
+IMG000032_1,PROD10031,product_images/IMG000032_1.png,synthetic_product_visual,Bags,Handbags,Shah,1,semi_synthetic_for_cv_development,True
+IMG000032_2,PROD10031,product_images/IMG000032_2.png,synthetic_product_visual,Bags,Handbags,Shah,2,semi_synthetic_for_cv_development,True
+IMG000033_1,PROD10032,product_images/IMG000033_1.png,synthetic_product_visual,Books,Academic,Dara-Kota,1,semi_synthetic_for_cv_development,True
+IMG000033_2,PROD10032,product_images/IMG000033_2.png,synthetic_product_visual,Books,Academic,Dara-Kota,2,semi_synthetic_for_cv_development,True
+IMG000034_1,PROD10033,product_images/IMG000034_1.png,synthetic_product_visual,Fashion,Women's Western Wear,"Kade,",1,semi_synthetic_for_cv_development,True
+IMG000034_2,PROD10033,product_images/IMG000034_2.png,synthetic_product_visual,Fashion,Women's Western Wear,"Kade,",2,semi_synthetic_for_cv_development,True
+IMG000035_1,PROD10034,product_images/IMG000035_1.png,synthetic_product_visual,Electronics,Smartwatches,Apte-Contractor,1,semi_synthetic_for_cv_development,True
+IMG000035_2,PROD10034,product_images/IMG000035_2.png,synthetic_product_visual,Electronics,Smartwatches,Apte-Contractor,2,semi_synthetic_for_cv_development,True
+IMG000036_1,PROD10035,product_images/IMG000036_1.png,synthetic_product_visual,Health & Wellness,Supplements,Sankar,1,semi_synthetic_for_cv_development,True
+IMG000036_2,PROD10035,product_images/IMG000036_2.png,synthetic_product_visual,Health & Wellness,Supplements,Sankar,2,semi_synthetic_for_cv_development,True
+IMG000037_1,PROD10036,product_images/IMG000037_1.png,synthetic_product_visual,Furniture,Office Furniture,Goda,1,semi_synthetic_for_cv_development,True
+IMG000037_2,PROD10036,product_images/IMG000037_2.png,synthetic_product_visual,Furniture,Office Furniture,Goda,2,semi_synthetic_for_cv_development,True
+IMG000038_1,PROD10037,product_images/IMG000038_1.png,synthetic_product_visual,Fashion,Kids Wear,Behl-Chanda,1,semi_synthetic_for_cv_development,True
+IMG000038_2,PROD10037,product_images/IMG000038_2.png,synthetic_product_visual,Fashion,Kids Wear,Behl-Chanda,2,semi_synthetic_for_cv_development,True
+IMG000039_1,PROD10038,product_images/IMG000039_1.png,synthetic_product_visual,Stationery,Pens & Pencils,Sidhu-Wadhwa,1,semi_synthetic_for_cv_development,True
+IMG000039_2,PROD10038,product_images/IMG000039_2.png,synthetic_product_visual,Stationery,Pens & Pencils,Sidhu-Wadhwa,2,semi_synthetic_for_cv_development,True
+IMG000040_1,PROD10039,product_images/IMG000040_1.png,synthetic_product_visual,Furniture,Storage,"Nair,",1,semi_synthetic_for_cv_development,True
+IMG000040_2,PROD10039,product_images/IMG000040_2.png,synthetic_product_visual,Furniture,Storage,"Nair,",2,semi_synthetic_for_cv_development,True
+IMG000041_1,PROD10040,product_images/IMG000041_1.png,synthetic_product_visual,Grocery,Staples,Setty,1,semi_synthetic_for_cv_development,True
+IMG000041_2,PROD10040,product_images/IMG000041_2.png,synthetic_product_visual,Grocery,Staples,Setty,2,semi_synthetic_for_cv_development,True
+IMG000042_1,PROD10041,product_images/IMG000042_1.png,synthetic_product_visual,Toys,Action Figures,Morar,1,semi_synthetic_for_cv_development,True
+IMG000042_2,PROD10041,product_images/IMG000042_2.png,synthetic_product_visual,Toys,Action Figures,Morar,2,semi_synthetic_for_cv_development,True
+IMG000043_1,PROD10042,product_images/IMG000043_1.png,synthetic_product_visual,Beauty,Skincare,"Mistry,",1,semi_synthetic_for_cv_development,True
+IMG000043_2,PROD10042,product_images/IMG000043_2.png,synthetic_product_visual,Beauty,Skincare,"Mistry,",2,semi_synthetic_for_cv_development,True
+IMG000044_1,PROD10043,product_images/IMG000044_1.png,synthetic_product_visual,Electronics,Cameras,Bajwa,1,semi_synthetic_for_cv_development,True
+IMG000044_2,PROD10043,product_images/IMG000044_2.png,synthetic_product_visual,Electronics,Cameras,Bajwa,2,semi_synthetic_for_cv_development,True
+IMG000045_1,PROD10044,product_images/IMG000045_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Keer,1,semi_synthetic_for_cv_development,True
+IMG000045_2,PROD10044,product_images/IMG000045_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Keer,2,semi_synthetic_for_cv_development,True
+IMG000046_1,PROD10045,product_images/IMG000046_1.png,synthetic_product_visual,Beauty,Skincare,"Nagy,",1,semi_synthetic_for_cv_development,True
+IMG000046_2,PROD10045,product_images/IMG000046_2.png,synthetic_product_visual,Beauty,Skincare,"Nagy,",2,semi_synthetic_for_cv_development,True
+IMG000047_1,PROD10046,product_images/IMG000047_1.png,synthetic_product_visual,Fashion,Winter Wear,"Virk,",1,semi_synthetic_for_cv_development,True
+IMG000047_2,PROD10046,product_images/IMG000047_2.png,synthetic_product_visual,Fashion,Winter Wear,"Virk,",2,semi_synthetic_for_cv_development,True
+IMG000048_1,PROD10047,product_images/IMG000048_1.png,synthetic_product_visual,Furniture,Office Furniture,"Ray,",1,semi_synthetic_for_cv_development,True
+IMG000048_2,PROD10047,product_images/IMG000048_2.png,synthetic_product_visual,Furniture,Office Furniture,"Ray,",2,semi_synthetic_for_cv_development,True
+IMG000049_1,PROD10048,product_images/IMG000049_1.png,synthetic_product_visual,Sports,Cricket Gear,"Choudhury,",1,semi_synthetic_for_cv_development,True
+IMG000049_2,PROD10048,product_images/IMG000049_2.png,synthetic_product_visual,Sports,Cricket Gear,"Choudhury,",2,semi_synthetic_for_cv_development,True
+IMG000050_1,PROD10049,product_images/IMG000050_1.png,synthetic_product_visual,Electronics,Tablets,Handa,1,semi_synthetic_for_cv_development,True
+IMG000050_2,PROD10049,product_images/IMG000050_2.png,synthetic_product_visual,Electronics,Tablets,Handa,2,semi_synthetic_for_cv_development,True
+IMG000051_1,PROD10050,product_images/IMG000051_1.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Boase-Narayanan,1,semi_synthetic_for_cv_development,True
+IMG000051_2,PROD10050,product_images/IMG000051_2.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Boase-Narayanan,2,semi_synthetic_for_cv_development,True
+IMG000052_1,PROD10051,product_images/IMG000052_1.png,synthetic_product_visual,Fashion,Winter Wear,Ramakrishnan,1,semi_synthetic_for_cv_development,True
+IMG000052_2,PROD10051,product_images/IMG000052_2.png,synthetic_product_visual,Fashion,Winter Wear,Ramakrishnan,2,semi_synthetic_for_cv_development,True
+IMG000053_1,PROD10052,product_images/IMG000053_1.png,synthetic_product_visual,Beauty,Makeup,Setty,1,semi_synthetic_for_cv_development,True
+IMG000053_2,PROD10052,product_images/IMG000053_2.png,synthetic_product_visual,Beauty,Makeup,Setty,2,semi_synthetic_for_cv_development,True
+IMG000054_1,PROD10053,product_images/IMG000054_1.png,synthetic_product_visual,Personal Care,Oral Care,Kala-Vaidya,1,semi_synthetic_for_cv_development,True
+IMG000054_2,PROD10053,product_images/IMG000054_2.png,synthetic_product_visual,Personal Care,Oral Care,Kala-Vaidya,2,semi_synthetic_for_cv_development,True
+IMG000055_1,PROD10054,product_images/IMG000055_1.png,synthetic_product_visual,Appliances,Kitchen Appliances,Thaman-Sandhu,1,semi_synthetic_for_cv_development,True
+IMG000055_2,PROD10054,product_images/IMG000055_2.png,synthetic_product_visual,Appliances,Kitchen Appliances,Thaman-Sandhu,2,semi_synthetic_for_cv_development,True
+IMG000056_1,PROD10055,product_images/IMG000056_1.png,synthetic_product_visual,Watches,Smart Watches,Kaul,1,semi_synthetic_for_cv_development,True
+IMG000056_2,PROD10055,product_images/IMG000056_2.png,synthetic_product_visual,Watches,Smart Watches,Kaul,2,semi_synthetic_for_cv_development,True
+IMG000057_1,PROD10056,product_images/IMG000057_1.png,synthetic_product_visual,Pet Supplies,Pet Accessories,"Sur,",1,semi_synthetic_for_cv_development,True
+IMG000057_2,PROD10056,product_images/IMG000057_2.png,synthetic_product_visual,Pet Supplies,Pet Accessories,"Sur,",2,semi_synthetic_for_cv_development,True
+IMG000058_1,PROD10057,product_images/IMG000058_1.png,synthetic_product_visual,Home & Kitchen,Cookware,"Solanki,",1,semi_synthetic_for_cv_development,True
+IMG000058_2,PROD10057,product_images/IMG000058_2.png,synthetic_product_visual,Home & Kitchen,Cookware,"Solanki,",2,semi_synthetic_for_cv_development,True
+IMG000059_1,PROD10058,product_images/IMG000059_1.png,synthetic_product_visual,Electronics,Smartphones,"Konda,",1,semi_synthetic_for_cv_development,True
+IMG000059_2,PROD10058,product_images/IMG000059_2.png,synthetic_product_visual,Electronics,Smartphones,"Konda,",2,semi_synthetic_for_cv_development,True
+IMG000060_1,PROD10059,product_images/IMG000060_1.png,synthetic_product_visual,Bags,Wallets,Rai,1,semi_synthetic_for_cv_development,True
+IMG000060_2,PROD10059,product_images/IMG000060_2.png,synthetic_product_visual,Bags,Wallets,Rai,2,semi_synthetic_for_cv_development,True
+IMG000061_1,PROD10060,product_images/IMG000061_1.png,synthetic_product_visual,Mobile Accessories,Cables,Batta,1,semi_synthetic_for_cv_development,True
+IMG000061_2,PROD10060,product_images/IMG000061_2.png,synthetic_product_visual,Mobile Accessories,Cables,Batta,2,semi_synthetic_for_cv_development,True
+IMG000062_1,PROD10061,product_images/IMG000062_1.png,synthetic_product_visual,Fashion,Women's Western Wear,Varma-Nayak,1,semi_synthetic_for_cv_development,True
+IMG000062_2,PROD10061,product_images/IMG000062_2.png,synthetic_product_visual,Fashion,Women's Western Wear,Varma-Nayak,2,semi_synthetic_for_cv_development,True
+IMG000063_1,PROD10062,product_images/IMG000063_1.png,synthetic_product_visual,Beauty,Haircare,Acharya-Modi,1,semi_synthetic_for_cv_development,True
+IMG000063_2,PROD10062,product_images/IMG000063_2.png,synthetic_product_visual,Beauty,Haircare,Acharya-Modi,2,semi_synthetic_for_cv_development,True
+IMG000064_1,PROD10063,product_images/IMG000064_1.png,synthetic_product_visual,Electronics,Smartwatches,Dara-Kota,1,semi_synthetic_for_cv_development,True
+IMG000064_2,PROD10063,product_images/IMG000064_2.png,synthetic_product_visual,Electronics,Smartwatches,Dara-Kota,2,semi_synthetic_for_cv_development,True
+IMG000065_1,PROD10064,product_images/IMG000065_1.png,synthetic_product_visual,Baby Care,Baby Gear,"Sampath,",1,semi_synthetic_for_cv_development,True
+IMG000065_2,PROD10064,product_images/IMG000065_2.png,synthetic_product_visual,Baby Care,Baby Gear,"Sampath,",2,semi_synthetic_for_cv_development,True
+IMG000066_1,PROD10065,product_images/IMG000066_1.png,synthetic_product_visual,Sports,Yoga,Behl-Chanda,1,semi_synthetic_for_cv_development,True
+IMG000066_2,PROD10065,product_images/IMG000066_2.png,synthetic_product_visual,Sports,Yoga,Behl-Chanda,2,semi_synthetic_for_cv_development,True
+IMG000067_1,PROD10066,product_images/IMG000067_1.png,synthetic_product_visual,Fashion,Winter Wear,Pingle,1,semi_synthetic_for_cv_development,True
+IMG000067_2,PROD10066,product_images/IMG000067_2.png,synthetic_product_visual,Fashion,Winter Wear,Pingle,2,semi_synthetic_for_cv_development,True
+IMG000068_1,PROD10067,product_images/IMG000068_1.png,synthetic_product_visual,Footwear,Formal Shoes,Dutta-Chokshi,1,semi_synthetic_for_cv_development,True
+IMG000068_2,PROD10067,product_images/IMG000068_2.png,synthetic_product_visual,Footwear,Formal Shoes,Dutta-Chokshi,2,semi_synthetic_for_cv_development,True
+IMG000069_1,PROD10068,product_images/IMG000069_1.png,synthetic_product_visual,Grocery,Snacks,Amble,1,semi_synthetic_for_cv_development,True
+IMG000069_2,PROD10068,product_images/IMG000069_2.png,synthetic_product_visual,Grocery,Snacks,Amble,2,semi_synthetic_for_cv_development,True
+IMG000070_1,PROD10069,product_images/IMG000070_1.png,synthetic_product_visual,Books,Academic,"Bala,",1,semi_synthetic_for_cv_development,True
+IMG000070_2,PROD10069,product_images/IMG000070_2.png,synthetic_product_visual,Books,Academic,"Bala,",2,semi_synthetic_for_cv_development,True
+IMG000071_1,PROD10070,product_images/IMG000071_1.png,synthetic_product_visual,Fashion,Kids Wear,"Bhargava,",1,semi_synthetic_for_cv_development,True
+IMG000071_2,PROD10070,product_images/IMG000071_2.png,synthetic_product_visual,Fashion,Kids Wear,"Bhargava,",2,semi_synthetic_for_cv_development,True
+IMG000072_1,PROD10071,product_images/IMG000072_1.png,synthetic_product_visual,Electronics,Laptops,Kapoor,1,semi_synthetic_for_cv_development,True
+IMG000072_2,PROD10071,product_images/IMG000072_2.png,synthetic_product_visual,Electronics,Laptops,Kapoor,2,semi_synthetic_for_cv_development,True
+IMG000073_1,PROD10072,product_images/IMG000073_1.png,synthetic_product_visual,Electronics,Tablets,"Boase,",1,semi_synthetic_for_cv_development,True
+IMG000073_2,PROD10072,product_images/IMG000073_2.png,synthetic_product_visual,Electronics,Tablets,"Boase,",2,semi_synthetic_for_cv_development,True
+IMG000074_1,PROD10073,product_images/IMG000074_1.png,synthetic_product_visual,Automotive Accessories,Car Accessories,"Sami,",1,semi_synthetic_for_cv_development,True
+IMG000074_2,PROD10073,product_images/IMG000074_2.png,synthetic_product_visual,Automotive Accessories,Car Accessories,"Sami,",2,semi_synthetic_for_cv_development,True
+IMG000075_1,PROD10074,product_images/IMG000075_1.png,synthetic_product_visual,Health & Wellness,Supplements,"More,",1,semi_synthetic_for_cv_development,True
+IMG000075_2,PROD10074,product_images/IMG000075_2.png,synthetic_product_visual,Health & Wellness,Supplements,"More,",2,semi_synthetic_for_cv_development,True
+IMG000076_1,PROD10075,product_images/IMG000076_1.png,synthetic_product_visual,Grocery,Beverages,"Lanka,",1,semi_synthetic_for_cv_development,True
+IMG000076_2,PROD10075,product_images/IMG000076_2.png,synthetic_product_visual,Grocery,Beverages,"Lanka,",2,semi_synthetic_for_cv_development,True
+IMG000077_1,PROD10076,product_images/IMG000077_1.png,synthetic_product_visual,Health & Wellness,Medical Devices,Dutta,1,semi_synthetic_for_cv_development,True
+IMG000077_2,PROD10076,product_images/IMG000077_2.png,synthetic_product_visual,Health & Wellness,Medical Devices,Dutta,2,semi_synthetic_for_cv_development,True
+IMG000078_1,PROD10077,product_images/IMG000078_1.png,synthetic_product_visual,Bags,Wallets,Gupta-Chandra,1,semi_synthetic_for_cv_development,True
+IMG000078_2,PROD10077,product_images/IMG000078_2.png,synthetic_product_visual,Bags,Wallets,Gupta-Chandra,2,semi_synthetic_for_cv_development,True
+IMG000079_1,PROD10078,product_images/IMG000079_1.png,synthetic_product_visual,Fashion,Women's Western Wear,"Sunder,",1,semi_synthetic_for_cv_development,True
+IMG000079_2,PROD10078,product_images/IMG000079_2.png,synthetic_product_visual,Fashion,Women's Western Wear,"Sunder,",2,semi_synthetic_for_cv_development,True
+IMG000080_1,PROD10079,product_images/IMG000080_1.png,synthetic_product_visual,Home & Kitchen,Cookware,"Krish,",1,semi_synthetic_for_cv_development,True
+IMG000080_2,PROD10079,product_images/IMG000080_2.png,synthetic_product_visual,Home & Kitchen,Cookware,"Krish,",2,semi_synthetic_for_cv_development,True
+IMG000081_1,PROD10080,product_images/IMG000081_1.png,synthetic_product_visual,Fashion,Women's Western Wear,"Sane,",1,semi_synthetic_for_cv_development,True
+IMG000081_2,PROD10080,product_images/IMG000081_2.png,synthetic_product_visual,Fashion,Women's Western Wear,"Sane,",2,semi_synthetic_for_cv_development,True
+IMG000082_1,PROD10081,product_images/IMG000082_1.png,synthetic_product_visual,Sports,Fitness Equipment,Bhatti-Kakar,1,semi_synthetic_for_cv_development,True
+IMG000082_2,PROD10081,product_images/IMG000082_2.png,synthetic_product_visual,Sports,Fitness Equipment,Bhatti-Kakar,2,semi_synthetic_for_cv_development,True
+IMG000083_1,PROD10082,product_images/IMG000083_1.png,synthetic_product_visual,Personal Care,Bath & Body,"Baral,",1,semi_synthetic_for_cv_development,True
+IMG000083_2,PROD10082,product_images/IMG000083_2.png,synthetic_product_visual,Personal Care,Bath & Body,"Baral,",2,semi_synthetic_for_cv_development,True
+IMG000084_1,PROD10083,product_images/IMG000084_1.png,synthetic_product_visual,Mobile Accessories,Cables,Dave,1,semi_synthetic_for_cv_development,True
+IMG000084_2,PROD10083,product_images/IMG000084_2.png,synthetic_product_visual,Mobile Accessories,Cables,Dave,2,semi_synthetic_for_cv_development,True
+IMG000085_1,PROD10084,product_images/IMG000085_1.png,synthetic_product_visual,Fashion,Kids Wear,Sabharwal-Kothari,1,semi_synthetic_for_cv_development,True
+IMG000085_2,PROD10084,product_images/IMG000085_2.png,synthetic_product_visual,Fashion,Kids Wear,Sabharwal-Kothari,2,semi_synthetic_for_cv_development,True
+IMG000086_1,PROD10085,product_images/IMG000086_1.png,synthetic_product_visual,Stationery,Office Stationery,Khatri-Bhardwaj,1,semi_synthetic_for_cv_development,True
+IMG000086_2,PROD10085,product_images/IMG000086_2.png,synthetic_product_visual,Stationery,Office Stationery,Khatri-Bhardwaj,2,semi_synthetic_for_cv_development,True
+IMG000087_1,PROD10086,product_images/IMG000087_1.png,synthetic_product_visual,Grocery,Dairy,Sankar,1,semi_synthetic_for_cv_development,True
+IMG000087_2,PROD10086,product_images/IMG000087_2.png,synthetic_product_visual,Grocery,Dairy,Sankar,2,semi_synthetic_for_cv_development,True
+IMG000088_1,PROD10087,product_images/IMG000088_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,Varma-Nayak,1,semi_synthetic_for_cv_development,True
+IMG000088_2,PROD10087,product_images/IMG000088_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,Varma-Nayak,2,semi_synthetic_for_cv_development,True
+IMG000089_1,PROD10088,product_images/IMG000089_1.png,synthetic_product_visual,Grocery,Staples,Kala-Vaidya,1,semi_synthetic_for_cv_development,True
+IMG000089_2,PROD10088,product_images/IMG000089_2.png,synthetic_product_visual,Grocery,Staples,Kala-Vaidya,2,semi_synthetic_for_cv_development,True
+IMG000090_1,PROD10089,product_images/IMG000090_1.png,synthetic_product_visual,Personal Care,Oral Care,"Khanna,",1,semi_synthetic_for_cv_development,True
+IMG000090_2,PROD10089,product_images/IMG000090_2.png,synthetic_product_visual,Personal Care,Oral Care,"Khanna,",2,semi_synthetic_for_cv_development,True
+IMG000091_1,PROD10090,product_images/IMG000091_1.png,synthetic_product_visual,Stationery,Office Stationery,"Lanka,",1,semi_synthetic_for_cv_development,True
+IMG000091_2,PROD10090,product_images/IMG000091_2.png,synthetic_product_visual,Stationery,Office Stationery,"Lanka,",2,semi_synthetic_for_cv_development,True
+IMG000092_1,PROD10091,product_images/IMG000092_1.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Behl-Chanda,1,semi_synthetic_for_cv_development,True
+IMG000092_2,PROD10091,product_images/IMG000092_2.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Behl-Chanda,2,semi_synthetic_for_cv_development,True
+IMG000093_1,PROD10092,product_images/IMG000093_1.png,synthetic_product_visual,Grocery,Snacks,"Mittal,",1,semi_synthetic_for_cv_development,True
+IMG000093_2,PROD10092,product_images/IMG000093_2.png,synthetic_product_visual,Grocery,Snacks,"Mittal,",2,semi_synthetic_for_cv_development,True
+IMG000094_1,PROD10093,product_images/IMG000094_1.png,synthetic_product_visual,Stationery,Office Stationery,Handa,1,semi_synthetic_for_cv_development,True
+IMG000094_2,PROD10093,product_images/IMG000094_2.png,synthetic_product_visual,Stationery,Office Stationery,Handa,2,semi_synthetic_for_cv_development,True
+IMG000095_1,PROD10094,product_images/IMG000095_1.png,synthetic_product_visual,Stationery,Art Supplies,Morar,1,semi_synthetic_for_cv_development,True
+IMG000095_2,PROD10094,product_images/IMG000095_2.png,synthetic_product_visual,Stationery,Art Supplies,Morar,2,semi_synthetic_for_cv_development,True
+IMG000096_1,PROD10095,product_images/IMG000096_1.png,synthetic_product_visual,Grocery,Packaged Food,"Lanka,",1,semi_synthetic_for_cv_development,True
+IMG000096_2,PROD10095,product_images/IMG000096_2.png,synthetic_product_visual,Grocery,Packaged Food,"Lanka,",2,semi_synthetic_for_cv_development,True
+IMG000097_1,PROD10096,product_images/IMG000097_1.png,synthetic_product_visual,Beauty,Makeup,Gala,1,semi_synthetic_for_cv_development,True
+IMG000097_2,PROD10096,product_images/IMG000097_2.png,synthetic_product_visual,Beauty,Makeup,Gala,2,semi_synthetic_for_cv_development,True
+IMG000098_1,PROD10097,product_images/IMG000098_1.png,synthetic_product_visual,Watches,Analog Watches,"Ahluwalia,",1,semi_synthetic_for_cv_development,True
+IMG000098_2,PROD10097,product_images/IMG000098_2.png,synthetic_product_visual,Watches,Analog Watches,"Ahluwalia,",2,semi_synthetic_for_cv_development,True
+IMG000099_1,PROD10098,product_images/IMG000099_1.png,synthetic_product_visual,Personal Care,Grooming,"Boase,",1,semi_synthetic_for_cv_development,True
+IMG000099_2,PROD10098,product_images/IMG000099_2.png,synthetic_product_visual,Personal Care,Grooming,"Boase,",2,semi_synthetic_for_cv_development,True
+IMG000100_1,PROD10099,product_images/IMG000100_1.png,synthetic_product_visual,Office Supplies,Office Equipment,"Memon,",1,semi_synthetic_for_cv_development,True
+IMG000100_2,PROD10099,product_images/IMG000100_2.png,synthetic_product_visual,Office Supplies,Office Equipment,"Memon,",2,semi_synthetic_for_cv_development,True
+IMG000101_1,PROD10100,product_images/IMG000101_1.png,synthetic_product_visual,Appliances,Fans & Coolers,Sarin,1,semi_synthetic_for_cv_development,True
+IMG000101_2,PROD10100,product_images/IMG000101_2.png,synthetic_product_visual,Appliances,Fans & Coolers,Sarin,2,semi_synthetic_for_cv_development,True
+IMG000102_1,PROD10101,product_images/IMG000102_1.png,synthetic_product_visual,Toys,Action Figures,"Memon,",1,semi_synthetic_for_cv_development,True
+IMG000102_2,PROD10101,product_images/IMG000102_2.png,synthetic_product_visual,Toys,Action Figures,"Memon,",2,semi_synthetic_for_cv_development,True
+IMG000103_1,PROD10102,product_images/IMG000103_1.png,synthetic_product_visual,Electronics,Smartphones,Brar,1,semi_synthetic_for_cv_development,True
+IMG000103_2,PROD10102,product_images/IMG000103_2.png,synthetic_product_visual,Electronics,Smartphones,Brar,2,semi_synthetic_for_cv_development,True
+IMG000104_1,PROD10103,product_images/IMG000104_1.png,synthetic_product_visual,Automotive Accessories,Car Care,Rai,1,semi_synthetic_for_cv_development,True
+IMG000104_2,PROD10103,product_images/IMG000104_2.png,synthetic_product_visual,Automotive Accessories,Car Care,Rai,2,semi_synthetic_for_cv_development,True
+IMG000105_1,PROD10104,product_images/IMG000105_1.png,synthetic_product_visual,Footwear,Women's Casual,Nath,1,semi_synthetic_for_cv_development,True
+IMG000105_2,PROD10104,product_images/IMG000105_2.png,synthetic_product_visual,Footwear,Women's Casual,Nath,2,semi_synthetic_for_cv_development,True
+IMG000106_1,PROD10105,product_images/IMG000106_1.png,synthetic_product_visual,Toys,Action Figures,"Ahluwalia,",1,semi_synthetic_for_cv_development,True
+IMG000106_2,PROD10105,product_images/IMG000106_2.png,synthetic_product_visual,Toys,Action Figures,"Ahluwalia,",2,semi_synthetic_for_cv_development,True
+IMG000107_1,PROD10106,product_images/IMG000107_1.png,synthetic_product_visual,Grocery,Staples,"Loke,",1,semi_synthetic_for_cv_development,True
+IMG000107_2,PROD10106,product_images/IMG000107_2.png,synthetic_product_visual,Grocery,Staples,"Loke,",2,semi_synthetic_for_cv_development,True
+IMG000108_1,PROD10107,product_images/IMG000108_1.png,synthetic_product_visual,Bags,Travel Bags,Nori-Chopra,1,semi_synthetic_for_cv_development,True
+IMG000108_2,PROD10107,product_images/IMG000108_2.png,synthetic_product_visual,Bags,Travel Bags,Nori-Chopra,2,semi_synthetic_for_cv_development,True
+IMG000109_1,PROD10108,product_images/IMG000109_1.png,synthetic_product_visual,Furniture,Office Furniture,"Solanki,",1,semi_synthetic_for_cv_development,True
+IMG000109_2,PROD10108,product_images/IMG000109_2.png,synthetic_product_visual,Furniture,Office Furniture,"Solanki,",2,semi_synthetic_for_cv_development,True
+IMG000110_1,PROD10109,product_images/IMG000110_1.png,synthetic_product_visual,Toys,Soft Toys,Dutta,1,semi_synthetic_for_cv_development,True
+IMG000110_2,PROD10109,product_images/IMG000110_2.png,synthetic_product_visual,Toys,Soft Toys,Dutta,2,semi_synthetic_for_cv_development,True
+IMG000111_1,PROD10110,product_images/IMG000111_1.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Iyengar,1,semi_synthetic_for_cv_development,True
+IMG000111_2,PROD10110,product_images/IMG000111_2.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Iyengar,2,semi_synthetic_for_cv_development,True
+IMG000112_1,PROD10111,product_images/IMG000112_1.png,synthetic_product_visual,Grocery,Staples,"Chaudry,",1,semi_synthetic_for_cv_development,True
+IMG000112_2,PROD10111,product_images/IMG000112_2.png,synthetic_product_visual,Grocery,Staples,"Chaudry,",2,semi_synthetic_for_cv_development,True
+IMG000113_1,PROD10112,product_images/IMG000113_1.png,synthetic_product_visual,Books,Comics,Soman,1,semi_synthetic_for_cv_development,True
+IMG000113_2,PROD10112,product_images/IMG000113_2.png,synthetic_product_visual,Books,Comics,Soman,2,semi_synthetic_for_cv_development,True
+IMG000114_1,PROD10113,product_images/IMG000114_1.png,synthetic_product_visual,Electronics,Smartphones,"Nagy,",1,semi_synthetic_for_cv_development,True
+IMG000114_2,PROD10113,product_images/IMG000114_2.png,synthetic_product_visual,Electronics,Smartphones,"Nagy,",2,semi_synthetic_for_cv_development,True
+IMG000115_1,PROD10114,product_images/IMG000115_1.png,synthetic_product_visual,Office Supplies,Filing & Storage,Handa,1,semi_synthetic_for_cv_development,True
+IMG000115_2,PROD10114,product_images/IMG000115_2.png,synthetic_product_visual,Office Supplies,Filing & Storage,Handa,2,semi_synthetic_for_cv_development,True
+IMG000116_1,PROD10115,product_images/IMG000116_1.png,synthetic_product_visual,Bags,Travel Bags,Rai,1,semi_synthetic_for_cv_development,True
+IMG000116_2,PROD10115,product_images/IMG000116_2.png,synthetic_product_visual,Bags,Travel Bags,Rai,2,semi_synthetic_for_cv_development,True
+IMG000117_1,PROD10116,product_images/IMG000117_1.png,synthetic_product_visual,Electronics,Headphones,Chander,1,semi_synthetic_for_cv_development,True
+IMG000117_2,PROD10116,product_images/IMG000117_2.png,synthetic_product_visual,Electronics,Headphones,Chander,2,semi_synthetic_for_cv_development,True
+IMG000118_1,PROD10117,product_images/IMG000118_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,Gara-Chad,1,semi_synthetic_for_cv_development,True
+IMG000118_2,PROD10117,product_images/IMG000118_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,Gara-Chad,2,semi_synthetic_for_cv_development,True
+IMG000119_1,PROD10118,product_images/IMG000119_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,Acharya-Modi,1,semi_synthetic_for_cv_development,True
+IMG000119_2,PROD10118,product_images/IMG000119_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,Acharya-Modi,2,semi_synthetic_for_cv_development,True
+IMG000120_1,PROD10119,product_images/IMG000120_1.png,synthetic_product_visual,Footwear,Formal Shoes,Ramakrishnan,1,semi_synthetic_for_cv_development,True
+IMG000120_2,PROD10119,product_images/IMG000120_2.png,synthetic_product_visual,Footwear,Formal Shoes,Ramakrishnan,2,semi_synthetic_for_cv_development,True
+IMG000121_1,PROD10120,product_images/IMG000121_1.png,synthetic_product_visual,Appliances,Kitchen Appliances,Bhatt-Rajan,1,semi_synthetic_for_cv_development,True
+IMG000121_2,PROD10120,product_images/IMG000121_2.png,synthetic_product_visual,Appliances,Kitchen Appliances,Bhatt-Rajan,2,semi_synthetic_for_cv_development,True
+IMG000122_1,PROD10121,product_images/IMG000122_1.png,synthetic_product_visual,Mobile Accessories,Chargers,Shanker-Dhar,1,semi_synthetic_for_cv_development,True
+IMG000122_2,PROD10121,product_images/IMG000122_2.png,synthetic_product_visual,Mobile Accessories,Chargers,Shanker-Dhar,2,semi_synthetic_for_cv_development,True
+IMG000123_1,PROD10122,product_images/IMG000123_1.png,synthetic_product_visual,Home & Kitchen,Bedding,Setty,1,semi_synthetic_for_cv_development,True
+IMG000123_2,PROD10122,product_images/IMG000123_2.png,synthetic_product_visual,Home & Kitchen,Bedding,Setty,2,semi_synthetic_for_cv_development,True
+IMG000124_1,PROD10123,product_images/IMG000124_1.png,synthetic_product_visual,Office Supplies,Office Equipment,"Prakash,",1,semi_synthetic_for_cv_development,True
+IMG000124_2,PROD10123,product_images/IMG000124_2.png,synthetic_product_visual,Office Supplies,Office Equipment,"Prakash,",2,semi_synthetic_for_cv_development,True
+IMG000125_1,PROD10124,product_images/IMG000125_1.png,synthetic_product_visual,Baby Care,Baby Food,"Iyer,",1,semi_synthetic_for_cv_development,True
+IMG000125_2,PROD10124,product_images/IMG000125_2.png,synthetic_product_visual,Baby Care,Baby Food,"Iyer,",2,semi_synthetic_for_cv_development,True
+IMG000126_1,PROD10125,product_images/IMG000126_1.png,synthetic_product_visual,Fashion,Winter Wear,Handa,1,semi_synthetic_for_cv_development,True
+IMG000126_2,PROD10125,product_images/IMG000126_2.png,synthetic_product_visual,Fashion,Winter Wear,Handa,2,semi_synthetic_for_cv_development,True
+IMG000127_1,PROD10126,product_images/IMG000127_1.png,synthetic_product_visual,Stationery,Office Stationery,Roy-Sibal,1,semi_synthetic_for_cv_development,True
+IMG000127_2,PROD10126,product_images/IMG000127_2.png,synthetic_product_visual,Stationery,Office Stationery,Roy-Sibal,2,semi_synthetic_for_cv_development,True
+IMG000128_1,PROD10127,product_images/IMG000128_1.png,synthetic_product_visual,Footwear,Men's Casual,Morar,1,semi_synthetic_for_cv_development,True
+IMG000128_2,PROD10127,product_images/IMG000128_2.png,synthetic_product_visual,Footwear,Men's Casual,Morar,2,semi_synthetic_for_cv_development,True
+IMG000129_1,PROD10128,product_images/IMG000129_1.png,synthetic_product_visual,Electronics,Smartphones,"Choudhury,",1,semi_synthetic_for_cv_development,True
+IMG000129_2,PROD10128,product_images/IMG000129_2.png,synthetic_product_visual,Electronics,Smartphones,"Choudhury,",2,semi_synthetic_for_cv_development,True
+IMG000130_1,PROD10129,product_images/IMG000130_1.png,synthetic_product_visual,Footwear,Women's Casual,Handa,1,semi_synthetic_for_cv_development,True
+IMG000130_2,PROD10129,product_images/IMG000130_2.png,synthetic_product_visual,Footwear,Women's Casual,Handa,2,semi_synthetic_for_cv_development,True
+IMG000131_1,PROD10130,product_images/IMG000131_1.png,synthetic_product_visual,Fashion,Winter Wear,Gola,1,semi_synthetic_for_cv_development,True
+IMG000131_2,PROD10130,product_images/IMG000131_2.png,synthetic_product_visual,Fashion,Winter Wear,Gola,2,semi_synthetic_for_cv_development,True
+IMG000132_1,PROD10131,product_images/IMG000132_1.png,synthetic_product_visual,Fashion,Winter Wear,Parmar,1,semi_synthetic_for_cv_development,True
+IMG000132_2,PROD10131,product_images/IMG000132_2.png,synthetic_product_visual,Fashion,Winter Wear,Parmar,2,semi_synthetic_for_cv_development,True
+IMG000133_1,PROD10132,product_images/IMG000133_1.png,synthetic_product_visual,Baby Care,Diapers,Dewan-Koshy,1,semi_synthetic_for_cv_development,True
+IMG000133_2,PROD10132,product_images/IMG000133_2.png,synthetic_product_visual,Baby Care,Diapers,Dewan-Koshy,2,semi_synthetic_for_cv_development,True
+IMG000134_1,PROD10133,product_images/IMG000134_1.png,synthetic_product_visual,Musical Instruments,Electronic Instruments,Memon,1,semi_synthetic_for_cv_development,True
+IMG000134_2,PROD10133,product_images/IMG000134_2.png,synthetic_product_visual,Musical Instruments,Electronic Instruments,Memon,2,semi_synthetic_for_cv_development,True
+IMG000135_1,PROD10134,product_images/IMG000135_1.png,synthetic_product_visual,Mobile Accessories,Chargers,Palla,1,semi_synthetic_for_cv_development,True
+IMG000135_2,PROD10134,product_images/IMG000135_2.png,synthetic_product_visual,Mobile Accessories,Chargers,Palla,2,semi_synthetic_for_cv_development,True
+IMG000136_1,PROD10135,product_images/IMG000136_1.png,synthetic_product_visual,Musical Instruments,Electronic Instruments,"Yadav,",1,semi_synthetic_for_cv_development,True
+IMG000136_2,PROD10135,product_images/IMG000136_2.png,synthetic_product_visual,Musical Instruments,Electronic Instruments,"Yadav,",2,semi_synthetic_for_cv_development,True
+IMG000137_1,PROD10136,product_images/IMG000137_1.png,synthetic_product_visual,Sports,Outdoor Sports,Chanda,1,semi_synthetic_for_cv_development,True
+IMG000137_2,PROD10136,product_images/IMG000137_2.png,synthetic_product_visual,Sports,Outdoor Sports,Chanda,2,semi_synthetic_for_cv_development,True
+IMG000138_1,PROD10137,product_images/IMG000138_1.png,synthetic_product_visual,Grocery,Beverages,Chanda,1,semi_synthetic_for_cv_development,True
+IMG000138_2,PROD10137,product_images/IMG000138_2.png,synthetic_product_visual,Grocery,Beverages,Chanda,2,semi_synthetic_for_cv_development,True
+IMG000139_1,PROD10138,product_images/IMG000139_1.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Sankar,1,semi_synthetic_for_cv_development,True
+IMG000139_2,PROD10138,product_images/IMG000139_2.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Sankar,2,semi_synthetic_for_cv_development,True
+IMG000140_1,PROD10139,product_images/IMG000140_1.png,synthetic_product_visual,Health & Wellness,Supplements,"Mital,",1,semi_synthetic_for_cv_development,True
+IMG000140_2,PROD10139,product_images/IMG000140_2.png,synthetic_product_visual,Health & Wellness,Supplements,"Mital,",2,semi_synthetic_for_cv_development,True
+IMG000141_1,PROD10140,product_images/IMG000141_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,Setty,1,semi_synthetic_for_cv_development,True
+IMG000141_2,PROD10140,product_images/IMG000141_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,Setty,2,semi_synthetic_for_cv_development,True
+IMG000142_1,PROD10141,product_images/IMG000142_1.png,synthetic_product_visual,Beauty,Makeup,Choudhury,1,semi_synthetic_for_cv_development,True
+IMG000142_2,PROD10141,product_images/IMG000142_2.png,synthetic_product_visual,Beauty,Makeup,Choudhury,2,semi_synthetic_for_cv_development,True
+IMG000143_1,PROD10142,product_images/IMG000143_1.png,synthetic_product_visual,Fashion,Men's Topwear,Choudhury,1,semi_synthetic_for_cv_development,True
+IMG000143_2,PROD10142,product_images/IMG000143_2.png,synthetic_product_visual,Fashion,Men's Topwear,Choudhury,2,semi_synthetic_for_cv_development,True
+IMG000144_1,PROD10143,product_images/IMG000144_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Sane,",1,semi_synthetic_for_cv_development,True
+IMG000144_2,PROD10143,product_images/IMG000144_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Sane,",2,semi_synthetic_for_cv_development,True
+IMG000145_1,PROD10144,product_images/IMG000145_1.png,synthetic_product_visual,Beauty,Makeup,"Sen,",1,semi_synthetic_for_cv_development,True
+IMG000145_2,PROD10144,product_images/IMG000145_2.png,synthetic_product_visual,Beauty,Makeup,"Sen,",2,semi_synthetic_for_cv_development,True
+IMG000146_1,PROD10145,product_images/IMG000146_1.png,synthetic_product_visual,Furniture,Living Room,"Mittal,",1,semi_synthetic_for_cv_development,True
+IMG000146_2,PROD10145,product_images/IMG000146_2.png,synthetic_product_visual,Furniture,Living Room,"Mittal,",2,semi_synthetic_for_cv_development,True
+IMG000147_1,PROD10146,product_images/IMG000147_1.png,synthetic_product_visual,Electronics,Speakers,Rastogi,1,semi_synthetic_for_cv_development,True
+IMG000147_2,PROD10146,product_images/IMG000147_2.png,synthetic_product_visual,Electronics,Speakers,Rastogi,2,semi_synthetic_for_cv_development,True
+IMG000148_1,PROD10147,product_images/IMG000148_1.png,synthetic_product_visual,Footwear,Women's Casual,Iyengar,1,semi_synthetic_for_cv_development,True
+IMG000148_2,PROD10147,product_images/IMG000148_2.png,synthetic_product_visual,Footwear,Women's Casual,Iyengar,2,semi_synthetic_for_cv_development,True
+IMG000149_1,PROD10148,product_images/IMG000149_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,"Bhargava,",1,semi_synthetic_for_cv_development,True
+IMG000149_2,PROD10148,product_images/IMG000149_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,"Bhargava,",2,semi_synthetic_for_cv_development,True
+IMG000150_1,PROD10149,product_images/IMG000150_1.png,synthetic_product_visual,Home & Kitchen,Cookware,Dave,1,semi_synthetic_for_cv_development,True
+IMG000150_2,PROD10149,product_images/IMG000150_2.png,synthetic_product_visual,Home & Kitchen,Cookware,Dave,2,semi_synthetic_for_cv_development,True
+IMG000151_1,PROD10150,product_images/IMG000151_1.png,synthetic_product_visual,Mobile Accessories,Phone Cases,"Chaudhari,",1,semi_synthetic_for_cv_development,True
+IMG000151_2,PROD10150,product_images/IMG000151_2.png,synthetic_product_visual,Mobile Accessories,Phone Cases,"Chaudhari,",2,semi_synthetic_for_cv_development,True
+IMG000152_1,PROD10151,product_images/IMG000152_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Randhawa-Deep,1,semi_synthetic_for_cv_development,True
+IMG000152_2,PROD10151,product_images/IMG000152_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Randhawa-Deep,2,semi_synthetic_for_cv_development,True
+IMG000153_1,PROD10152,product_images/IMG000153_1.png,synthetic_product_visual,Electronics,Cameras,Behl-Chanda,1,semi_synthetic_for_cv_development,True
+IMG000153_2,PROD10152,product_images/IMG000153_2.png,synthetic_product_visual,Electronics,Cameras,Behl-Chanda,2,semi_synthetic_for_cv_development,True
+IMG000154_1,PROD10153,product_images/IMG000154_1.png,synthetic_product_visual,Electronics,Speakers,"Nagy,",1,semi_synthetic_for_cv_development,True
+IMG000154_2,PROD10153,product_images/IMG000154_2.png,synthetic_product_visual,Electronics,Speakers,"Nagy,",2,semi_synthetic_for_cv_development,True
+IMG000155_1,PROD10154,product_images/IMG000155_1.png,synthetic_product_visual,Toys,Educational Toys,"Yohannan,",1,semi_synthetic_for_cv_development,True
+IMG000155_2,PROD10154,product_images/IMG000155_2.png,synthetic_product_visual,Toys,Educational Toys,"Yohannan,",2,semi_synthetic_for_cv_development,True
+IMG000156_1,PROD10155,product_images/IMG000156_1.png,synthetic_product_visual,Home & Kitchen,Dinnerware,"Ahluwalia,",1,semi_synthetic_for_cv_development,True
+IMG000156_2,PROD10155,product_images/IMG000156_2.png,synthetic_product_visual,Home & Kitchen,Dinnerware,"Ahluwalia,",2,semi_synthetic_for_cv_development,True
+IMG000157_1,PROD10156,product_images/IMG000157_1.png,synthetic_product_visual,Grocery,Staples,Shanker-Dhar,1,semi_synthetic_for_cv_development,True
+IMG000157_2,PROD10156,product_images/IMG000157_2.png,synthetic_product_visual,Grocery,Staples,Shanker-Dhar,2,semi_synthetic_for_cv_development,True
+IMG000158_1,PROD10157,product_images/IMG000158_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,Murthy,1,semi_synthetic_for_cv_development,True
+IMG000158_2,PROD10157,product_images/IMG000158_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,Murthy,2,semi_synthetic_for_cv_development,True
+IMG000159_1,PROD10158,product_images/IMG000159_1.png,synthetic_product_visual,Toys,Board Games,"Ray,",1,semi_synthetic_for_cv_development,True
+IMG000159_2,PROD10158,product_images/IMG000159_2.png,synthetic_product_visual,Toys,Board Games,"Ray,",2,semi_synthetic_for_cv_development,True
+IMG000160_1,PROD10159,product_images/IMG000160_1.png,synthetic_product_visual,Mobile Accessories,Screen Guards,"Yohannan,",1,semi_synthetic_for_cv_development,True
+IMG000160_2,PROD10159,product_images/IMG000160_2.png,synthetic_product_visual,Mobile Accessories,Screen Guards,"Yohannan,",2,semi_synthetic_for_cv_development,True
+IMG000161_1,PROD10160,product_images/IMG000161_1.png,synthetic_product_visual,Toys,Action Figures,"Bhagat,",1,semi_synthetic_for_cv_development,True
+IMG000161_2,PROD10160,product_images/IMG000161_2.png,synthetic_product_visual,Toys,Action Figures,"Bhagat,",2,semi_synthetic_for_cv_development,True
+IMG000162_1,PROD10161,product_images/IMG000162_1.png,synthetic_product_visual,Bags,Wallets,"Choudhury,",1,semi_synthetic_for_cv_development,True
+IMG000162_2,PROD10161,product_images/IMG000162_2.png,synthetic_product_visual,Bags,Wallets,"Choudhury,",2,semi_synthetic_for_cv_development,True
+IMG000163_1,PROD10162,product_images/IMG000163_1.png,synthetic_product_visual,Electronics,Speakers,"Nagy,",1,semi_synthetic_for_cv_development,True
+IMG000163_2,PROD10162,product_images/IMG000163_2.png,synthetic_product_visual,Electronics,Speakers,"Nagy,",2,semi_synthetic_for_cv_development,True
+IMG000164_1,PROD10163,product_images/IMG000164_1.png,synthetic_product_visual,Pet Supplies,Pet Grooming,Gandhi-Lanka,1,semi_synthetic_for_cv_development,True
+IMG000164_2,PROD10163,product_images/IMG000164_2.png,synthetic_product_visual,Pet Supplies,Pet Grooming,Gandhi-Lanka,2,semi_synthetic_for_cv_development,True
+IMG000165_1,PROD10164,product_images/IMG000165_1.png,synthetic_product_visual,Mobile Accessories,Power Banks,Rai,1,semi_synthetic_for_cv_development,True
+IMG000165_2,PROD10164,product_images/IMG000165_2.png,synthetic_product_visual,Mobile Accessories,Power Banks,Rai,2,semi_synthetic_for_cv_development,True
+IMG000166_1,PROD10165,product_images/IMG000166_1.png,synthetic_product_visual,Mobile Accessories,Phone Cases,"Bhat,",1,semi_synthetic_for_cv_development,True
+IMG000166_2,PROD10165,product_images/IMG000166_2.png,synthetic_product_visual,Mobile Accessories,Phone Cases,"Bhat,",2,semi_synthetic_for_cv_development,True
+IMG000167_1,PROD10166,product_images/IMG000167_1.png,synthetic_product_visual,Electronics,Speakers,Upadhyay,1,semi_synthetic_for_cv_development,True
+IMG000167_2,PROD10166,product_images/IMG000167_2.png,synthetic_product_visual,Electronics,Speakers,Upadhyay,2,semi_synthetic_for_cv_development,True
+IMG000168_1,PROD10167,product_images/IMG000168_1.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Boase-Narayanan,1,semi_synthetic_for_cv_development,True
+IMG000168_2,PROD10167,product_images/IMG000168_2.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Boase-Narayanan,2,semi_synthetic_for_cv_development,True
+IMG000169_1,PROD10168,product_images/IMG000169_1.png,synthetic_product_visual,Toys,Soft Toys,Grewal,1,semi_synthetic_for_cv_development,True
+IMG000169_2,PROD10168,product_images/IMG000169_2.png,synthetic_product_visual,Toys,Soft Toys,Grewal,2,semi_synthetic_for_cv_development,True
+IMG000170_1,PROD10169,product_images/IMG000170_1.png,synthetic_product_visual,Fashion,Winter Wear,Gala,1,semi_synthetic_for_cv_development,True
+IMG000170_2,PROD10169,product_images/IMG000170_2.png,synthetic_product_visual,Fashion,Winter Wear,Gala,2,semi_synthetic_for_cv_development,True
+IMG000171_1,PROD10170,product_images/IMG000171_1.png,synthetic_product_visual,Home & Kitchen,Dinnerware,Dave,1,semi_synthetic_for_cv_development,True
+IMG000171_2,PROD10170,product_images/IMG000171_2.png,synthetic_product_visual,Home & Kitchen,Dinnerware,Dave,2,semi_synthetic_for_cv_development,True
+IMG000172_1,PROD10171,product_images/IMG000172_1.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Naik,1,semi_synthetic_for_cv_development,True
+IMG000172_2,PROD10171,product_images/IMG000172_2.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Naik,2,semi_synthetic_for_cv_development,True
+IMG000173_1,PROD10172,product_images/IMG000173_1.png,synthetic_product_visual,Grocery,Packaged Food,Mangal-Sampath,1,semi_synthetic_for_cv_development,True
+IMG000173_2,PROD10172,product_images/IMG000173_2.png,synthetic_product_visual,Grocery,Packaged Food,Mangal-Sampath,2,semi_synthetic_for_cv_development,True
+IMG000174_1,PROD10173,product_images/IMG000174_1.png,synthetic_product_visual,Watches,Digital Watches,"Choudhury,",1,semi_synthetic_for_cv_development,True
+IMG000174_2,PROD10173,product_images/IMG000174_2.png,synthetic_product_visual,Watches,Digital Watches,"Choudhury,",2,semi_synthetic_for_cv_development,True
+IMG000175_1,PROD10174,product_images/IMG000175_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Prakash,",1,semi_synthetic_for_cv_development,True
+IMG000175_2,PROD10174,product_images/IMG000175_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Prakash,",2,semi_synthetic_for_cv_development,True
+IMG000176_1,PROD10175,product_images/IMG000176_1.png,synthetic_product_visual,Footwear,Formal Shoes,"Dugar,",1,semi_synthetic_for_cv_development,True
+IMG000176_2,PROD10175,product_images/IMG000176_2.png,synthetic_product_visual,Footwear,Formal Shoes,"Dugar,",2,semi_synthetic_for_cv_development,True
+IMG000177_1,PROD10176,product_images/IMG000177_1.png,synthetic_product_visual,Electronics,Smartwatches,Gola,1,semi_synthetic_for_cv_development,True
+IMG000177_2,PROD10176,product_images/IMG000177_2.png,synthetic_product_visual,Electronics,Smartwatches,Gola,2,semi_synthetic_for_cv_development,True
+IMG000178_1,PROD10177,product_images/IMG000178_1.png,synthetic_product_visual,Home & Kitchen,Dinnerware,"Murthy,",1,semi_synthetic_for_cv_development,True
+IMG000178_2,PROD10177,product_images/IMG000178_2.png,synthetic_product_visual,Home & Kitchen,Dinnerware,"Murthy,",2,semi_synthetic_for_cv_development,True
+IMG000179_1,PROD10178,product_images/IMG000179_1.png,synthetic_product_visual,Automotive Accessories,Car Care,Zacharia,1,semi_synthetic_for_cv_development,True
+IMG000179_2,PROD10178,product_images/IMG000179_2.png,synthetic_product_visual,Automotive Accessories,Car Care,Zacharia,2,semi_synthetic_for_cv_development,True
+IMG000180_1,PROD10179,product_images/IMG000180_1.png,synthetic_product_visual,Electronics,Smartphones,Chander,1,semi_synthetic_for_cv_development,True
+IMG000180_2,PROD10179,product_images/IMG000180_2.png,synthetic_product_visual,Electronics,Smartphones,Chander,2,semi_synthetic_for_cv_development,True
+IMG000181_1,PROD10180,product_images/IMG000181_1.png,synthetic_product_visual,Appliances,Air Conditioners,"Nair,",1,semi_synthetic_for_cv_development,True
+IMG000181_2,PROD10180,product_images/IMG000181_2.png,synthetic_product_visual,Appliances,Air Conditioners,"Nair,",2,semi_synthetic_for_cv_development,True
+IMG000182_1,PROD10181,product_images/IMG000182_1.png,synthetic_product_visual,Sports,Yoga,Amble,1,semi_synthetic_for_cv_development,True
+IMG000182_2,PROD10181,product_images/IMG000182_2.png,synthetic_product_visual,Sports,Yoga,Amble,2,semi_synthetic_for_cv_development,True
+IMG000183_1,PROD10182,product_images/IMG000183_1.png,synthetic_product_visual,Electronics,Laptops,Sen,1,semi_synthetic_for_cv_development,True
+IMG000183_2,PROD10182,product_images/IMG000183_2.png,synthetic_product_visual,Electronics,Laptops,Sen,2,semi_synthetic_for_cv_development,True
+IMG000184_1,PROD10183,product_images/IMG000184_1.png,synthetic_product_visual,Toys,Action Figures,Boase-Mallick,1,semi_synthetic_for_cv_development,True
+IMG000184_2,PROD10183,product_images/IMG000184_2.png,synthetic_product_visual,Toys,Action Figures,Boase-Mallick,2,semi_synthetic_for_cv_development,True
+IMG000185_1,PROD10184,product_images/IMG000185_1.png,synthetic_product_visual,Pet Supplies,Pet Food,Barad-Singhal,1,semi_synthetic_for_cv_development,True
+IMG000185_2,PROD10184,product_images/IMG000185_2.png,synthetic_product_visual,Pet Supplies,Pet Food,Barad-Singhal,2,semi_synthetic_for_cv_development,True
+IMG000186_1,PROD10185,product_images/IMG000186_1.png,synthetic_product_visual,Beauty,Makeup,"Mistry,",1,semi_synthetic_for_cv_development,True
+IMG000186_2,PROD10185,product_images/IMG000186_2.png,synthetic_product_visual,Beauty,Makeup,"Mistry,",2,semi_synthetic_for_cv_development,True
+IMG000187_1,PROD10186,product_images/IMG000187_1.png,synthetic_product_visual,Furniture,Storage,Gupta-Chandra,1,semi_synthetic_for_cv_development,True
+IMG000187_2,PROD10186,product_images/IMG000187_2.png,synthetic_product_visual,Furniture,Storage,Gupta-Chandra,2,semi_synthetic_for_cv_development,True
+IMG000188_1,PROD10187,product_images/IMG000188_1.png,synthetic_product_visual,Personal Care,Grooming,Kapoor,1,semi_synthetic_for_cv_development,True
+IMG000188_2,PROD10187,product_images/IMG000188_2.png,synthetic_product_visual,Personal Care,Grooming,Kapoor,2,semi_synthetic_for_cv_development,True
+IMG000189_1,PROD10188,product_images/IMG000189_1.png,synthetic_product_visual,Toys,Soft Toys,Karpe,1,semi_synthetic_for_cv_development,True
+IMG000189_2,PROD10188,product_images/IMG000189_2.png,synthetic_product_visual,Toys,Soft Toys,Karpe,2,semi_synthetic_for_cv_development,True
+IMG000190_1,PROD10189,product_images/IMG000190_1.png,synthetic_product_visual,Fashion,Winter Wear,Merchant-Datta,1,semi_synthetic_for_cv_development,True
+IMG000190_2,PROD10189,product_images/IMG000190_2.png,synthetic_product_visual,Fashion,Winter Wear,Merchant-Datta,2,semi_synthetic_for_cv_development,True
+IMG000191_1,PROD10190,product_images/IMG000191_1.png,synthetic_product_visual,Grocery,Staples,Kar-Issac,1,semi_synthetic_for_cv_development,True
+IMG000191_2,PROD10190,product_images/IMG000191_2.png,synthetic_product_visual,Grocery,Staples,Kar-Issac,2,semi_synthetic_for_cv_development,True
+IMG000192_1,PROD10191,product_images/IMG000192_1.png,synthetic_product_visual,Furniture,Living Room,Barad-Singhal,1,semi_synthetic_for_cv_development,True
+IMG000192_2,PROD10191,product_images/IMG000192_2.png,synthetic_product_visual,Furniture,Living Room,Barad-Singhal,2,semi_synthetic_for_cv_development,True
+IMG000193_1,PROD10192,product_images/IMG000193_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,Acharya-Modi,1,semi_synthetic_for_cv_development,True
+IMG000193_2,PROD10192,product_images/IMG000193_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,Acharya-Modi,2,semi_synthetic_for_cv_development,True
+IMG000194_1,PROD10193,product_images/IMG000194_1.png,synthetic_product_visual,Toys,Board Games,Gola,1,semi_synthetic_for_cv_development,True
+IMG000194_2,PROD10193,product_images/IMG000194_2.png,synthetic_product_visual,Toys,Board Games,Gola,2,semi_synthetic_for_cv_development,True
+IMG000195_1,PROD10194,product_images/IMG000195_1.png,synthetic_product_visual,Electronics,Speakers,Boase-Narayanan,1,semi_synthetic_for_cv_development,True
+IMG000195_2,PROD10194,product_images/IMG000195_2.png,synthetic_product_visual,Electronics,Speakers,Boase-Narayanan,2,semi_synthetic_for_cv_development,True
+IMG000196_1,PROD10195,product_images/IMG000196_1.png,synthetic_product_visual,Beauty,Fragrances,"Lall,",1,semi_synthetic_for_cv_development,True
+IMG000196_2,PROD10195,product_images/IMG000196_2.png,synthetic_product_visual,Beauty,Fragrances,"Lall,",2,semi_synthetic_for_cv_development,True
+IMG000197_1,PROD10196,product_images/IMG000197_1.png,synthetic_product_visual,Appliances,Fans & Coolers,Dutta-Chokshi,1,semi_synthetic_for_cv_development,True
+IMG000197_2,PROD10196,product_images/IMG000197_2.png,synthetic_product_visual,Appliances,Fans & Coolers,Dutta-Chokshi,2,semi_synthetic_for_cv_development,True
+IMG000198_1,PROD10197,product_images/IMG000198_1.png,synthetic_product_visual,Toys,Action Figures,Borra,1,semi_synthetic_for_cv_development,True
+IMG000198_2,PROD10197,product_images/IMG000198_2.png,synthetic_product_visual,Toys,Action Figures,Borra,2,semi_synthetic_for_cv_development,True
+IMG000199_1,PROD10198,product_images/IMG000199_1.png,synthetic_product_visual,Grocery,Dairy,"Solanki,",1,semi_synthetic_for_cv_development,True
+IMG000199_2,PROD10198,product_images/IMG000199_2.png,synthetic_product_visual,Grocery,Dairy,"Solanki,",2,semi_synthetic_for_cv_development,True
+IMG000200_1,PROD10199,product_images/IMG000200_1.png,synthetic_product_visual,Toys,Soft Toys,Pant-Kadakia,1,semi_synthetic_for_cv_development,True
+IMG000200_2,PROD10199,product_images/IMG000200_2.png,synthetic_product_visual,Toys,Soft Toys,Pant-Kadakia,2,semi_synthetic_for_cv_development,True
+IMG000201_1,PROD10200,product_images/IMG000201_1.png,synthetic_product_visual,Footwear,Sports Shoes,"Khanna,",1,semi_synthetic_for_cv_development,True
+IMG000201_2,PROD10200,product_images/IMG000201_2.png,synthetic_product_visual,Footwear,Sports Shoes,"Khanna,",2,semi_synthetic_for_cv_development,True
+IMG000202_1,PROD10201,product_images/IMG000202_1.png,synthetic_product_visual,Electronics,Headphones,Sood,1,semi_synthetic_for_cv_development,True
+IMG000202_2,PROD10201,product_images/IMG000202_2.png,synthetic_product_visual,Electronics,Headphones,Sood,2,semi_synthetic_for_cv_development,True
+IMG000203_1,PROD10202,product_images/IMG000203_1.png,synthetic_product_visual,Fashion,Men's Topwear,Sidhu-Wadhwa,1,semi_synthetic_for_cv_development,True
+IMG000203_2,PROD10202,product_images/IMG000203_2.png,synthetic_product_visual,Fashion,Men's Topwear,Sidhu-Wadhwa,2,semi_synthetic_for_cv_development,True
+IMG000204_1,PROD10203,product_images/IMG000204_1.png,synthetic_product_visual,Appliances,Large Appliances,"Mistry,",1,semi_synthetic_for_cv_development,True
+IMG000204_2,PROD10203,product_images/IMG000204_2.png,synthetic_product_visual,Appliances,Large Appliances,"Mistry,",2,semi_synthetic_for_cv_development,True
+IMG000205_1,PROD10204,product_images/IMG000205_1.png,synthetic_product_visual,Grocery,Snacks,Dara-Kota,1,semi_synthetic_for_cv_development,True
+IMG000205_2,PROD10204,product_images/IMG000205_2.png,synthetic_product_visual,Grocery,Snacks,Dara-Kota,2,semi_synthetic_for_cv_development,True
+IMG000206_1,PROD10205,product_images/IMG000206_1.png,synthetic_product_visual,Books,Children's Books,"Lala,",1,semi_synthetic_for_cv_development,True
+IMG000206_2,PROD10205,product_images/IMG000206_2.png,synthetic_product_visual,Books,Children's Books,"Lala,",2,semi_synthetic_for_cv_development,True
+IMG000207_1,PROD10206,product_images/IMG000207_1.png,synthetic_product_visual,Personal Care,Grooming,Bajwa,1,semi_synthetic_for_cv_development,True
+IMG000207_2,PROD10206,product_images/IMG000207_2.png,synthetic_product_visual,Personal Care,Grooming,Bajwa,2,semi_synthetic_for_cv_development,True
+IMG000208_1,PROD10207,product_images/IMG000208_1.png,synthetic_product_visual,Fashion,Men's Topwear,"Iyer,",1,semi_synthetic_for_cv_development,True
+IMG000208_2,PROD10207,product_images/IMG000208_2.png,synthetic_product_visual,Fashion,Men's Topwear,"Iyer,",2,semi_synthetic_for_cv_development,True
+IMG000209_1,PROD10208,product_images/IMG000209_1.png,synthetic_product_visual,Books,Children's Books,Goda,1,semi_synthetic_for_cv_development,True
+IMG000209_2,PROD10208,product_images/IMG000209_2.png,synthetic_product_visual,Books,Children's Books,Goda,2,semi_synthetic_for_cv_development,True
+IMG000210_1,PROD10209,product_images/IMG000210_1.png,synthetic_product_visual,Bags,Backpacks,Kohli-Divan,1,semi_synthetic_for_cv_development,True
+IMG000210_2,PROD10209,product_images/IMG000210_2.png,synthetic_product_visual,Bags,Backpacks,Kohli-Divan,2,semi_synthetic_for_cv_development,True
+IMG000211_1,PROD10210,product_images/IMG000211_1.png,synthetic_product_visual,Mobile Accessories,Power Banks,Kapoor,1,semi_synthetic_for_cv_development,True
+IMG000211_2,PROD10210,product_images/IMG000211_2.png,synthetic_product_visual,Mobile Accessories,Power Banks,Kapoor,2,semi_synthetic_for_cv_development,True
+IMG000212_1,PROD10211,product_images/IMG000212_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,D’Alia-Chhabra,1,semi_synthetic_for_cv_development,True
+IMG000212_2,PROD10211,product_images/IMG000212_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,D’Alia-Chhabra,2,semi_synthetic_for_cv_development,True
+IMG000213_1,PROD10212,product_images/IMG000213_1.png,synthetic_product_visual,Musical Instruments,Electronic Instruments,Gara-Chad,1,semi_synthetic_for_cv_development,True
+IMG000213_2,PROD10212,product_images/IMG000213_2.png,synthetic_product_visual,Musical Instruments,Electronic Instruments,Gara-Chad,2,semi_synthetic_for_cv_development,True
+IMG000214_1,PROD10213,product_images/IMG000214_1.png,synthetic_product_visual,Mobile Accessories,Cables,"Lanka,",1,semi_synthetic_for_cv_development,True
+IMG000214_2,PROD10213,product_images/IMG000214_2.png,synthetic_product_visual,Mobile Accessories,Cables,"Lanka,",2,semi_synthetic_for_cv_development,True
+IMG000215_1,PROD10214,product_images/IMG000215_1.png,synthetic_product_visual,Sports,Yoga,"Ray,",1,semi_synthetic_for_cv_development,True
+IMG000215_2,PROD10214,product_images/IMG000215_2.png,synthetic_product_visual,Sports,Yoga,"Ray,",2,semi_synthetic_for_cv_development,True
+IMG000216_1,PROD10215,product_images/IMG000216_1.png,synthetic_product_visual,Fashion,Men's Topwear,D’Alia-Chhabra,1,semi_synthetic_for_cv_development,True
+IMG000216_2,PROD10215,product_images/IMG000216_2.png,synthetic_product_visual,Fashion,Men's Topwear,D’Alia-Chhabra,2,semi_synthetic_for_cv_development,True
+IMG000217_1,PROD10216,product_images/IMG000217_1.png,synthetic_product_visual,Fashion,Winter Wear,Nath,1,semi_synthetic_for_cv_development,True
+IMG000217_2,PROD10216,product_images/IMG000217_2.png,synthetic_product_visual,Fashion,Winter Wear,Nath,2,semi_synthetic_for_cv_development,True
+IMG000218_1,PROD10217,product_images/IMG000218_1.png,synthetic_product_visual,Grocery,Snacks,Bajwa,1,semi_synthetic_for_cv_development,True
+IMG000218_2,PROD10217,product_images/IMG000218_2.png,synthetic_product_visual,Grocery,Snacks,Bajwa,2,semi_synthetic_for_cv_development,True
+IMG000219_1,PROD10218,product_images/IMG000219_1.png,synthetic_product_visual,Books,Comics,Kade-Sani,1,semi_synthetic_for_cv_development,True
+IMG000219_2,PROD10218,product_images/IMG000219_2.png,synthetic_product_visual,Books,Comics,Kade-Sani,2,semi_synthetic_for_cv_development,True
+IMG000220_1,PROD10219,product_images/IMG000220_1.png,synthetic_product_visual,Fashion,Women's Western Wear,Shan,1,semi_synthetic_for_cv_development,True
+IMG000220_2,PROD10219,product_images/IMG000220_2.png,synthetic_product_visual,Fashion,Women's Western Wear,Shan,2,semi_synthetic_for_cv_development,True
+IMG000221_1,PROD10220,product_images/IMG000221_1.png,synthetic_product_visual,Footwear,Men's Casual,"Konda,",1,semi_synthetic_for_cv_development,True
+IMG000221_2,PROD10220,product_images/IMG000221_2.png,synthetic_product_visual,Footwear,Men's Casual,"Konda,",2,semi_synthetic_for_cv_development,True
+IMG000222_1,PROD10221,product_images/IMG000222_1.png,synthetic_product_visual,Beauty,Fragrances,Bhatt-Rajan,1,semi_synthetic_for_cv_development,True
+IMG000222_2,PROD10221,product_images/IMG000222_2.png,synthetic_product_visual,Beauty,Fragrances,Bhatt-Rajan,2,semi_synthetic_for_cv_development,True
+IMG000223_1,PROD10222,product_images/IMG000223_1.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,"Lalla,",1,semi_synthetic_for_cv_development,True
+IMG000223_2,PROD10222,product_images/IMG000223_2.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,"Lalla,",2,semi_synthetic_for_cv_development,True
+IMG000224_1,PROD10223,product_images/IMG000224_1.png,synthetic_product_visual,Personal Care,Bath & Body,Grewal,1,semi_synthetic_for_cv_development,True
+IMG000224_2,PROD10223,product_images/IMG000224_2.png,synthetic_product_visual,Personal Care,Bath & Body,Grewal,2,semi_synthetic_for_cv_development,True
+IMG000225_1,PROD10224,product_images/IMG000225_1.png,synthetic_product_visual,Mobile Accessories,Power Banks,Grewal,1,semi_synthetic_for_cv_development,True
+IMG000225_2,PROD10224,product_images/IMG000225_2.png,synthetic_product_visual,Mobile Accessories,Power Banks,Grewal,2,semi_synthetic_for_cv_development,True
+IMG000226_1,PROD10225,product_images/IMG000226_1.png,synthetic_product_visual,Beauty,Fragrances,"Chaudhari,",1,semi_synthetic_for_cv_development,True
+IMG000226_2,PROD10225,product_images/IMG000226_2.png,synthetic_product_visual,Beauty,Fragrances,"Chaudhari,",2,semi_synthetic_for_cv_development,True
+IMG000227_1,PROD10226,product_images/IMG000227_1.png,synthetic_product_visual,Personal Care,Bath & Body,"Loke,",1,semi_synthetic_for_cv_development,True
+IMG000227_2,PROD10226,product_images/IMG000227_2.png,synthetic_product_visual,Personal Care,Bath & Body,"Loke,",2,semi_synthetic_for_cv_development,True
+IMG000228_1,PROD10227,product_images/IMG000228_1.png,synthetic_product_visual,Footwear,Men's Casual,Kala-Vaidya,1,semi_synthetic_for_cv_development,True
+IMG000228_2,PROD10227,product_images/IMG000228_2.png,synthetic_product_visual,Footwear,Men's Casual,Kala-Vaidya,2,semi_synthetic_for_cv_development,True
+IMG000229_1,PROD10228,product_images/IMG000229_1.png,synthetic_product_visual,Stationery,Art Supplies,Amble,1,semi_synthetic_for_cv_development,True
+IMG000229_2,PROD10228,product_images/IMG000229_2.png,synthetic_product_visual,Stationery,Art Supplies,Amble,2,semi_synthetic_for_cv_development,True
+IMG000230_1,PROD10229,product_images/IMG000230_1.png,synthetic_product_visual,Grocery,Staples,Chanda,1,semi_synthetic_for_cv_development,True
+IMG000230_2,PROD10229,product_images/IMG000230_2.png,synthetic_product_visual,Grocery,Staples,Chanda,2,semi_synthetic_for_cv_development,True
+IMG000231_1,PROD10230,product_images/IMG000231_1.png,synthetic_product_visual,Grocery,Snacks,"Sampath,",1,semi_synthetic_for_cv_development,True
+IMG000231_2,PROD10230,product_images/IMG000231_2.png,synthetic_product_visual,Grocery,Snacks,"Sampath,",2,semi_synthetic_for_cv_development,True
+IMG000232_1,PROD10231,product_images/IMG000232_1.png,synthetic_product_visual,Footwear,Formal Shoes,Setty,1,semi_synthetic_for_cv_development,True
+IMG000232_2,PROD10231,product_images/IMG000232_2.png,synthetic_product_visual,Footwear,Formal Shoes,Setty,2,semi_synthetic_for_cv_development,True
+IMG000233_1,PROD10232,product_images/IMG000233_1.png,synthetic_product_visual,Mobile Accessories,Cables,Boase-Mallick,1,semi_synthetic_for_cv_development,True
+IMG000233_2,PROD10232,product_images/IMG000233_2.png,synthetic_product_visual,Mobile Accessories,Cables,Boase-Mallick,2,semi_synthetic_for_cv_development,True
+IMG000234_1,PROD10233,product_images/IMG000234_1.png,synthetic_product_visual,Home & Kitchen,Cookware,Soman,1,semi_synthetic_for_cv_development,True
+IMG000234_2,PROD10233,product_images/IMG000234_2.png,synthetic_product_visual,Home & Kitchen,Cookware,Soman,2,semi_synthetic_for_cv_development,True
+IMG000235_1,PROD10234,product_images/IMG000235_1.png,synthetic_product_visual,Personal Care,Bath & Body,"Bhagat,",1,semi_synthetic_for_cv_development,True
+IMG000235_2,PROD10234,product_images/IMG000235_2.png,synthetic_product_visual,Personal Care,Bath & Body,"Bhagat,",2,semi_synthetic_for_cv_development,True
+IMG000236_1,PROD10235,product_images/IMG000236_1.png,synthetic_product_visual,Musical Instruments,String Instruments,"Yohannan,",1,semi_synthetic_for_cv_development,True
+IMG000236_2,PROD10235,product_images/IMG000236_2.png,synthetic_product_visual,Musical Instruments,String Instruments,"Yohannan,",2,semi_synthetic_for_cv_development,True
+IMG000237_1,PROD10236,product_images/IMG000237_1.png,synthetic_product_visual,Electronics,Headphones,Shanker-Dhar,1,semi_synthetic_for_cv_development,True
+IMG000237_2,PROD10236,product_images/IMG000237_2.png,synthetic_product_visual,Electronics,Headphones,Shanker-Dhar,2,semi_synthetic_for_cv_development,True
+IMG000238_1,PROD10237,product_images/IMG000238_1.png,synthetic_product_visual,Toys,Educational Toys,Kalla-Bhardwaj,1,semi_synthetic_for_cv_development,True
+IMG000238_2,PROD10237,product_images/IMG000238_2.png,synthetic_product_visual,Toys,Educational Toys,Kalla-Bhardwaj,2,semi_synthetic_for_cv_development,True
+IMG000239_1,PROD10238,product_images/IMG000239_1.png,synthetic_product_visual,Grocery,Dairy,"Kade,",1,semi_synthetic_for_cv_development,True
+IMG000239_2,PROD10238,product_images/IMG000239_2.png,synthetic_product_visual,Grocery,Dairy,"Kade,",2,semi_synthetic_for_cv_development,True
+IMG000240_1,PROD10239,product_images/IMG000240_1.png,synthetic_product_visual,Bags,Handbags,Pant-Kadakia,1,semi_synthetic_for_cv_development,True
+IMG000240_2,PROD10239,product_images/IMG000240_2.png,synthetic_product_visual,Bags,Handbags,Pant-Kadakia,2,semi_synthetic_for_cv_development,True
+IMG000241_1,PROD10240,product_images/IMG000241_1.png,synthetic_product_visual,Office Supplies,Filing & Storage,Gupta-Chandra,1,semi_synthetic_for_cv_development,True
+IMG000241_2,PROD10240,product_images/IMG000241_2.png,synthetic_product_visual,Office Supplies,Filing & Storage,Gupta-Chandra,2,semi_synthetic_for_cv_development,True
+IMG000242_1,PROD10241,product_images/IMG000242_1.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Thaman-Sandhu,1,semi_synthetic_for_cv_development,True
+IMG000242_2,PROD10241,product_images/IMG000242_2.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Thaman-Sandhu,2,semi_synthetic_for_cv_development,True
+IMG000243_1,PROD10242,product_images/IMG000243_1.png,synthetic_product_visual,Toys,Educational Toys,Murthy,1,semi_synthetic_for_cv_development,True
+IMG000243_2,PROD10242,product_images/IMG000243_2.png,synthetic_product_visual,Toys,Educational Toys,Murthy,2,semi_synthetic_for_cv_development,True
+IMG000244_1,PROD10243,product_images/IMG000244_1.png,synthetic_product_visual,Mobile Accessories,Power Banks,Palla,1,semi_synthetic_for_cv_development,True
+IMG000244_2,PROD10243,product_images/IMG000244_2.png,synthetic_product_visual,Mobile Accessories,Power Banks,Palla,2,semi_synthetic_for_cv_development,True
+IMG000245_1,PROD10244,product_images/IMG000245_1.png,synthetic_product_visual,Personal Care,Grooming,"Virk,",1,semi_synthetic_for_cv_development,True
+IMG000245_2,PROD10244,product_images/IMG000245_2.png,synthetic_product_visual,Personal Care,Grooming,"Virk,",2,semi_synthetic_for_cv_development,True
+IMG000246_1,PROD10245,product_images/IMG000246_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,"Saraf,",1,semi_synthetic_for_cv_development,True
+IMG000246_2,PROD10245,product_images/IMG000246_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,"Saraf,",2,semi_synthetic_for_cv_development,True
+IMG000247_1,PROD10246,product_images/IMG000247_1.png,synthetic_product_visual,Electronics,Smartwatches,"Chaudhry,",1,semi_synthetic_for_cv_development,True
+IMG000247_2,PROD10246,product_images/IMG000247_2.png,synthetic_product_visual,Electronics,Smartwatches,"Chaudhry,",2,semi_synthetic_for_cv_development,True
+IMG000248_1,PROD10247,product_images/IMG000248_1.png,synthetic_product_visual,Baby Care,Baby Food,Setty,1,semi_synthetic_for_cv_development,True
+IMG000248_2,PROD10247,product_images/IMG000248_2.png,synthetic_product_visual,Baby Care,Baby Food,Setty,2,semi_synthetic_for_cv_development,True
+IMG000249_1,PROD10248,product_images/IMG000249_1.png,synthetic_product_visual,Home & Kitchen,Dinnerware,Salvi,1,semi_synthetic_for_cv_development,True
+IMG000249_2,PROD10248,product_images/IMG000249_2.png,synthetic_product_visual,Home & Kitchen,Dinnerware,Salvi,2,semi_synthetic_for_cv_development,True
+IMG000250_1,PROD10249,product_images/IMG000250_1.png,synthetic_product_visual,Electronics,Headphones,"Nagy,",1,semi_synthetic_for_cv_development,True
+IMG000250_2,PROD10249,product_images/IMG000250_2.png,synthetic_product_visual,Electronics,Headphones,"Nagy,",2,semi_synthetic_for_cv_development,True
+IMG000251_1,PROD10250,product_images/IMG000251_1.png,synthetic_product_visual,Fashion,Women's Western Wear,"Ray,",1,semi_synthetic_for_cv_development,True
+IMG000251_2,PROD10250,product_images/IMG000251_2.png,synthetic_product_visual,Fashion,Women's Western Wear,"Ray,",2,semi_synthetic_for_cv_development,True
+IMG000252_1,PROD10251,product_images/IMG000252_1.png,synthetic_product_visual,Bags,Travel Bags,"Dugar,",1,semi_synthetic_for_cv_development,True
+IMG000252_2,PROD10251,product_images/IMG000252_2.png,synthetic_product_visual,Bags,Travel Bags,"Dugar,",2,semi_synthetic_for_cv_development,True
+IMG000253_1,PROD10252,product_images/IMG000253_1.png,synthetic_product_visual,Electronics,Speakers,Madan-Kanda,1,semi_synthetic_for_cv_development,True
+IMG000253_2,PROD10252,product_images/IMG000253_2.png,synthetic_product_visual,Electronics,Speakers,Madan-Kanda,2,semi_synthetic_for_cv_development,True
+IMG000254_1,PROD10253,product_images/IMG000254_1.png,synthetic_product_visual,Books,Children's Books,Gupta-Chandra,1,semi_synthetic_for_cv_development,True
+IMG000254_2,PROD10253,product_images/IMG000254_2.png,synthetic_product_visual,Books,Children's Books,Gupta-Chandra,2,semi_synthetic_for_cv_development,True
+IMG000255_1,PROD10254,product_images/IMG000255_1.png,synthetic_product_visual,Mobile Accessories,Screen Guards,"Mittal,",1,semi_synthetic_for_cv_development,True
+IMG000255_2,PROD10254,product_images/IMG000255_2.png,synthetic_product_visual,Mobile Accessories,Screen Guards,"Mittal,",2,semi_synthetic_for_cv_development,True
+IMG000256_1,PROD10255,product_images/IMG000256_1.png,synthetic_product_visual,Sports,Fitness Equipment,Vaidya-D’Alia,1,semi_synthetic_for_cv_development,True
+IMG000256_2,PROD10255,product_images/IMG000256_2.png,synthetic_product_visual,Sports,Fitness Equipment,Vaidya-D’Alia,2,semi_synthetic_for_cv_development,True
+IMG000257_1,PROD10256,product_images/IMG000257_1.png,synthetic_product_visual,Electronics,Laptops,"Lanka,",1,semi_synthetic_for_cv_development,True
+IMG000257_2,PROD10256,product_images/IMG000257_2.png,synthetic_product_visual,Electronics,Laptops,"Lanka,",2,semi_synthetic_for_cv_development,True
+IMG000258_1,PROD10257,product_images/IMG000258_1.png,synthetic_product_visual,Electronics,Headphones,Nori-Chopra,1,semi_synthetic_for_cv_development,True
+IMG000258_2,PROD10257,product_images/IMG000258_2.png,synthetic_product_visual,Electronics,Headphones,Nori-Chopra,2,semi_synthetic_for_cv_development,True
+IMG000259_1,PROD10258,product_images/IMG000259_1.png,synthetic_product_visual,Personal Care,Bath & Body,Wali-Nadig,1,semi_synthetic_for_cv_development,True
+IMG000259_2,PROD10258,product_images/IMG000259_2.png,synthetic_product_visual,Personal Care,Bath & Body,Wali-Nadig,2,semi_synthetic_for_cv_development,True
+IMG000260_1,PROD10259,product_images/IMG000260_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Kar-Issac,1,semi_synthetic_for_cv_development,True
+IMG000260_2,PROD10259,product_images/IMG000260_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Kar-Issac,2,semi_synthetic_for_cv_development,True
+IMG000261_1,PROD10260,product_images/IMG000261_1.png,synthetic_product_visual,Home & Kitchen,Bedding,"Sunder,",1,semi_synthetic_for_cv_development,True
+IMG000261_2,PROD10260,product_images/IMG000261_2.png,synthetic_product_visual,Home & Kitchen,Bedding,"Sunder,",2,semi_synthetic_for_cv_development,True
+IMG000262_1,PROD10261,product_images/IMG000262_1.png,synthetic_product_visual,Stationery,Pens & Pencils,"Lala,",1,semi_synthetic_for_cv_development,True
+IMG000262_2,PROD10261,product_images/IMG000262_2.png,synthetic_product_visual,Stationery,Pens & Pencils,"Lala,",2,semi_synthetic_for_cv_development,True
+IMG000263_1,PROD10262,product_images/IMG000263_1.png,synthetic_product_visual,Toys,Action Figures,Boase-Mallick,1,semi_synthetic_for_cv_development,True
+IMG000263_2,PROD10262,product_images/IMG000263_2.png,synthetic_product_visual,Toys,Action Figures,Boase-Mallick,2,semi_synthetic_for_cv_development,True
+IMG000264_1,PROD10263,product_images/IMG000264_1.png,synthetic_product_visual,Bags,Wallets,Sabharwal-Kothari,1,semi_synthetic_for_cv_development,True
+IMG000264_2,PROD10263,product_images/IMG000264_2.png,synthetic_product_visual,Bags,Wallets,Sabharwal-Kothari,2,semi_synthetic_for_cv_development,True
+IMG000265_1,PROD10264,product_images/IMG000265_1.png,synthetic_product_visual,Pet Supplies,Pet Food,Gala,1,semi_synthetic_for_cv_development,True
+IMG000265_2,PROD10264,product_images/IMG000265_2.png,synthetic_product_visual,Pet Supplies,Pet Food,Gala,2,semi_synthetic_for_cv_development,True
+IMG000266_1,PROD10265,product_images/IMG000266_1.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Gupta-Chandra,1,semi_synthetic_for_cv_development,True
+IMG000266_2,PROD10265,product_images/IMG000266_2.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Gupta-Chandra,2,semi_synthetic_for_cv_development,True
+IMG000267_1,PROD10266,product_images/IMG000267_1.png,synthetic_product_visual,Grocery,Packaged Food,Palla,1,semi_synthetic_for_cv_development,True
+IMG000267_2,PROD10266,product_images/IMG000267_2.png,synthetic_product_visual,Grocery,Packaged Food,Palla,2,semi_synthetic_for_cv_development,True
+IMG000268_1,PROD10267,product_images/IMG000268_1.png,synthetic_product_visual,Stationery,Art Supplies,Morar,1,semi_synthetic_for_cv_development,True
+IMG000268_2,PROD10267,product_images/IMG000268_2.png,synthetic_product_visual,Stationery,Art Supplies,Morar,2,semi_synthetic_for_cv_development,True
+IMG000269_1,PROD10268,product_images/IMG000269_1.png,synthetic_product_visual,Mobile Accessories,Screen Guards,"Bir,",1,semi_synthetic_for_cv_development,True
+IMG000269_2,PROD10268,product_images/IMG000269_2.png,synthetic_product_visual,Mobile Accessories,Screen Guards,"Bir,",2,semi_synthetic_for_cv_development,True
+IMG000270_1,PROD10269,product_images/IMG000270_1.png,synthetic_product_visual,Personal Care,Grooming,Barad-Singhal,1,semi_synthetic_for_cv_development,True
+IMG000270_2,PROD10269,product_images/IMG000270_2.png,synthetic_product_visual,Personal Care,Grooming,Barad-Singhal,2,semi_synthetic_for_cv_development,True
+IMG000271_1,PROD10270,product_images/IMG000271_1.png,synthetic_product_visual,Sports,Yoga,Roy-Sibal,1,semi_synthetic_for_cv_development,True
+IMG000271_2,PROD10270,product_images/IMG000271_2.png,synthetic_product_visual,Sports,Yoga,Roy-Sibal,2,semi_synthetic_for_cv_development,True
+IMG000272_1,PROD10271,product_images/IMG000272_1.png,synthetic_product_visual,Grocery,Staples,Dave,1,semi_synthetic_for_cv_development,True
+IMG000272_2,PROD10271,product_images/IMG000272_2.png,synthetic_product_visual,Grocery,Staples,Dave,2,semi_synthetic_for_cv_development,True
+IMG000273_1,PROD10272,product_images/IMG000273_1.png,synthetic_product_visual,Personal Care,Oral Care,"Nagy,",1,semi_synthetic_for_cv_development,True
+IMG000273_2,PROD10272,product_images/IMG000273_2.png,synthetic_product_visual,Personal Care,Oral Care,"Nagy,",2,semi_synthetic_for_cv_development,True
+IMG000274_1,PROD10273,product_images/IMG000274_1.png,synthetic_product_visual,Appliances,Large Appliances,Dave,1,semi_synthetic_for_cv_development,True
+IMG000274_2,PROD10273,product_images/IMG000274_2.png,synthetic_product_visual,Appliances,Large Appliances,Dave,2,semi_synthetic_for_cv_development,True
+IMG000275_1,PROD10274,product_images/IMG000275_1.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Borra,1,semi_synthetic_for_cv_development,True
+IMG000275_2,PROD10274,product_images/IMG000275_2.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Borra,2,semi_synthetic_for_cv_development,True
+IMG000276_1,PROD10275,product_images/IMG000276_1.png,synthetic_product_visual,Home & Kitchen,Bedding,Ghosh-Mitra,1,semi_synthetic_for_cv_development,True
+IMG000276_2,PROD10275,product_images/IMG000276_2.png,synthetic_product_visual,Home & Kitchen,Bedding,Ghosh-Mitra,2,semi_synthetic_for_cv_development,True
+IMG000277_1,PROD10276,product_images/IMG000277_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,Bhatti-Kakar,1,semi_synthetic_for_cv_development,True
+IMG000277_2,PROD10276,product_images/IMG000277_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,Bhatti-Kakar,2,semi_synthetic_for_cv_development,True
+IMG000278_1,PROD10277,product_images/IMG000278_1.png,synthetic_product_visual,Appliances,Air Conditioners,"Bhargava,",1,semi_synthetic_for_cv_development,True
+IMG000278_2,PROD10277,product_images/IMG000278_2.png,synthetic_product_visual,Appliances,Air Conditioners,"Bhargava,",2,semi_synthetic_for_cv_development,True
+IMG000279_1,PROD10278,product_images/IMG000279_1.png,synthetic_product_visual,Grocery,Snacks,Mangal-Sampath,1,semi_synthetic_for_cv_development,True
+IMG000279_2,PROD10278,product_images/IMG000279_2.png,synthetic_product_visual,Grocery,Snacks,Mangal-Sampath,2,semi_synthetic_for_cv_development,True
+IMG000280_1,PROD10279,product_images/IMG000280_1.png,synthetic_product_visual,Personal Care,Grooming,Kade-Sani,1,semi_synthetic_for_cv_development,True
+IMG000280_2,PROD10279,product_images/IMG000280_2.png,synthetic_product_visual,Personal Care,Grooming,Kade-Sani,2,semi_synthetic_for_cv_development,True
+IMG000281_1,PROD10280,product_images/IMG000281_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,Parmer,1,semi_synthetic_for_cv_development,True
+IMG000281_2,PROD10280,product_images/IMG000281_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,Parmer,2,semi_synthetic_for_cv_development,True
+IMG000282_1,PROD10281,product_images/IMG000282_1.png,synthetic_product_visual,Fashion,Kids Wear,Kala-Rattan,1,semi_synthetic_for_cv_development,True
+IMG000282_2,PROD10281,product_images/IMG000282_2.png,synthetic_product_visual,Fashion,Kids Wear,Kala-Rattan,2,semi_synthetic_for_cv_development,True
+IMG000283_1,PROD10282,product_images/IMG000283_1.png,synthetic_product_visual,Home & Kitchen,Dinnerware,"Saraf,",1,semi_synthetic_for_cv_development,True
+IMG000283_2,PROD10282,product_images/IMG000283_2.png,synthetic_product_visual,Home & Kitchen,Dinnerware,"Saraf,",2,semi_synthetic_for_cv_development,True
+IMG000284_1,PROD10283,product_images/IMG000284_1.png,synthetic_product_visual,Beauty,Skincare,"Hayer,",1,semi_synthetic_for_cv_development,True
+IMG000284_2,PROD10283,product_images/IMG000284_2.png,synthetic_product_visual,Beauty,Skincare,"Hayer,",2,semi_synthetic_for_cv_development,True
+IMG000285_1,PROD10284,product_images/IMG000285_1.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Upadhyay-Ratta,1,semi_synthetic_for_cv_development,True
+IMG000285_2,PROD10284,product_images/IMG000285_2.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Upadhyay-Ratta,2,semi_synthetic_for_cv_development,True
+IMG000286_1,PROD10285,product_images/IMG000286_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Brar,1,semi_synthetic_for_cv_development,True
+IMG000286_2,PROD10285,product_images/IMG000286_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Brar,2,semi_synthetic_for_cv_development,True
+IMG000287_1,PROD10286,product_images/IMG000287_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Upadhyay-Ratta,1,semi_synthetic_for_cv_development,True
+IMG000287_2,PROD10286,product_images/IMG000287_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Upadhyay-Ratta,2,semi_synthetic_for_cv_development,True
+IMG000288_1,PROD10287,product_images/IMG000288_1.png,synthetic_product_visual,Bags,Backpacks,Behl-Chanda,1,semi_synthetic_for_cv_development,True
+IMG000288_2,PROD10287,product_images/IMG000288_2.png,synthetic_product_visual,Bags,Backpacks,Behl-Chanda,2,semi_synthetic_for_cv_development,True
+IMG000289_1,PROD10288,product_images/IMG000289_1.png,synthetic_product_visual,Office Supplies,Printers,Kohli-Divan,1,semi_synthetic_for_cv_development,True
+IMG000289_2,PROD10288,product_images/IMG000289_2.png,synthetic_product_visual,Office Supplies,Printers,Kohli-Divan,2,semi_synthetic_for_cv_development,True
+IMG000290_1,PROD10289,product_images/IMG000290_1.png,synthetic_product_visual,Bags,Backpacks,Memon,1,semi_synthetic_for_cv_development,True
+IMG000290_2,PROD10289,product_images/IMG000290_2.png,synthetic_product_visual,Bags,Backpacks,Memon,2,semi_synthetic_for_cv_development,True
+IMG000291_1,PROD10290,product_images/IMG000291_1.png,synthetic_product_visual,Books,Comics,Mangal-Sampath,1,semi_synthetic_for_cv_development,True
+IMG000291_2,PROD10290,product_images/IMG000291_2.png,synthetic_product_visual,Books,Comics,Mangal-Sampath,2,semi_synthetic_for_cv_development,True
+IMG000292_1,PROD10291,product_images/IMG000292_1.png,synthetic_product_visual,Home & Kitchen,Dinnerware,"Rastogi,",1,semi_synthetic_for_cv_development,True
+IMG000292_2,PROD10291,product_images/IMG000292_2.png,synthetic_product_visual,Home & Kitchen,Dinnerware,"Rastogi,",2,semi_synthetic_for_cv_development,True
+IMG000293_1,PROD10292,product_images/IMG000293_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,Wali-Nadig,1,semi_synthetic_for_cv_development,True
+IMG000293_2,PROD10292,product_images/IMG000293_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,Wali-Nadig,2,semi_synthetic_for_cv_development,True
+IMG000294_1,PROD10293,product_images/IMG000294_1.png,synthetic_product_visual,Baby Care,Diapers,Salvi,1,semi_synthetic_for_cv_development,True
+IMG000294_2,PROD10293,product_images/IMG000294_2.png,synthetic_product_visual,Baby Care,Diapers,Salvi,2,semi_synthetic_for_cv_development,True
+IMG000295_1,PROD10294,product_images/IMG000295_1.png,synthetic_product_visual,Toys,Soft Toys,Gola,1,semi_synthetic_for_cv_development,True
+IMG000295_2,PROD10294,product_images/IMG000295_2.png,synthetic_product_visual,Toys,Soft Toys,Gola,2,semi_synthetic_for_cv_development,True
+IMG000296_1,PROD10295,product_images/IMG000296_1.png,synthetic_product_visual,Health & Wellness,Medical Devices,Parmar,1,semi_synthetic_for_cv_development,True
+IMG000296_2,PROD10295,product_images/IMG000296_2.png,synthetic_product_visual,Health & Wellness,Medical Devices,Parmar,2,semi_synthetic_for_cv_development,True
+IMG000297_1,PROD10296,product_images/IMG000297_1.png,synthetic_product_visual,Health & Wellness,Medical Devices,"Boase,",1,semi_synthetic_for_cv_development,True
+IMG000297_2,PROD10296,product_images/IMG000297_2.png,synthetic_product_visual,Health & Wellness,Medical Devices,"Boase,",2,semi_synthetic_for_cv_development,True
+IMG000298_1,PROD10297,product_images/IMG000298_1.png,synthetic_product_visual,Beauty,Skincare,"Prakash,",1,semi_synthetic_for_cv_development,True
+IMG000298_2,PROD10297,product_images/IMG000298_2.png,synthetic_product_visual,Beauty,Skincare,"Prakash,",2,semi_synthetic_for_cv_development,True
+IMG000299_1,PROD10298,product_images/IMG000299_1.png,synthetic_product_visual,Baby Care,Diapers,Handa,1,semi_synthetic_for_cv_development,True
+IMG000299_2,PROD10298,product_images/IMG000299_2.png,synthetic_product_visual,Baby Care,Diapers,Handa,2,semi_synthetic_for_cv_development,True
+IMG000300_1,PROD10299,product_images/IMG000300_1.png,synthetic_product_visual,Mobile Accessories,Chargers,"Lall,",1,semi_synthetic_for_cv_development,True
+IMG000300_2,PROD10299,product_images/IMG000300_2.png,synthetic_product_visual,Mobile Accessories,Chargers,"Lall,",2,semi_synthetic_for_cv_development,True
+IMG000301_1,PROD10300,product_images/IMG000301_1.png,synthetic_product_visual,Personal Care,Oral Care,Keer,1,semi_synthetic_for_cv_development,True
+IMG000301_2,PROD10300,product_images/IMG000301_2.png,synthetic_product_visual,Personal Care,Oral Care,Keer,2,semi_synthetic_for_cv_development,True
+IMG000302_1,PROD10301,product_images/IMG000302_1.png,synthetic_product_visual,Electronics,Laptops,"Choudhury,",1,semi_synthetic_for_cv_development,True
+IMG000302_2,PROD10301,product_images/IMG000302_2.png,synthetic_product_visual,Electronics,Laptops,"Choudhury,",2,semi_synthetic_for_cv_development,True
+IMG000303_1,PROD10302,product_images/IMG000303_1.png,synthetic_product_visual,Books,Children's Books,Wali-Nadig,1,semi_synthetic_for_cv_development,True
+IMG000303_2,PROD10302,product_images/IMG000303_2.png,synthetic_product_visual,Books,Children's Books,Wali-Nadig,2,semi_synthetic_for_cv_development,True
+IMG000304_1,PROD10303,product_images/IMG000304_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,"Sami,",1,semi_synthetic_for_cv_development,True
+IMG000304_2,PROD10303,product_images/IMG000304_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,"Sami,",2,semi_synthetic_for_cv_development,True
+IMG000305_1,PROD10304,product_images/IMG000305_1.png,synthetic_product_visual,Beauty,Haircare,Chander,1,semi_synthetic_for_cv_development,True
+IMG000305_2,PROD10304,product_images/IMG000305_2.png,synthetic_product_visual,Beauty,Haircare,Chander,2,semi_synthetic_for_cv_development,True
+IMG000306_1,PROD10305,product_images/IMG000306_1.png,synthetic_product_visual,Toys,Soft Toys,Patla-Gaba,1,semi_synthetic_for_cv_development,True
+IMG000306_2,PROD10305,product_images/IMG000306_2.png,synthetic_product_visual,Toys,Soft Toys,Patla-Gaba,2,semi_synthetic_for_cv_development,True
+IMG000307_1,PROD10306,product_images/IMG000307_1.png,synthetic_product_visual,Electronics,Laptops,Handa,1,semi_synthetic_for_cv_development,True
+IMG000307_2,PROD10306,product_images/IMG000307_2.png,synthetic_product_visual,Electronics,Laptops,Handa,2,semi_synthetic_for_cv_development,True
+IMG000308_1,PROD10307,product_images/IMG000308_1.png,synthetic_product_visual,Mobile Accessories,Screen Guards,Gandhi-Lanka,1,semi_synthetic_for_cv_development,True
+IMG000308_2,PROD10307,product_images/IMG000308_2.png,synthetic_product_visual,Mobile Accessories,Screen Guards,Gandhi-Lanka,2,semi_synthetic_for_cv_development,True
+IMG000309_1,PROD10308,product_images/IMG000309_1.png,synthetic_product_visual,Home & Kitchen,Cookware,Gara-Chad,1,semi_synthetic_for_cv_development,True
+IMG000309_2,PROD10308,product_images/IMG000309_2.png,synthetic_product_visual,Home & Kitchen,Cookware,Gara-Chad,2,semi_synthetic_for_cv_development,True
+IMG000310_1,PROD10309,product_images/IMG000310_1.png,synthetic_product_visual,Grocery,Snacks,"Sen,",1,semi_synthetic_for_cv_development,True
+IMG000310_2,PROD10309,product_images/IMG000310_2.png,synthetic_product_visual,Grocery,Snacks,"Sen,",2,semi_synthetic_for_cv_development,True
+IMG000311_1,PROD10310,product_images/IMG000311_1.png,synthetic_product_visual,Fashion,Men's Topwear,"Boase,",1,semi_synthetic_for_cv_development,True
+IMG000311_2,PROD10310,product_images/IMG000311_2.png,synthetic_product_visual,Fashion,Men's Topwear,"Boase,",2,semi_synthetic_for_cv_development,True
+IMG000312_1,PROD10311,product_images/IMG000312_1.png,synthetic_product_visual,Grocery,Beverages,Wali-Nadig,1,semi_synthetic_for_cv_development,True
+IMG000312_2,PROD10311,product_images/IMG000312_2.png,synthetic_product_visual,Grocery,Beverages,Wali-Nadig,2,semi_synthetic_for_cv_development,True
+IMG000313_1,PROD10312,product_images/IMG000313_1.png,synthetic_product_visual,Grocery,Packaged Food,Ray,1,semi_synthetic_for_cv_development,True
+IMG000313_2,PROD10312,product_images/IMG000313_2.png,synthetic_product_visual,Grocery,Packaged Food,Ray,2,semi_synthetic_for_cv_development,True
+IMG000314_1,PROD10313,product_images/IMG000314_1.png,synthetic_product_visual,Home & Kitchen,Cookware,Bajwa,1,semi_synthetic_for_cv_development,True
+IMG000314_2,PROD10313,product_images/IMG000314_2.png,synthetic_product_visual,Home & Kitchen,Cookware,Bajwa,2,semi_synthetic_for_cv_development,True
+IMG000315_1,PROD10314,product_images/IMG000315_1.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Nath,1,semi_synthetic_for_cv_development,True
+IMG000315_2,PROD10314,product_images/IMG000315_2.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Nath,2,semi_synthetic_for_cv_development,True
+IMG000316_1,PROD10315,product_images/IMG000316_1.png,synthetic_product_visual,Health & Wellness,Medical Devices,Kala-Vaidya,1,semi_synthetic_for_cv_development,True
+IMG000316_2,PROD10315,product_images/IMG000316_2.png,synthetic_product_visual,Health & Wellness,Medical Devices,Kala-Vaidya,2,semi_synthetic_for_cv_development,True
+IMG000317_1,PROD10316,product_images/IMG000317_1.png,synthetic_product_visual,Stationery,Office Stationery,"Loke,",1,semi_synthetic_for_cv_development,True
+IMG000317_2,PROD10316,product_images/IMG000317_2.png,synthetic_product_visual,Stationery,Office Stationery,"Loke,",2,semi_synthetic_for_cv_development,True
+IMG000318_1,PROD10317,product_images/IMG000318_1.png,synthetic_product_visual,Fashion,Men's Topwear,"Krish,",1,semi_synthetic_for_cv_development,True
+IMG000318_2,PROD10317,product_images/IMG000318_2.png,synthetic_product_visual,Fashion,Men's Topwear,"Krish,",2,semi_synthetic_for_cv_development,True
+IMG000319_1,PROD10318,product_images/IMG000319_1.png,synthetic_product_visual,Baby Care,Baby Food,Roy-Sibal,1,semi_synthetic_for_cv_development,True
+IMG000319_2,PROD10318,product_images/IMG000319_2.png,synthetic_product_visual,Baby Care,Baby Food,Roy-Sibal,2,semi_synthetic_for_cv_development,True
+IMG000320_1,PROD10319,product_images/IMG000320_1.png,synthetic_product_visual,Grocery,Staples,"Bhargava,",1,semi_synthetic_for_cv_development,True
+IMG000320_2,PROD10319,product_images/IMG000320_2.png,synthetic_product_visual,Grocery,Staples,"Bhargava,",2,semi_synthetic_for_cv_development,True
+IMG000321_1,PROD10320,product_images/IMG000321_1.png,synthetic_product_visual,Watches,Digital Watches,"Shetty,",1,semi_synthetic_for_cv_development,True
+IMG000321_2,PROD10320,product_images/IMG000321_2.png,synthetic_product_visual,Watches,Digital Watches,"Shetty,",2,semi_synthetic_for_cv_development,True
+IMG000322_1,PROD10321,product_images/IMG000322_1.png,synthetic_product_visual,Personal Care,Grooming,"Sen,",1,semi_synthetic_for_cv_development,True
+IMG000322_2,PROD10321,product_images/IMG000322_2.png,synthetic_product_visual,Personal Care,Grooming,"Sen,",2,semi_synthetic_for_cv_development,True
+IMG000323_1,PROD10322,product_images/IMG000323_1.png,synthetic_product_visual,Stationery,Notebooks,Naik,1,semi_synthetic_for_cv_development,True
+IMG000323_2,PROD10322,product_images/IMG000323_2.png,synthetic_product_visual,Stationery,Notebooks,Naik,2,semi_synthetic_for_cv_development,True
+IMG000324_1,PROD10323,product_images/IMG000324_1.png,synthetic_product_visual,Furniture,Storage,"Chaudhari,",1,semi_synthetic_for_cv_development,True
+IMG000324_2,PROD10323,product_images/IMG000324_2.png,synthetic_product_visual,Furniture,Storage,"Chaudhari,",2,semi_synthetic_for_cv_development,True
+IMG000325_1,PROD10324,product_images/IMG000325_1.png,synthetic_product_visual,Grocery,Packaged Food,"Ray,",1,semi_synthetic_for_cv_development,True
+IMG000325_2,PROD10324,product_images/IMG000325_2.png,synthetic_product_visual,Grocery,Packaged Food,"Ray,",2,semi_synthetic_for_cv_development,True
+IMG000326_1,PROD10325,product_images/IMG000326_1.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,"Nair,",1,semi_synthetic_for_cv_development,True
+IMG000326_2,PROD10325,product_images/IMG000326_2.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,"Nair,",2,semi_synthetic_for_cv_development,True
+IMG000327_1,PROD10326,product_images/IMG000327_1.png,synthetic_product_visual,Beauty,Haircare,"Lala,",1,semi_synthetic_for_cv_development,True
+IMG000327_2,PROD10326,product_images/IMG000327_2.png,synthetic_product_visual,Beauty,Haircare,"Lala,",2,semi_synthetic_for_cv_development,True
+IMG000328_1,PROD10327,product_images/IMG000328_1.png,synthetic_product_visual,Footwear,Sports Shoes,"Murty,",1,semi_synthetic_for_cv_development,True
+IMG000328_2,PROD10327,product_images/IMG000328_2.png,synthetic_product_visual,Footwear,Sports Shoes,"Murty,",2,semi_synthetic_for_cv_development,True
+IMG000329_1,PROD10328,product_images/IMG000329_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Sane,",1,semi_synthetic_for_cv_development,True
+IMG000329_2,PROD10328,product_images/IMG000329_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Sane,",2,semi_synthetic_for_cv_development,True
+IMG000330_1,PROD10329,product_images/IMG000330_1.png,synthetic_product_visual,Beauty,Fragrances,Ray,1,semi_synthetic_for_cv_development,True
+IMG000330_2,PROD10329,product_images/IMG000330_2.png,synthetic_product_visual,Beauty,Fragrances,Ray,2,semi_synthetic_for_cv_development,True
+IMG000331_1,PROD10330,product_images/IMG000331_1.png,synthetic_product_visual,Fashion,Women's Western Wear,Varma-Nayak,1,semi_synthetic_for_cv_development,True
+IMG000331_2,PROD10330,product_images/IMG000331_2.png,synthetic_product_visual,Fashion,Women's Western Wear,Varma-Nayak,2,semi_synthetic_for_cv_development,True
+IMG000332_1,PROD10331,product_images/IMG000332_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,Madan-Kanda,1,semi_synthetic_for_cv_development,True
+IMG000332_2,PROD10331,product_images/IMG000332_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,Madan-Kanda,2,semi_synthetic_for_cv_development,True
+IMG000333_1,PROD10332,product_images/IMG000333_1.png,synthetic_product_visual,Furniture,Office Furniture,"Dugar,",1,semi_synthetic_for_cv_development,True
+IMG000333_2,PROD10332,product_images/IMG000333_2.png,synthetic_product_visual,Furniture,Office Furniture,"Dugar,",2,semi_synthetic_for_cv_development,True
+IMG000334_1,PROD10333,product_images/IMG000334_1.png,synthetic_product_visual,Appliances,Fans & Coolers,"More,",1,semi_synthetic_for_cv_development,True
+IMG000334_2,PROD10333,product_images/IMG000334_2.png,synthetic_product_visual,Appliances,Fans & Coolers,"More,",2,semi_synthetic_for_cv_development,True
+IMG000335_1,PROD10334,product_images/IMG000335_1.png,synthetic_product_visual,Grocery,Packaged Food,Mody-Kari,1,semi_synthetic_for_cv_development,True
+IMG000335_2,PROD10334,product_images/IMG000335_2.png,synthetic_product_visual,Grocery,Packaged Food,Mody-Kari,2,semi_synthetic_for_cv_development,True
+IMG000336_1,PROD10335,product_images/IMG000336_1.png,synthetic_product_visual,Pet Supplies,Pet Food,"Sunder,",1,semi_synthetic_for_cv_development,True
+IMG000336_2,PROD10335,product_images/IMG000336_2.png,synthetic_product_visual,Pet Supplies,Pet Food,"Sunder,",2,semi_synthetic_for_cv_development,True
+IMG000337_1,PROD10336,product_images/IMG000337_1.png,synthetic_product_visual,Personal Care,Bath & Body,Gupta-Kumar,1,semi_synthetic_for_cv_development,True
+IMG000337_2,PROD10336,product_images/IMG000337_2.png,synthetic_product_visual,Personal Care,Bath & Body,Gupta-Kumar,2,semi_synthetic_for_cv_development,True
+IMG000338_1,PROD10337,product_images/IMG000338_1.png,synthetic_product_visual,Fashion,Women's Western Wear,"Dash,",1,semi_synthetic_for_cv_development,True
+IMG000338_2,PROD10337,product_images/IMG000338_2.png,synthetic_product_visual,Fashion,Women's Western Wear,"Dash,",2,semi_synthetic_for_cv_development,True
+IMG000339_1,PROD10338,product_images/IMG000339_1.png,synthetic_product_visual,Personal Care,Bath & Body,Varma-Nayak,1,semi_synthetic_for_cv_development,True
+IMG000339_2,PROD10338,product_images/IMG000339_2.png,synthetic_product_visual,Personal Care,Bath & Body,Varma-Nayak,2,semi_synthetic_for_cv_development,True
+IMG000340_1,PROD10339,product_images/IMG000340_1.png,synthetic_product_visual,Electronics,Headphones,Goel,1,semi_synthetic_for_cv_development,True
+IMG000340_2,PROD10339,product_images/IMG000340_2.png,synthetic_product_visual,Electronics,Headphones,Goel,2,semi_synthetic_for_cv_development,True
+IMG000341_1,PROD10340,product_images/IMG000341_1.png,synthetic_product_visual,Beauty,Fragrances,Upadhyay,1,semi_synthetic_for_cv_development,True
+IMG000341_2,PROD10340,product_images/IMG000341_2.png,synthetic_product_visual,Beauty,Fragrances,Upadhyay,2,semi_synthetic_for_cv_development,True
+IMG000342_1,PROD10341,product_images/IMG000342_1.png,synthetic_product_visual,Fashion,Winter Wear,"Solanki,",1,semi_synthetic_for_cv_development,True
+IMG000342_2,PROD10341,product_images/IMG000342_2.png,synthetic_product_visual,Fashion,Winter Wear,"Solanki,",2,semi_synthetic_for_cv_development,True
+IMG000343_1,PROD10342,product_images/IMG000343_1.png,synthetic_product_visual,Bags,Handbags,Kalla-Bhardwaj,1,semi_synthetic_for_cv_development,True
+IMG000343_2,PROD10342,product_images/IMG000343_2.png,synthetic_product_visual,Bags,Handbags,Kalla-Bhardwaj,2,semi_synthetic_for_cv_development,True
+IMG000344_1,PROD10343,product_images/IMG000344_1.png,synthetic_product_visual,Automotive Accessories,Car Accessories,Keer,1,semi_synthetic_for_cv_development,True
+IMG000344_2,PROD10343,product_images/IMG000344_2.png,synthetic_product_visual,Automotive Accessories,Car Accessories,Keer,2,semi_synthetic_for_cv_development,True
+IMG000345_1,PROD10344,product_images/IMG000345_1.png,synthetic_product_visual,Health & Wellness,Supplements,Amble,1,semi_synthetic_for_cv_development,True
+IMG000345_2,PROD10344,product_images/IMG000345_2.png,synthetic_product_visual,Health & Wellness,Supplements,Amble,2,semi_synthetic_for_cv_development,True
+IMG000346_1,PROD10345,product_images/IMG000346_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Rastogi,",1,semi_synthetic_for_cv_development,True
+IMG000346_2,PROD10345,product_images/IMG000346_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Rastogi,",2,semi_synthetic_for_cv_development,True
+IMG000347_1,PROD10346,product_images/IMG000347_1.png,synthetic_product_visual,Mobile Accessories,Cables,Gupta-Kumar,1,semi_synthetic_for_cv_development,True
+IMG000347_2,PROD10346,product_images/IMG000347_2.png,synthetic_product_visual,Mobile Accessories,Cables,Gupta-Kumar,2,semi_synthetic_for_cv_development,True
+IMG000348_1,PROD10347,product_images/IMG000348_1.png,synthetic_product_visual,Grocery,Beverages,"Murthy,",1,semi_synthetic_for_cv_development,True
+IMG000348_2,PROD10347,product_images/IMG000348_2.png,synthetic_product_visual,Grocery,Beverages,"Murthy,",2,semi_synthetic_for_cv_development,True
+IMG000349_1,PROD10348,product_images/IMG000349_1.png,synthetic_product_visual,Bags,Travel Bags,Dixit,1,semi_synthetic_for_cv_development,True
+IMG000349_2,PROD10348,product_images/IMG000349_2.png,synthetic_product_visual,Bags,Travel Bags,Dixit,2,semi_synthetic_for_cv_development,True
+IMG000350_1,PROD10349,product_images/IMG000350_1.png,synthetic_product_visual,Appliances,Fans & Coolers,Gupta-Chandra,1,semi_synthetic_for_cv_development,True
+IMG000350_2,PROD10349,product_images/IMG000350_2.png,synthetic_product_visual,Appliances,Fans & Coolers,Gupta-Chandra,2,semi_synthetic_for_cv_development,True
+IMG000351_1,PROD10350,product_images/IMG000351_1.png,synthetic_product_visual,Appliances,Large Appliances,"Mistry,",1,semi_synthetic_for_cv_development,True
+IMG000351_2,PROD10350,product_images/IMG000351_2.png,synthetic_product_visual,Appliances,Large Appliances,"Mistry,",2,semi_synthetic_for_cv_development,True
+IMG000352_1,PROD10351,product_images/IMG000352_1.png,synthetic_product_visual,Toys,Action Figures,Rai,1,semi_synthetic_for_cv_development,True
+IMG000352_2,PROD10351,product_images/IMG000352_2.png,synthetic_product_visual,Toys,Action Figures,Rai,2,semi_synthetic_for_cv_development,True
+IMG000353_1,PROD10352,product_images/IMG000353_1.png,synthetic_product_visual,Bags,Wallets,"Virk,",1,semi_synthetic_for_cv_development,True
+IMG000353_2,PROD10352,product_images/IMG000353_2.png,synthetic_product_visual,Bags,Wallets,"Virk,",2,semi_synthetic_for_cv_development,True
+IMG000354_1,PROD10353,product_images/IMG000354_1.png,synthetic_product_visual,Personal Care,Bath & Body,"Choudhury,",1,semi_synthetic_for_cv_development,True
+IMG000354_2,PROD10353,product_images/IMG000354_2.png,synthetic_product_visual,Personal Care,Bath & Body,"Choudhury,",2,semi_synthetic_for_cv_development,True
+IMG000355_1,PROD10354,product_images/IMG000355_1.png,synthetic_product_visual,Fashion,Winter Wear,Ramakrishnan,1,semi_synthetic_for_cv_development,True
+IMG000355_2,PROD10354,product_images/IMG000355_2.png,synthetic_product_visual,Fashion,Winter Wear,Ramakrishnan,2,semi_synthetic_for_cv_development,True
+IMG000356_1,PROD10355,product_images/IMG000356_1.png,synthetic_product_visual,Appliances,Fans & Coolers,Memon,1,semi_synthetic_for_cv_development,True
+IMG000356_2,PROD10355,product_images/IMG000356_2.png,synthetic_product_visual,Appliances,Fans & Coolers,Memon,2,semi_synthetic_for_cv_development,True
+IMG000357_1,PROD10356,product_images/IMG000357_1.png,synthetic_product_visual,Sports,Cycling,Lal,1,semi_synthetic_for_cv_development,True
+IMG000357_2,PROD10356,product_images/IMG000357_2.png,synthetic_product_visual,Sports,Cycling,Lal,2,semi_synthetic_for_cv_development,True
+IMG000358_1,PROD10357,product_images/IMG000358_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Keer,1,semi_synthetic_for_cv_development,True
+IMG000358_2,PROD10357,product_images/IMG000358_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Keer,2,semi_synthetic_for_cv_development,True
+IMG000359_1,PROD10358,product_images/IMG000359_1.png,synthetic_product_visual,Beauty,Fragrances,Barad-Singhal,1,semi_synthetic_for_cv_development,True
+IMG000359_2,PROD10358,product_images/IMG000359_2.png,synthetic_product_visual,Beauty,Fragrances,Barad-Singhal,2,semi_synthetic_for_cv_development,True
+IMG000360_1,PROD10359,product_images/IMG000360_1.png,synthetic_product_visual,Grocery,Snacks,"Solanki,",1,semi_synthetic_for_cv_development,True
+IMG000360_2,PROD10359,product_images/IMG000360_2.png,synthetic_product_visual,Grocery,Snacks,"Solanki,",2,semi_synthetic_for_cv_development,True
+IMG000361_1,PROD10360,product_images/IMG000361_1.png,synthetic_product_visual,Grocery,Dairy,Narayanan,1,semi_synthetic_for_cv_development,True
+IMG000361_2,PROD10360,product_images/IMG000361_2.png,synthetic_product_visual,Grocery,Dairy,Narayanan,2,semi_synthetic_for_cv_development,True
+IMG000362_1,PROD10361,product_images/IMG000362_1.png,synthetic_product_visual,Appliances,Kitchen Appliances,Sood,1,semi_synthetic_for_cv_development,True
+IMG000362_2,PROD10361,product_images/IMG000362_2.png,synthetic_product_visual,Appliances,Kitchen Appliances,Sood,2,semi_synthetic_for_cv_development,True
+IMG000363_1,PROD10362,product_images/IMG000363_1.png,synthetic_product_visual,Watches,Smart Watches,"Mittal,",1,semi_synthetic_for_cv_development,True
+IMG000363_2,PROD10362,product_images/IMG000363_2.png,synthetic_product_visual,Watches,Smart Watches,"Mittal,",2,semi_synthetic_for_cv_development,True
+IMG000364_1,PROD10363,product_images/IMG000364_1.png,synthetic_product_visual,Footwear,Women's Casual,Vaidya-D’Alia,1,semi_synthetic_for_cv_development,True
+IMG000364_2,PROD10363,product_images/IMG000364_2.png,synthetic_product_visual,Footwear,Women's Casual,Vaidya-D’Alia,2,semi_synthetic_for_cv_development,True
+IMG000365_1,PROD10364,product_images/IMG000365_1.png,synthetic_product_visual,Personal Care,Oral Care,Sarin,1,semi_synthetic_for_cv_development,True
+IMG000365_2,PROD10364,product_images/IMG000365_2.png,synthetic_product_visual,Personal Care,Oral Care,Sarin,2,semi_synthetic_for_cv_development,True
+IMG000366_1,PROD10365,product_images/IMG000366_1.png,synthetic_product_visual,Bags,Travel Bags,Bhatti-Kakar,1,semi_synthetic_for_cv_development,True
+IMG000366_2,PROD10365,product_images/IMG000366_2.png,synthetic_product_visual,Bags,Travel Bags,Bhatti-Kakar,2,semi_synthetic_for_cv_development,True
+IMG000367_1,PROD10366,product_images/IMG000367_1.png,synthetic_product_visual,Fashion,Men's Topwear,Ghosh-Mitra,1,semi_synthetic_for_cv_development,True
+IMG000367_2,PROD10366,product_images/IMG000367_2.png,synthetic_product_visual,Fashion,Men's Topwear,Ghosh-Mitra,2,semi_synthetic_for_cv_development,True
+IMG000368_1,PROD10367,product_images/IMG000368_1.png,synthetic_product_visual,Fashion,Men's Topwear,Apte-Contractor,1,semi_synthetic_for_cv_development,True
+IMG000368_2,PROD10367,product_images/IMG000368_2.png,synthetic_product_visual,Fashion,Men's Topwear,Apte-Contractor,2,semi_synthetic_for_cv_development,True
+IMG000369_1,PROD10368,product_images/IMG000369_1.png,synthetic_product_visual,Books,Non-Fiction,Pant-Kadakia,1,semi_synthetic_for_cv_development,True
+IMG000369_2,PROD10368,product_images/IMG000369_2.png,synthetic_product_visual,Books,Non-Fiction,Pant-Kadakia,2,semi_synthetic_for_cv_development,True
+IMG000370_1,PROD10369,product_images/IMG000370_1.png,synthetic_product_visual,Furniture,Office Furniture,"Baral,",1,semi_synthetic_for_cv_development,True
+IMG000370_2,PROD10369,product_images/IMG000370_2.png,synthetic_product_visual,Furniture,Office Furniture,"Baral,",2,semi_synthetic_for_cv_development,True
+IMG000371_1,PROD10370,product_images/IMG000371_1.png,synthetic_product_visual,Beauty,Fragrances,"Loke,",1,semi_synthetic_for_cv_development,True
+IMG000371_2,PROD10370,product_images/IMG000371_2.png,synthetic_product_visual,Beauty,Fragrances,"Loke,",2,semi_synthetic_for_cv_development,True
+IMG000372_1,PROD10371,product_images/IMG000372_1.png,synthetic_product_visual,Bags,Wallets,Sood,1,semi_synthetic_for_cv_development,True
+IMG000372_2,PROD10371,product_images/IMG000372_2.png,synthetic_product_visual,Bags,Wallets,Sood,2,semi_synthetic_for_cv_development,True
+IMG000373_1,PROD10372,product_images/IMG000373_1.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Kala-Vaidya,1,semi_synthetic_for_cv_development,True
+IMG000373_2,PROD10372,product_images/IMG000373_2.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Kala-Vaidya,2,semi_synthetic_for_cv_development,True
+IMG000374_1,PROD10373,product_images/IMG000374_1.png,synthetic_product_visual,Beauty,Skincare,"Khanna,",1,semi_synthetic_for_cv_development,True
+IMG000374_2,PROD10373,product_images/IMG000374_2.png,synthetic_product_visual,Beauty,Skincare,"Khanna,",2,semi_synthetic_for_cv_development,True
+IMG000375_1,PROD10374,product_images/IMG000375_1.png,synthetic_product_visual,Toys,Board Games,"Bhargava,",1,semi_synthetic_for_cv_development,True
+IMG000375_2,PROD10374,product_images/IMG000375_2.png,synthetic_product_visual,Toys,Board Games,"Bhargava,",2,semi_synthetic_for_cv_development,True
+IMG000376_1,PROD10375,product_images/IMG000376_1.png,synthetic_product_visual,Home & Kitchen,Cookware,"Ray,",1,semi_synthetic_for_cv_development,True
+IMG000376_2,PROD10375,product_images/IMG000376_2.png,synthetic_product_visual,Home & Kitchen,Cookware,"Ray,",2,semi_synthetic_for_cv_development,True
+IMG000377_1,PROD10376,product_images/IMG000377_1.png,synthetic_product_visual,Electronics,Speakers,Bhatti-Kakar,1,semi_synthetic_for_cv_development,True
+IMG000377_2,PROD10376,product_images/IMG000377_2.png,synthetic_product_visual,Electronics,Speakers,Bhatti-Kakar,2,semi_synthetic_for_cv_development,True
+IMG000378_1,PROD10377,product_images/IMG000378_1.png,synthetic_product_visual,Stationery,Pens & Pencils,Ramakrishnan,1,semi_synthetic_for_cv_development,True
+IMG000378_2,PROD10377,product_images/IMG000378_2.png,synthetic_product_visual,Stationery,Pens & Pencils,Ramakrishnan,2,semi_synthetic_for_cv_development,True
+IMG000379_1,PROD10378,product_images/IMG000379_1.png,synthetic_product_visual,Health & Wellness,Supplements,Grewal,1,semi_synthetic_for_cv_development,True
+IMG000379_2,PROD10378,product_images/IMG000379_2.png,synthetic_product_visual,Health & Wellness,Supplements,Grewal,2,semi_synthetic_for_cv_development,True
+IMG000380_1,PROD10379,product_images/IMG000380_1.png,synthetic_product_visual,Stationery,Art Supplies,Andra,1,semi_synthetic_for_cv_development,True
+IMG000380_2,PROD10379,product_images/IMG000380_2.png,synthetic_product_visual,Stationery,Art Supplies,Andra,2,semi_synthetic_for_cv_development,True
+IMG000381_1,PROD10380,product_images/IMG000381_1.png,synthetic_product_visual,Furniture,Storage,"Yadav,",1,semi_synthetic_for_cv_development,True
+IMG000381_2,PROD10380,product_images/IMG000381_2.png,synthetic_product_visual,Furniture,Storage,"Yadav,",2,semi_synthetic_for_cv_development,True
+IMG000382_1,PROD10381,product_images/IMG000382_1.png,synthetic_product_visual,Personal Care,Grooming,"Sane,",1,semi_synthetic_for_cv_development,True
+IMG000382_2,PROD10381,product_images/IMG000382_2.png,synthetic_product_visual,Personal Care,Grooming,"Sane,",2,semi_synthetic_for_cv_development,True
+IMG000383_1,PROD10382,product_images/IMG000383_1.png,synthetic_product_visual,Bags,Handbags,Zacharia,1,semi_synthetic_for_cv_development,True
+IMG000383_2,PROD10382,product_images/IMG000383_2.png,synthetic_product_visual,Bags,Handbags,Zacharia,2,semi_synthetic_for_cv_development,True
+IMG000384_1,PROD10383,product_images/IMG000384_1.png,synthetic_product_visual,Toys,Educational Toys,"Mittal,",1,semi_synthetic_for_cv_development,True
+IMG000384_2,PROD10383,product_images/IMG000384_2.png,synthetic_product_visual,Toys,Educational Toys,"Mittal,",2,semi_synthetic_for_cv_development,True
+IMG000385_1,PROD10384,product_images/IMG000385_1.png,synthetic_product_visual,Books,Non-Fiction,Gupta-Kumar,1,semi_synthetic_for_cv_development,True
+IMG000385_2,PROD10384,product_images/IMG000385_2.png,synthetic_product_visual,Books,Non-Fiction,Gupta-Kumar,2,semi_synthetic_for_cv_development,True
+IMG000386_1,PROD10385,product_images/IMG000386_1.png,synthetic_product_visual,Grocery,Snacks,Narayanan,1,semi_synthetic_for_cv_development,True
+IMG000386_2,PROD10385,product_images/IMG000386_2.png,synthetic_product_visual,Grocery,Snacks,Narayanan,2,semi_synthetic_for_cv_development,True
+IMG000387_1,PROD10386,product_images/IMG000387_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Iyengar,1,semi_synthetic_for_cv_development,True
+IMG000387_2,PROD10386,product_images/IMG000387_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Iyengar,2,semi_synthetic_for_cv_development,True
+IMG000388_1,PROD10387,product_images/IMG000388_1.png,synthetic_product_visual,Fashion,Winter Wear,"Chaudry,",1,semi_synthetic_for_cv_development,True
+IMG000388_2,PROD10387,product_images/IMG000388_2.png,synthetic_product_visual,Fashion,Winter Wear,"Chaudry,",2,semi_synthetic_for_cv_development,True
+IMG000389_1,PROD10388,product_images/IMG000389_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Gara-Chad,1,semi_synthetic_for_cv_development,True
+IMG000389_2,PROD10388,product_images/IMG000389_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Gara-Chad,2,semi_synthetic_for_cv_development,True
+IMG000390_1,PROD10389,product_images/IMG000390_1.png,synthetic_product_visual,Mobile Accessories,Chargers,Gola,1,semi_synthetic_for_cv_development,True
+IMG000390_2,PROD10389,product_images/IMG000390_2.png,synthetic_product_visual,Mobile Accessories,Chargers,Gola,2,semi_synthetic_for_cv_development,True
+IMG000391_1,PROD10390,product_images/IMG000391_1.png,synthetic_product_visual,Grocery,Packaged Food,Ramakrishnan,1,semi_synthetic_for_cv_development,True
+IMG000391_2,PROD10390,product_images/IMG000391_2.png,synthetic_product_visual,Grocery,Packaged Food,Ramakrishnan,2,semi_synthetic_for_cv_development,True
+IMG000392_1,PROD10391,product_images/IMG000392_1.png,synthetic_product_visual,Grocery,Dairy,Roy-Sibal,1,semi_synthetic_for_cv_development,True
+IMG000392_2,PROD10391,product_images/IMG000392_2.png,synthetic_product_visual,Grocery,Dairy,Roy-Sibal,2,semi_synthetic_for_cv_development,True
+IMG000393_1,PROD10392,product_images/IMG000393_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Gandhi-Lanka,1,semi_synthetic_for_cv_development,True
+IMG000393_2,PROD10392,product_images/IMG000393_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Gandhi-Lanka,2,semi_synthetic_for_cv_development,True
+IMG000394_1,PROD10393,product_images/IMG000394_1.png,synthetic_product_visual,Grocery,Dairy,Shanker-Dhar,1,semi_synthetic_for_cv_development,True
+IMG000394_2,PROD10393,product_images/IMG000394_2.png,synthetic_product_visual,Grocery,Dairy,Shanker-Dhar,2,semi_synthetic_for_cv_development,True
+IMG000395_1,PROD10394,product_images/IMG000395_1.png,synthetic_product_visual,Fashion,Women's Western Wear,"Hayer,",1,semi_synthetic_for_cv_development,True
+IMG000395_2,PROD10394,product_images/IMG000395_2.png,synthetic_product_visual,Fashion,Women's Western Wear,"Hayer,",2,semi_synthetic_for_cv_development,True
+IMG000396_1,PROD10395,product_images/IMG000396_1.png,synthetic_product_visual,Fashion,Kids Wear,Gala,1,semi_synthetic_for_cv_development,True
+IMG000396_2,PROD10395,product_images/IMG000396_2.png,synthetic_product_visual,Fashion,Kids Wear,Gala,2,semi_synthetic_for_cv_development,True
+IMG000397_1,PROD10396,product_images/IMG000397_1.png,synthetic_product_visual,Footwear,Sports Shoes,"Bala,",1,semi_synthetic_for_cv_development,True
+IMG000397_2,PROD10396,product_images/IMG000397_2.png,synthetic_product_visual,Footwear,Sports Shoes,"Bala,",2,semi_synthetic_for_cv_development,True
+IMG000398_1,PROD10397,product_images/IMG000398_1.png,synthetic_product_visual,Electronics,Smartwatches,Borra,1,semi_synthetic_for_cv_development,True
+IMG000398_2,PROD10397,product_images/IMG000398_2.png,synthetic_product_visual,Electronics,Smartwatches,Borra,2,semi_synthetic_for_cv_development,True
+IMG000399_1,PROD10398,product_images/IMG000399_1.png,synthetic_product_visual,Books,Comics,"Lalla,",1,semi_synthetic_for_cv_development,True
+IMG000399_2,PROD10398,product_images/IMG000399_2.png,synthetic_product_visual,Books,Comics,"Lalla,",2,semi_synthetic_for_cv_development,True
+IMG000400_1,PROD10399,product_images/IMG000400_1.png,synthetic_product_visual,Grocery,Dairy,Ray,1,semi_synthetic_for_cv_development,True
+IMG000400_2,PROD10399,product_images/IMG000400_2.png,synthetic_product_visual,Grocery,Dairy,Ray,2,semi_synthetic_for_cv_development,True
+IMG000401_1,PROD10400,product_images/IMG000401_1.png,synthetic_product_visual,Toys,Board Games,Karpe,1,semi_synthetic_for_cv_development,True
+IMG000401_2,PROD10400,product_images/IMG000401_2.png,synthetic_product_visual,Toys,Board Games,Karpe,2,semi_synthetic_for_cv_development,True
+IMG000402_1,PROD10401,product_images/IMG000402_1.png,synthetic_product_visual,Bags,Handbags,Roy-Sibal,1,semi_synthetic_for_cv_development,True
+IMG000402_2,PROD10401,product_images/IMG000402_2.png,synthetic_product_visual,Bags,Handbags,Roy-Sibal,2,semi_synthetic_for_cv_development,True
+IMG000403_1,PROD10402,product_images/IMG000403_1.png,synthetic_product_visual,Home & Kitchen,Dinnerware,Mutti,1,semi_synthetic_for_cv_development,True
+IMG000403_2,PROD10402,product_images/IMG000403_2.png,synthetic_product_visual,Home & Kitchen,Dinnerware,Mutti,2,semi_synthetic_for_cv_development,True
+IMG000404_1,PROD10403,product_images/IMG000404_1.png,synthetic_product_visual,Fashion,Winter Wear,Chanda,1,semi_synthetic_for_cv_development,True
+IMG000404_2,PROD10403,product_images/IMG000404_2.png,synthetic_product_visual,Fashion,Winter Wear,Chanda,2,semi_synthetic_for_cv_development,True
+IMG000405_1,PROD10404,product_images/IMG000405_1.png,synthetic_product_visual,Bags,Wallets,"Sami,",1,semi_synthetic_for_cv_development,True
+IMG000405_2,PROD10404,product_images/IMG000405_2.png,synthetic_product_visual,Bags,Wallets,"Sami,",2,semi_synthetic_for_cv_development,True
+IMG000406_1,PROD10405,product_images/IMG000406_1.png,synthetic_product_visual,Books,Academic,Dutta,1,semi_synthetic_for_cv_development,True
+IMG000406_2,PROD10405,product_images/IMG000406_2.png,synthetic_product_visual,Books,Academic,Dutta,2,semi_synthetic_for_cv_development,True
+IMG000407_1,PROD10406,product_images/IMG000407_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Grewal,1,semi_synthetic_for_cv_development,True
+IMG000407_2,PROD10406,product_images/IMG000407_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Grewal,2,semi_synthetic_for_cv_development,True
+IMG000408_1,PROD10407,product_images/IMG000408_1.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Naik,1,semi_synthetic_for_cv_development,True
+IMG000408_2,PROD10407,product_images/IMG000408_2.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Naik,2,semi_synthetic_for_cv_development,True
+IMG000409_1,PROD10408,product_images/IMG000409_1.png,synthetic_product_visual,Grocery,Snacks,Kala-Vaidya,1,semi_synthetic_for_cv_development,True
+IMG000409_2,PROD10408,product_images/IMG000409_2.png,synthetic_product_visual,Grocery,Snacks,Kala-Vaidya,2,semi_synthetic_for_cv_development,True
+IMG000410_1,PROD10409,product_images/IMG000410_1.png,synthetic_product_visual,Fashion,Kids Wear,Sarin,1,semi_synthetic_for_cv_development,True
+IMG000410_2,PROD10409,product_images/IMG000410_2.png,synthetic_product_visual,Fashion,Kids Wear,Sarin,2,semi_synthetic_for_cv_development,True
+IMG000411_1,PROD10410,product_images/IMG000411_1.png,synthetic_product_visual,Mobile Accessories,Cables,"Bhagat,",1,semi_synthetic_for_cv_development,True
+IMG000411_2,PROD10410,product_images/IMG000411_2.png,synthetic_product_visual,Mobile Accessories,Cables,"Bhagat,",2,semi_synthetic_for_cv_development,True
+IMG000412_1,PROD10411,product_images/IMG000412_1.png,synthetic_product_visual,Appliances,Air Conditioners,"Baral,",1,semi_synthetic_for_cv_development,True
+IMG000412_2,PROD10411,product_images/IMG000412_2.png,synthetic_product_visual,Appliances,Air Conditioners,"Baral,",2,semi_synthetic_for_cv_development,True
+IMG000413_1,PROD10412,product_images/IMG000413_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,Pant-Kadakia,1,semi_synthetic_for_cv_development,True
+IMG000413_2,PROD10412,product_images/IMG000413_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,Pant-Kadakia,2,semi_synthetic_for_cv_development,True
+IMG000414_1,PROD10413,product_images/IMG000414_1.png,synthetic_product_visual,Furniture,Bedroom,"Kade,",1,semi_synthetic_for_cv_development,True
+IMG000414_2,PROD10413,product_images/IMG000414_2.png,synthetic_product_visual,Furniture,Bedroom,"Kade,",2,semi_synthetic_for_cv_development,True
+IMG000415_1,PROD10414,product_images/IMG000415_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Nair,",1,semi_synthetic_for_cv_development,True
+IMG000415_2,PROD10414,product_images/IMG000415_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Nair,",2,semi_synthetic_for_cv_development,True
+IMG000416_1,PROD10415,product_images/IMG000416_1.png,synthetic_product_visual,Fashion,Men's Topwear,Handa,1,semi_synthetic_for_cv_development,True
+IMG000416_2,PROD10415,product_images/IMG000416_2.png,synthetic_product_visual,Fashion,Men's Topwear,Handa,2,semi_synthetic_for_cv_development,True
+IMG000417_1,PROD10416,product_images/IMG000417_1.png,synthetic_product_visual,Books,Fiction,Barad-Singhal,1,semi_synthetic_for_cv_development,True
+IMG000417_2,PROD10416,product_images/IMG000417_2.png,synthetic_product_visual,Books,Fiction,Barad-Singhal,2,semi_synthetic_for_cv_development,True
+IMG000418_1,PROD10417,product_images/IMG000418_1.png,synthetic_product_visual,Appliances,Air Conditioners,Goda,1,semi_synthetic_for_cv_development,True
+IMG000418_2,PROD10417,product_images/IMG000418_2.png,synthetic_product_visual,Appliances,Air Conditioners,Goda,2,semi_synthetic_for_cv_development,True
+IMG000419_1,PROD10418,product_images/IMG000419_1.png,synthetic_product_visual,Personal Care,Grooming,Pingle,1,semi_synthetic_for_cv_development,True
+IMG000419_2,PROD10418,product_images/IMG000419_2.png,synthetic_product_visual,Personal Care,Grooming,Pingle,2,semi_synthetic_for_cv_development,True
+IMG000420_1,PROD10419,product_images/IMG000420_1.png,synthetic_product_visual,Mobile Accessories,Cables,Rastogi,1,semi_synthetic_for_cv_development,True
+IMG000420_2,PROD10419,product_images/IMG000420_2.png,synthetic_product_visual,Mobile Accessories,Cables,Rastogi,2,semi_synthetic_for_cv_development,True
+IMG000421_1,PROD10420,product_images/IMG000421_1.png,synthetic_product_visual,Bags,Travel Bags,Karpe,1,semi_synthetic_for_cv_development,True
+IMG000421_2,PROD10420,product_images/IMG000421_2.png,synthetic_product_visual,Bags,Travel Bags,Karpe,2,semi_synthetic_for_cv_development,True
+IMG000422_1,PROD10421,product_images/IMG000422_1.png,synthetic_product_visual,Electronics,Smartphones,Mody-Kari,1,semi_synthetic_for_cv_development,True
+IMG000422_2,PROD10421,product_images/IMG000422_2.png,synthetic_product_visual,Electronics,Smartphones,Mody-Kari,2,semi_synthetic_for_cv_development,True
+IMG000423_1,PROD10422,product_images/IMG000423_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Lala,",1,semi_synthetic_for_cv_development,True
+IMG000423_2,PROD10422,product_images/IMG000423_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,"Lala,",2,semi_synthetic_for_cv_development,True
+IMG000424_1,PROD10423,product_images/IMG000424_1.png,synthetic_product_visual,Baby Care,Diapers,Parmer,1,semi_synthetic_for_cv_development,True
+IMG000424_2,PROD10423,product_images/IMG000424_2.png,synthetic_product_visual,Baby Care,Diapers,Parmer,2,semi_synthetic_for_cv_development,True
+IMG000425_1,PROD10424,product_images/IMG000425_1.png,synthetic_product_visual,Grocery,Beverages,Vaidya-D’Alia,1,semi_synthetic_for_cv_development,True
+IMG000425_2,PROD10424,product_images/IMG000425_2.png,synthetic_product_visual,Grocery,Beverages,Vaidya-D’Alia,2,semi_synthetic_for_cv_development,True
+IMG000426_1,PROD10425,product_images/IMG000426_1.png,synthetic_product_visual,Footwear,Men's Casual,"Khanna,",1,semi_synthetic_for_cv_development,True
+IMG000426_2,PROD10425,product_images/IMG000426_2.png,synthetic_product_visual,Footwear,Men's Casual,"Khanna,",2,semi_synthetic_for_cv_development,True
+IMG000427_1,PROD10426,product_images/IMG000427_1.png,synthetic_product_visual,Mobile Accessories,Cables,D’Alia-Chhabra,1,semi_synthetic_for_cv_development,True
+IMG000427_2,PROD10426,product_images/IMG000427_2.png,synthetic_product_visual,Mobile Accessories,Cables,D’Alia-Chhabra,2,semi_synthetic_for_cv_development,True
+IMG000428_1,PROD10427,product_images/IMG000428_1.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Kala-Vaidya,1,semi_synthetic_for_cv_development,True
+IMG000428_2,PROD10427,product_images/IMG000428_2.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Kala-Vaidya,2,semi_synthetic_for_cv_development,True
+IMG000429_1,PROD10428,product_images/IMG000429_1.png,synthetic_product_visual,Grocery,Packaged Food,Setty,1,semi_synthetic_for_cv_development,True
+IMG000429_2,PROD10428,product_images/IMG000429_2.png,synthetic_product_visual,Grocery,Packaged Food,Setty,2,semi_synthetic_for_cv_development,True
+IMG000430_1,PROD10429,product_images/IMG000430_1.png,synthetic_product_visual,Watches,Digital Watches,Bhatti-Kakar,1,semi_synthetic_for_cv_development,True
+IMG000430_2,PROD10429,product_images/IMG000430_2.png,synthetic_product_visual,Watches,Digital Watches,Bhatti-Kakar,2,semi_synthetic_for_cv_development,True
+IMG000431_1,PROD10430,product_images/IMG000431_1.png,synthetic_product_visual,Health & Wellness,Medical Devices,"Lala,",1,semi_synthetic_for_cv_development,True
+IMG000431_2,PROD10430,product_images/IMG000431_2.png,synthetic_product_visual,Health & Wellness,Medical Devices,"Lala,",2,semi_synthetic_for_cv_development,True
+IMG000432_1,PROD10431,product_images/IMG000432_1.png,synthetic_product_visual,Home & Kitchen,Cookware,Palla,1,semi_synthetic_for_cv_development,True
+IMG000432_2,PROD10431,product_images/IMG000432_2.png,synthetic_product_visual,Home & Kitchen,Cookware,Palla,2,semi_synthetic_for_cv_development,True
+IMG000433_1,PROD10432,product_images/IMG000433_1.png,synthetic_product_visual,Appliances,Fans & Coolers,Gola,1,semi_synthetic_for_cv_development,True
+IMG000433_2,PROD10432,product_images/IMG000433_2.png,synthetic_product_visual,Appliances,Fans & Coolers,Gola,2,semi_synthetic_for_cv_development,True
+IMG000434_1,PROD10433,product_images/IMG000434_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Bhatti-Kakar,1,semi_synthetic_for_cv_development,True
+IMG000434_2,PROD10433,product_images/IMG000434_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Bhatti-Kakar,2,semi_synthetic_for_cv_development,True
+IMG000435_1,PROD10434,product_images/IMG000435_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,Gara-Chad,1,semi_synthetic_for_cv_development,True
+IMG000435_2,PROD10434,product_images/IMG000435_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,Gara-Chad,2,semi_synthetic_for_cv_development,True
+IMG000436_1,PROD10435,product_images/IMG000436_1.png,synthetic_product_visual,Appliances,Air Conditioners,"Boase,",1,semi_synthetic_for_cv_development,True
+IMG000436_2,PROD10435,product_images/IMG000436_2.png,synthetic_product_visual,Appliances,Air Conditioners,"Boase,",2,semi_synthetic_for_cv_development,True
+IMG000437_1,PROD10436,product_images/IMG000437_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,"Sunder,",1,semi_synthetic_for_cv_development,True
+IMG000437_2,PROD10436,product_images/IMG000437_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,"Sunder,",2,semi_synthetic_for_cv_development,True
+IMG000438_1,PROD10437,product_images/IMG000438_1.png,synthetic_product_visual,Grocery,Dairy,"Nair,",1,semi_synthetic_for_cv_development,True
+IMG000438_2,PROD10437,product_images/IMG000438_2.png,synthetic_product_visual,Grocery,Dairy,"Nair,",2,semi_synthetic_for_cv_development,True
+IMG000439_1,PROD10438,product_images/IMG000439_1.png,synthetic_product_visual,Stationery,Pens & Pencils,Wali-Nadig,1,semi_synthetic_for_cv_development,True
+IMG000439_2,PROD10438,product_images/IMG000439_2.png,synthetic_product_visual,Stationery,Pens & Pencils,Wali-Nadig,2,semi_synthetic_for_cv_development,True
+IMG000440_1,PROD10439,product_images/IMG000440_1.png,synthetic_product_visual,Bags,Backpacks,Koshy,1,semi_synthetic_for_cv_development,True
+IMG000440_2,PROD10439,product_images/IMG000440_2.png,synthetic_product_visual,Bags,Backpacks,Koshy,2,semi_synthetic_for_cv_development,True
+IMG000441_1,PROD10440,product_images/IMG000441_1.png,synthetic_product_visual,Automotive Accessories,Car Accessories,Soman,1,semi_synthetic_for_cv_development,True
+IMG000441_2,PROD10440,product_images/IMG000441_2.png,synthetic_product_visual,Automotive Accessories,Car Accessories,Soman,2,semi_synthetic_for_cv_development,True
+IMG000442_1,PROD10441,product_images/IMG000442_1.png,synthetic_product_visual,Furniture,Living Room,Keer,1,semi_synthetic_for_cv_development,True
+IMG000442_2,PROD10441,product_images/IMG000442_2.png,synthetic_product_visual,Furniture,Living Room,Keer,2,semi_synthetic_for_cv_development,True
+IMG000443_1,PROD10442,product_images/IMG000443_1.png,synthetic_product_visual,Electronics,Cameras,Bhatt,1,semi_synthetic_for_cv_development,True
+IMG000443_2,PROD10442,product_images/IMG000443_2.png,synthetic_product_visual,Electronics,Cameras,Bhatt,2,semi_synthetic_for_cv_development,True
+IMG000444_1,PROD10443,product_images/IMG000444_1.png,synthetic_product_visual,Sports,Yoga,"Yadav,",1,semi_synthetic_for_cv_development,True
+IMG000444_2,PROD10443,product_images/IMG000444_2.png,synthetic_product_visual,Sports,Yoga,"Yadav,",2,semi_synthetic_for_cv_development,True
+IMG000445_1,PROD10444,product_images/IMG000445_1.png,synthetic_product_visual,Grocery,Staples,Borra,1,semi_synthetic_for_cv_development,True
+IMG000445_2,PROD10444,product_images/IMG000445_2.png,synthetic_product_visual,Grocery,Staples,Borra,2,semi_synthetic_for_cv_development,True
+IMG000446_1,PROD10445,product_images/IMG000446_1.png,synthetic_product_visual,Electronics,Laptops,Kala-Vaidya,1,semi_synthetic_for_cv_development,True
+IMG000446_2,PROD10445,product_images/IMG000446_2.png,synthetic_product_visual,Electronics,Laptops,Kala-Vaidya,2,semi_synthetic_for_cv_development,True
+IMG000447_1,PROD10446,product_images/IMG000447_1.png,synthetic_product_visual,Mobile Accessories,Cables,Dewan-Koshy,1,semi_synthetic_for_cv_development,True
+IMG000447_2,PROD10446,product_images/IMG000447_2.png,synthetic_product_visual,Mobile Accessories,Cables,Dewan-Koshy,2,semi_synthetic_for_cv_development,True
+IMG000448_1,PROD10447,product_images/IMG000448_1.png,synthetic_product_visual,Bags,Backpacks,Dutta,1,semi_synthetic_for_cv_development,True
+IMG000448_2,PROD10447,product_images/IMG000448_2.png,synthetic_product_visual,Bags,Backpacks,Dutta,2,semi_synthetic_for_cv_development,True
+IMG000449_1,PROD10448,product_images/IMG000449_1.png,synthetic_product_visual,Sports,Yoga,"Khanna,",1,semi_synthetic_for_cv_development,True
+IMG000449_2,PROD10448,product_images/IMG000449_2.png,synthetic_product_visual,Sports,Yoga,"Khanna,",2,semi_synthetic_for_cv_development,True
+IMG000450_1,PROD10449,product_images/IMG000450_1.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Kaul,1,semi_synthetic_for_cv_development,True
+IMG000450_2,PROD10449,product_images/IMG000450_2.png,synthetic_product_visual,Home & Kitchen,Storage & Containers,Kaul,2,semi_synthetic_for_cv_development,True
+IMG000451_1,PROD10450,product_images/IMG000451_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,"Dash,",1,semi_synthetic_for_cv_development,True
+IMG000451_2,PROD10450,product_images/IMG000451_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,"Dash,",2,semi_synthetic_for_cv_development,True
+IMG000452_1,PROD10451,product_images/IMG000452_1.png,synthetic_product_visual,Fashion,Winter Wear,"Divan,",1,semi_synthetic_for_cv_development,True
+IMG000452_2,PROD10451,product_images/IMG000452_2.png,synthetic_product_visual,Fashion,Winter Wear,"Divan,",2,semi_synthetic_for_cv_development,True
+IMG000453_1,PROD10452,product_images/IMG000453_1.png,synthetic_product_visual,Fashion,Men's Topwear,Buch-Kaul,1,semi_synthetic_for_cv_development,True
+IMG000453_2,PROD10452,product_images/IMG000453_2.png,synthetic_product_visual,Fashion,Men's Topwear,Buch-Kaul,2,semi_synthetic_for_cv_development,True
+IMG000454_1,PROD10453,product_images/IMG000454_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Chaudhry,",1,semi_synthetic_for_cv_development,True
+IMG000454_2,PROD10453,product_images/IMG000454_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Chaudhry,",2,semi_synthetic_for_cv_development,True
+IMG000455_1,PROD10454,product_images/IMG000455_1.png,synthetic_product_visual,Footwear,Formal Shoes,Shanker-Dhar,1,semi_synthetic_for_cv_development,True
+IMG000455_2,PROD10454,product_images/IMG000455_2.png,synthetic_product_visual,Footwear,Formal Shoes,Shanker-Dhar,2,semi_synthetic_for_cv_development,True
+IMG000456_1,PROD10455,product_images/IMG000456_1.png,synthetic_product_visual,Grocery,Packaged Food,Karpe,1,semi_synthetic_for_cv_development,True
+IMG000456_2,PROD10455,product_images/IMG000456_2.png,synthetic_product_visual,Grocery,Packaged Food,Karpe,2,semi_synthetic_for_cv_development,True
+IMG000457_1,PROD10456,product_images/IMG000457_1.png,synthetic_product_visual,Health & Wellness,Supplements,Salvi,1,semi_synthetic_for_cv_development,True
+IMG000457_2,PROD10456,product_images/IMG000457_2.png,synthetic_product_visual,Health & Wellness,Supplements,Salvi,2,semi_synthetic_for_cv_development,True
+IMG000458_1,PROD10457,product_images/IMG000458_1.png,synthetic_product_visual,Beauty,Fragrances,Ahuja-Dutta,1,semi_synthetic_for_cv_development,True
+IMG000458_2,PROD10457,product_images/IMG000458_2.png,synthetic_product_visual,Beauty,Fragrances,Ahuja-Dutta,2,semi_synthetic_for_cv_development,True
+IMG000459_1,PROD10458,product_images/IMG000459_1.png,synthetic_product_visual,Fashion,Women's Western Wear,Behl-Chanda,1,semi_synthetic_for_cv_development,True
+IMG000459_2,PROD10458,product_images/IMG000459_2.png,synthetic_product_visual,Fashion,Women's Western Wear,Behl-Chanda,2,semi_synthetic_for_cv_development,True
+IMG000460_1,PROD10459,product_images/IMG000460_1.png,synthetic_product_visual,Footwear,Men's Casual,"Saraf,",1,semi_synthetic_for_cv_development,True
+IMG000460_2,PROD10459,product_images/IMG000460_2.png,synthetic_product_visual,Footwear,Men's Casual,"Saraf,",2,semi_synthetic_for_cv_development,True
+IMG000461_1,PROD10460,product_images/IMG000461_1.png,synthetic_product_visual,Musical Instruments,Percussion,Patla-Gaba,1,semi_synthetic_for_cv_development,True
+IMG000461_2,PROD10460,product_images/IMG000461_2.png,synthetic_product_visual,Musical Instruments,Percussion,Patla-Gaba,2,semi_synthetic_for_cv_development,True
+IMG000462_1,PROD10461,product_images/IMG000462_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,"Yadav,",1,semi_synthetic_for_cv_development,True
+IMG000462_2,PROD10461,product_images/IMG000462_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,"Yadav,",2,semi_synthetic_for_cv_development,True
+IMG000463_1,PROD10462,product_images/IMG000463_1.png,synthetic_product_visual,Office Supplies,Printers,Borra,1,semi_synthetic_for_cv_development,True
+IMG000463_2,PROD10462,product_images/IMG000463_2.png,synthetic_product_visual,Office Supplies,Printers,Borra,2,semi_synthetic_for_cv_development,True
+IMG000464_1,PROD10463,product_images/IMG000464_1.png,synthetic_product_visual,Home & Kitchen,Bedding,Varma-Nayak,1,semi_synthetic_for_cv_development,True
+IMG000464_2,PROD10463,product_images/IMG000464_2.png,synthetic_product_visual,Home & Kitchen,Bedding,Varma-Nayak,2,semi_synthetic_for_cv_development,True
+IMG000465_1,PROD10464,product_images/IMG000465_1.png,synthetic_product_visual,Appliances,Air Conditioners,"Mittal,",1,semi_synthetic_for_cv_development,True
+IMG000465_2,PROD10464,product_images/IMG000465_2.png,synthetic_product_visual,Appliances,Air Conditioners,"Mittal,",2,semi_synthetic_for_cv_development,True
+IMG000466_1,PROD10465,product_images/IMG000466_1.png,synthetic_product_visual,Toys,Board Games,Barad-Singhal,1,semi_synthetic_for_cv_development,True
+IMG000466_2,PROD10465,product_images/IMG000466_2.png,synthetic_product_visual,Toys,Board Games,Barad-Singhal,2,semi_synthetic_for_cv_development,True
+IMG000467_1,PROD10466,product_images/IMG000467_1.png,synthetic_product_visual,Electronics,Cameras,"Krish,",1,semi_synthetic_for_cv_development,True
+IMG000467_2,PROD10466,product_images/IMG000467_2.png,synthetic_product_visual,Electronics,Cameras,"Krish,",2,semi_synthetic_for_cv_development,True
+IMG000468_1,PROD10467,product_images/IMG000468_1.png,synthetic_product_visual,Musical Instruments,Electronic Instruments,"Yohannan,",1,semi_synthetic_for_cv_development,True
+IMG000468_2,PROD10467,product_images/IMG000468_2.png,synthetic_product_visual,Musical Instruments,Electronic Instruments,"Yohannan,",2,semi_synthetic_for_cv_development,True
+IMG000469_1,PROD10468,product_images/IMG000469_1.png,synthetic_product_visual,Sports,Cycling,Bhatt,1,semi_synthetic_for_cv_development,True
+IMG000469_2,PROD10468,product_images/IMG000469_2.png,synthetic_product_visual,Sports,Cycling,Bhatt,2,semi_synthetic_for_cv_development,True
+IMG000470_1,PROD10469,product_images/IMG000470_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Bhargava,",1,semi_synthetic_for_cv_development,True
+IMG000470_2,PROD10469,product_images/IMG000470_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Bhargava,",2,semi_synthetic_for_cv_development,True
+IMG000471_1,PROD10470,product_images/IMG000471_1.png,synthetic_product_visual,Footwear,Sports Shoes,Barad-Singhal,1,semi_synthetic_for_cv_development,True
+IMG000471_2,PROD10470,product_images/IMG000471_2.png,synthetic_product_visual,Footwear,Sports Shoes,Barad-Singhal,2,semi_synthetic_for_cv_development,True
+IMG000472_1,PROD10471,product_images/IMG000472_1.png,synthetic_product_visual,Books,Children's Books,Mutti,1,semi_synthetic_for_cv_development,True
+IMG000472_2,PROD10471,product_images/IMG000472_2.png,synthetic_product_visual,Books,Children's Books,Mutti,2,semi_synthetic_for_cv_development,True
+IMG000473_1,PROD10472,product_images/IMG000473_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Bhat,",1,semi_synthetic_for_cv_development,True
+IMG000473_2,PROD10472,product_images/IMG000473_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Bhat,",2,semi_synthetic_for_cv_development,True
+IMG000474_1,PROD10473,product_images/IMG000474_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Pingle,1,semi_synthetic_for_cv_development,True
+IMG000474_2,PROD10473,product_images/IMG000474_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Pingle,2,semi_synthetic_for_cv_development,True
+IMG000475_1,PROD10474,product_images/IMG000475_1.png,synthetic_product_visual,Electronics,Tablets,Boase-Mallick,1,semi_synthetic_for_cv_development,True
+IMG000475_2,PROD10474,product_images/IMG000475_2.png,synthetic_product_visual,Electronics,Tablets,Boase-Mallick,2,semi_synthetic_for_cv_development,True
+IMG000476_1,PROD10475,product_images/IMG000476_1.png,synthetic_product_visual,Stationery,Notebooks,"Konda,",1,semi_synthetic_for_cv_development,True
+IMG000476_2,PROD10475,product_images/IMG000476_2.png,synthetic_product_visual,Stationery,Notebooks,"Konda,",2,semi_synthetic_for_cv_development,True
+IMG000477_1,PROD10476,product_images/IMG000477_1.png,synthetic_product_visual,Beauty,Fragrances,Mutti,1,semi_synthetic_for_cv_development,True
+IMG000477_2,PROD10476,product_images/IMG000477_2.png,synthetic_product_visual,Beauty,Fragrances,Mutti,2,semi_synthetic_for_cv_development,True
+IMG000478_1,PROD10477,product_images/IMG000478_1.png,synthetic_product_visual,Toys,Board Games,Dutta,1,semi_synthetic_for_cv_development,True
+IMG000478_2,PROD10477,product_images/IMG000478_2.png,synthetic_product_visual,Toys,Board Games,Dutta,2,semi_synthetic_for_cv_development,True
+IMG000479_1,PROD10478,product_images/IMG000479_1.png,synthetic_product_visual,Furniture,Living Room,"Shetty,",1,semi_synthetic_for_cv_development,True
+IMG000479_2,PROD10478,product_images/IMG000479_2.png,synthetic_product_visual,Furniture,Living Room,"Shetty,",2,semi_synthetic_for_cv_development,True
+IMG000480_1,PROD10479,product_images/IMG000480_1.png,synthetic_product_visual,Personal Care,Grooming,"Bir,",1,semi_synthetic_for_cv_development,True
+IMG000480_2,PROD10479,product_images/IMG000480_2.png,synthetic_product_visual,Personal Care,Grooming,"Bir,",2,semi_synthetic_for_cv_development,True
+IMG000481_1,PROD10480,product_images/IMG000481_1.png,synthetic_product_visual,Health & Wellness,Supplements,"Sane,",1,semi_synthetic_for_cv_development,True
+IMG000481_2,PROD10480,product_images/IMG000481_2.png,synthetic_product_visual,Health & Wellness,Supplements,"Sane,",2,semi_synthetic_for_cv_development,True
+IMG000482_1,PROD10481,product_images/IMG000482_1.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,"Dash,",1,semi_synthetic_for_cv_development,True
+IMG000482_2,PROD10481,product_images/IMG000482_2.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,"Dash,",2,semi_synthetic_for_cv_development,True
+IMG000483_1,PROD10482,product_images/IMG000483_1.png,synthetic_product_visual,Stationery,Art Supplies,"Mital,",1,semi_synthetic_for_cv_development,True
+IMG000483_2,PROD10482,product_images/IMG000483_2.png,synthetic_product_visual,Stationery,Art Supplies,"Mital,",2,semi_synthetic_for_cv_development,True
+IMG000484_1,PROD10483,product_images/IMG000484_1.png,synthetic_product_visual,Sports,Cycling,Boase-Narayanan,1,semi_synthetic_for_cv_development,True
+IMG000484_2,PROD10483,product_images/IMG000484_2.png,synthetic_product_visual,Sports,Cycling,Boase-Narayanan,2,semi_synthetic_for_cv_development,True
+IMG000485_1,PROD10484,product_images/IMG000485_1.png,synthetic_product_visual,Electronics,Laptops,Lal,1,semi_synthetic_for_cv_development,True
+IMG000485_2,PROD10484,product_images/IMG000485_2.png,synthetic_product_visual,Electronics,Laptops,Lal,2,semi_synthetic_for_cv_development,True
+IMG000486_1,PROD10485,product_images/IMG000486_1.png,synthetic_product_visual,Watches,Analog Watches,Randhawa-Deep,1,semi_synthetic_for_cv_development,True
+IMG000486_2,PROD10485,product_images/IMG000486_2.png,synthetic_product_visual,Watches,Analog Watches,Randhawa-Deep,2,semi_synthetic_for_cv_development,True
+IMG000487_1,PROD10486,product_images/IMG000487_1.png,synthetic_product_visual,Sports,Yoga,"Yohannan,",1,semi_synthetic_for_cv_development,True
+IMG000487_2,PROD10486,product_images/IMG000487_2.png,synthetic_product_visual,Sports,Yoga,"Yohannan,",2,semi_synthetic_for_cv_development,True
+IMG000488_1,PROD10487,product_images/IMG000488_1.png,synthetic_product_visual,Home & Kitchen,Bedding,Amble,1,semi_synthetic_for_cv_development,True
+IMG000488_2,PROD10487,product_images/IMG000488_2.png,synthetic_product_visual,Home & Kitchen,Bedding,Amble,2,semi_synthetic_for_cv_development,True
+IMG000489_1,PROD10488,product_images/IMG000489_1.png,synthetic_product_visual,Fashion,Kids Wear,Kar-Issac,1,semi_synthetic_for_cv_development,True
+IMG000489_2,PROD10488,product_images/IMG000489_2.png,synthetic_product_visual,Fashion,Kids Wear,Kar-Issac,2,semi_synthetic_for_cv_development,True
+IMG000490_1,PROD10489,product_images/IMG000490_1.png,synthetic_product_visual,Grocery,Packaged Food,"Sen,",1,semi_synthetic_for_cv_development,True
+IMG000490_2,PROD10489,product_images/IMG000490_2.png,synthetic_product_visual,Grocery,Packaged Food,"Sen,",2,semi_synthetic_for_cv_development,True
+IMG000491_1,PROD10490,product_images/IMG000491_1.png,synthetic_product_visual,Bags,Handbags,Mallick,1,semi_synthetic_for_cv_development,True
+IMG000491_2,PROD10490,product_images/IMG000491_2.png,synthetic_product_visual,Bags,Handbags,Mallick,2,semi_synthetic_for_cv_development,True
+IMG000492_1,PROD10491,product_images/IMG000492_1.png,synthetic_product_visual,Furniture,Office Furniture,"Baral,",1,semi_synthetic_for_cv_development,True
+IMG000492_2,PROD10491,product_images/IMG000492_2.png,synthetic_product_visual,Furniture,Office Furniture,"Baral,",2,semi_synthetic_for_cv_development,True
+IMG000493_1,PROD10492,product_images/IMG000493_1.png,synthetic_product_visual,Electronics,Smartphones,Khatri-Bhardwaj,1,semi_synthetic_for_cv_development,True
+IMG000493_2,PROD10492,product_images/IMG000493_2.png,synthetic_product_visual,Electronics,Smartphones,Khatri-Bhardwaj,2,semi_synthetic_for_cv_development,True
+IMG000494_1,PROD10493,product_images/IMG000494_1.png,synthetic_product_visual,Health & Wellness,Medical Devices,Behl-Chanda,1,semi_synthetic_for_cv_development,True
+IMG000494_2,PROD10493,product_images/IMG000494_2.png,synthetic_product_visual,Health & Wellness,Medical Devices,Behl-Chanda,2,semi_synthetic_for_cv_development,True
+IMG000495_1,PROD10494,product_images/IMG000495_1.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Ahuja-Dutta,1,semi_synthetic_for_cv_development,True
+IMG000495_2,PROD10494,product_images/IMG000495_2.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,Ahuja-Dutta,2,semi_synthetic_for_cv_development,True
+IMG000496_1,PROD10495,product_images/IMG000496_1.png,synthetic_product_visual,Watches,Digital Watches,Acharya-Modi,1,semi_synthetic_for_cv_development,True
+IMG000496_2,PROD10495,product_images/IMG000496_2.png,synthetic_product_visual,Watches,Digital Watches,Acharya-Modi,2,semi_synthetic_for_cv_development,True
+IMG000497_1,PROD10496,product_images/IMG000497_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,"Divan,",1,semi_synthetic_for_cv_development,True
+IMG000497_2,PROD10496,product_images/IMG000497_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,"Divan,",2,semi_synthetic_for_cv_development,True
+IMG000498_1,PROD10497,product_images/IMG000498_1.png,synthetic_product_visual,Sports,Yoga,"Lall,",1,semi_synthetic_for_cv_development,True
+IMG000498_2,PROD10497,product_images/IMG000498_2.png,synthetic_product_visual,Sports,Yoga,"Lall,",2,semi_synthetic_for_cv_development,True
+IMG000499_1,PROD10498,product_images/IMG000499_1.png,synthetic_product_visual,Fashion,Men's Bottomwear,Grewal,1,semi_synthetic_for_cv_development,True
+IMG000499_2,PROD10498,product_images/IMG000499_2.png,synthetic_product_visual,Fashion,Men's Bottomwear,Grewal,2,semi_synthetic_for_cv_development,True
+IMG000500_1,PROD10499,product_images/IMG000500_1.png,synthetic_product_visual,Home & Kitchen,Bedding,"Konda,",1,semi_synthetic_for_cv_development,True
+IMG000500_2,PROD10499,product_images/IMG000500_2.png,synthetic_product_visual,Home & Kitchen,Bedding,"Konda,",2,semi_synthetic_for_cv_development,True
+IMG000501_1,PROD10500,product_images/IMG000501_1.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,"Lall,",1,semi_synthetic_for_cv_development,True
+IMG000501_2,PROD10500,product_images/IMG000501_2.png,synthetic_product_visual,Fashion,Women's Ethnic Wear,"Lall,",2,semi_synthetic_for_cv_development,True
+IMG000502_1,PROD10501,product_images/IMG000502_1.png,synthetic_product_visual,Electronics,Smartphones,"Loke,",1,semi_synthetic_for_cv_development,True
+IMG000502_2,PROD10501,product_images/IMG000502_2.png,synthetic_product_visual,Electronics,Smartphones,"Loke,",2,semi_synthetic_for_cv_development,True
+IMG000503_1,PROD10502,product_images/IMG000503_1.png,synthetic_product_visual,Fashion,Women's Western Wear,Morar,1,semi_synthetic_for_cv_development,True
+IMG000503_2,PROD10502,product_images/IMG000503_2.png,synthetic_product_visual,Fashion,Women's Western Wear,Morar,2,semi_synthetic_for_cv_development,True
+IMG000504_1,PROD10503,product_images/IMG000504_1.png,synthetic_product_visual,Fashion,Kids Wear,Gola,1,semi_synthetic_for_cv_development,True
+IMG000504_2,PROD10503,product_images/IMG000504_2.png,synthetic_product_visual,Fashion,Kids Wear,Gola,2,semi_synthetic_for_cv_development,True
+IMG000505_1,PROD10504,product_images/IMG000505_1.png,synthetic_product_visual,Personal Care,Bath & Body,Bhatt,1,semi_synthetic_for_cv_development,True
+IMG000505_2,PROD10504,product_images/IMG000505_2.png,synthetic_product_visual,Personal Care,Bath & Body,Bhatt,2,semi_synthetic_for_cv_development,True
+IMG000506_1,PROD10505,product_images/IMG000506_1.png,synthetic_product_visual,Fashion,Men's Topwear,Murthy,1,semi_synthetic_for_cv_development,True
+IMG000506_2,PROD10505,product_images/IMG000506_2.png,synthetic_product_visual,Fashion,Men's Topwear,Murthy,2,semi_synthetic_for_cv_development,True
+IMG000507_1,PROD10506,product_images/IMG000507_1.png,synthetic_product_visual,Personal Care,Oral Care,Chander,1,semi_synthetic_for_cv_development,True
+IMG000507_2,PROD10506,product_images/IMG000507_2.png,synthetic_product_visual,Personal Care,Oral Care,Chander,2,semi_synthetic_for_cv_development,True
+IMG000508_1,PROD10507,product_images/IMG000508_1.png,synthetic_product_visual,Grocery,Packaged Food,"Lanka,",1,semi_synthetic_for_cv_development,True
+IMG000508_2,PROD10507,product_images/IMG000508_2.png,synthetic_product_visual,Grocery,Packaged Food,"Lanka,",2,semi_synthetic_for_cv_development,True
+IMG000509_1,PROD10508,product_images/IMG000509_1.png,synthetic_product_visual,Sports,Yoga,Parmer,1,semi_synthetic_for_cv_development,True
+IMG000509_2,PROD10508,product_images/IMG000509_2.png,synthetic_product_visual,Sports,Yoga,Parmer,2,semi_synthetic_for_cv_development,True
+IMG000510_1,PROD10509,product_images/IMG000510_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,Thaman-Sandhu,1,semi_synthetic_for_cv_development,True
+IMG000510_2,PROD10509,product_images/IMG000510_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,Thaman-Sandhu,2,semi_synthetic_for_cv_development,True
+IMG000511_1,PROD10510,product_images/IMG000511_1.png,synthetic_product_visual,Health & Wellness,Supplements,"Iyer,",1,semi_synthetic_for_cv_development,True
+IMG000511_2,PROD10510,product_images/IMG000511_2.png,synthetic_product_visual,Health & Wellness,Supplements,"Iyer,",2,semi_synthetic_for_cv_development,True
+IMG000512_1,PROD10511,product_images/IMG000512_1.png,synthetic_product_visual,Beauty,Makeup,Sidhu-Wadhwa,1,semi_synthetic_for_cv_development,True
+IMG000512_2,PROD10511,product_images/IMG000512_2.png,synthetic_product_visual,Beauty,Makeup,Sidhu-Wadhwa,2,semi_synthetic_for_cv_development,True
+IMG000513_1,PROD10512,product_images/IMG000513_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,Grewal,1,semi_synthetic_for_cv_development,True
+IMG000513_2,PROD10512,product_images/IMG000513_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,Grewal,2,semi_synthetic_for_cv_development,True
+IMG000514_1,PROD10513,product_images/IMG000514_1.png,synthetic_product_visual,Home & Kitchen,Cookware,Gupta-Kumar,1,semi_synthetic_for_cv_development,True
+IMG000514_2,PROD10513,product_images/IMG000514_2.png,synthetic_product_visual,Home & Kitchen,Cookware,Gupta-Kumar,2,semi_synthetic_for_cv_development,True
+IMG000515_1,PROD10514,product_images/IMG000515_1.png,synthetic_product_visual,Electronics,Smartwatches,Naik,1,semi_synthetic_for_cv_development,True
+IMG000515_2,PROD10514,product_images/IMG000515_2.png,synthetic_product_visual,Electronics,Smartwatches,Naik,2,semi_synthetic_for_cv_development,True
+IMG000516_1,PROD10515,product_images/IMG000516_1.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Kade-Sani,1,semi_synthetic_for_cv_development,True
+IMG000516_2,PROD10515,product_images/IMG000516_2.png,synthetic_product_visual,Footwear,Sandals & Flip Flops,Kade-Sani,2,semi_synthetic_for_cv_development,True
+IMG000517_1,PROD10516,product_images/IMG000517_1.png,synthetic_product_visual,Personal Care,Oral Care,Sarin,1,semi_synthetic_for_cv_development,True
+IMG000517_2,PROD10516,product_images/IMG000517_2.png,synthetic_product_visual,Personal Care,Oral Care,Sarin,2,semi_synthetic_for_cv_development,True
+IMG000518_1,PROD10517,product_images/IMG000518_1.png,synthetic_product_visual,Electronics,Speakers,"Mital,",1,semi_synthetic_for_cv_development,True
+IMG000518_2,PROD10517,product_images/IMG000518_2.png,synthetic_product_visual,Electronics,Speakers,"Mital,",2,semi_synthetic_for_cv_development,True
+IMG000519_1,PROD10518,product_images/IMG000519_1.png,synthetic_product_visual,Grocery,Dairy,Chanda,1,semi_synthetic_for_cv_development,True
+IMG000519_2,PROD10518,product_images/IMG000519_2.png,synthetic_product_visual,Grocery,Dairy,Chanda,2,semi_synthetic_for_cv_development,True
+IMG000520_1,PROD10519,product_images/IMG000520_1.png,synthetic_product_visual,Personal Care,Oral Care,Iyengar,1,semi_synthetic_for_cv_development,True
+IMG000520_2,PROD10519,product_images/IMG000520_2.png,synthetic_product_visual,Personal Care,Oral Care,Iyengar,2,semi_synthetic_for_cv_development,True
+IMG000521_1,PROD10520,product_images/IMG000521_1.png,synthetic_product_visual,Bags,Travel Bags,Kohli-Divan,1,semi_synthetic_for_cv_development,True
+IMG000521_2,PROD10520,product_images/IMG000521_2.png,synthetic_product_visual,Bags,Travel Bags,Kohli-Divan,2,semi_synthetic_for_cv_development,True
+IMG000522_1,PROD10521,product_images/IMG000522_1.png,synthetic_product_visual,Electronics,Cameras,Nath,1,semi_synthetic_for_cv_development,True
+IMG000522_2,PROD10521,product_images/IMG000522_2.png,synthetic_product_visual,Electronics,Cameras,Nath,2,semi_synthetic_for_cv_development,True
+IMG000523_1,PROD10522,product_images/IMG000523_1.png,synthetic_product_visual,Grocery,Dairy,Kala-Rattan,1,semi_synthetic_for_cv_development,True
+IMG000523_2,PROD10522,product_images/IMG000523_2.png,synthetic_product_visual,Grocery,Dairy,Kala-Rattan,2,semi_synthetic_for_cv_development,True
+IMG000524_1,PROD10523,product_images/IMG000524_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Bala,",1,semi_synthetic_for_cv_development,True
+IMG000524_2,PROD10523,product_images/IMG000524_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,"Bala,",2,semi_synthetic_for_cv_development,True
+IMG000525_1,PROD10524,product_images/IMG000525_1.png,synthetic_product_visual,Beauty,Makeup,Iyengar,1,semi_synthetic_for_cv_development,True
+IMG000525_2,PROD10524,product_images/IMG000525_2.png,synthetic_product_visual,Beauty,Makeup,Iyengar,2,semi_synthetic_for_cv_development,True
+IMG000526_1,PROD10525,product_images/IMG000526_1.png,synthetic_product_visual,Bags,Travel Bags,Madan-Kanda,1,semi_synthetic_for_cv_development,True
+IMG000526_2,PROD10525,product_images/IMG000526_2.png,synthetic_product_visual,Bags,Travel Bags,Madan-Kanda,2,semi_synthetic_for_cv_development,True
+IMG000527_1,PROD10526,product_images/IMG000527_1.png,synthetic_product_visual,Furniture,Living Room,Gupta-Chandra,1,semi_synthetic_for_cv_development,True
+IMG000527_2,PROD10526,product_images/IMG000527_2.png,synthetic_product_visual,Furniture,Living Room,Gupta-Chandra,2,semi_synthetic_for_cv_development,True
+IMG000528_1,PROD10527,product_images/IMG000528_1.png,synthetic_product_visual,Electronics,Cameras,Behl-Chanda,1,semi_synthetic_for_cv_development,True
+IMG000528_2,PROD10527,product_images/IMG000528_2.png,synthetic_product_visual,Electronics,Cameras,Behl-Chanda,2,semi_synthetic_for_cv_development,True
+IMG000529_1,PROD10528,product_images/IMG000529_1.png,synthetic_product_visual,Mobile Accessories,Chargers,"Kade,",1,semi_synthetic_for_cv_development,True
+IMG000529_2,PROD10528,product_images/IMG000529_2.png,synthetic_product_visual,Mobile Accessories,Chargers,"Kade,",2,semi_synthetic_for_cv_development,True
+IMG000530_1,PROD10529,product_images/IMG000530_1.png,synthetic_product_visual,Grocery,Beverages,Karpe,1,semi_synthetic_for_cv_development,True
+IMG000530_2,PROD10529,product_images/IMG000530_2.png,synthetic_product_visual,Grocery,Beverages,Karpe,2,semi_synthetic_for_cv_development,True
+IMG000531_1,PROD10530,product_images/IMG000531_1.png,synthetic_product_visual,Appliances,Large Appliances,Pant-Kadakia,1,semi_synthetic_for_cv_development,True
+IMG000531_2,PROD10530,product_images/IMG000531_2.png,synthetic_product_visual,Appliances,Large Appliances,Pant-Kadakia,2,semi_synthetic_for_cv_development,True
+IMG000532_1,PROD10531,product_images/IMG000532_1.png,synthetic_product_visual,Electronics,Tablets,"Yohannan,",1,semi_synthetic_for_cv_development,True
+IMG000532_2,PROD10531,product_images/IMG000532_2.png,synthetic_product_visual,Electronics,Tablets,"Yohannan,",2,semi_synthetic_for_cv_development,True
+IMG000533_1,PROD10532,product_images/IMG000533_1.png,synthetic_product_visual,Mobile Accessories,Screen Guards,Dave,1,semi_synthetic_for_cv_development,True
+IMG000533_2,PROD10532,product_images/IMG000533_2.png,synthetic_product_visual,Mobile Accessories,Screen Guards,Dave,2,semi_synthetic_for_cv_development,True
+IMG000534_1,PROD10533,product_images/IMG000534_1.png,synthetic_product_visual,Electronics,Headphones,"Yadav,",1,semi_synthetic_for_cv_development,True
+IMG000534_2,PROD10533,product_images/IMG000534_2.png,synthetic_product_visual,Electronics,Headphones,"Yadav,",2,semi_synthetic_for_cv_development,True
+IMG000535_1,PROD10534,product_images/IMG000535_1.png,synthetic_product_visual,Grocery,Staples,"Yadav,",1,semi_synthetic_for_cv_development,True
+IMG000535_2,PROD10534,product_images/IMG000535_2.png,synthetic_product_visual,Grocery,Staples,"Yadav,",2,semi_synthetic_for_cv_development,True
+IMG000536_1,PROD10535,product_images/IMG000536_1.png,synthetic_product_visual,Books,Non-Fiction,Naik,1,semi_synthetic_for_cv_development,True
+IMG000536_2,PROD10535,product_images/IMG000536_2.png,synthetic_product_visual,Books,Non-Fiction,Naik,2,semi_synthetic_for_cv_development,True
+IMG000537_1,PROD10536,product_images/IMG000537_1.png,synthetic_product_visual,Beauty,Makeup,Pant-Kadakia,1,semi_synthetic_for_cv_development,True
+IMG000537_2,PROD10536,product_images/IMG000537_2.png,synthetic_product_visual,Beauty,Makeup,Pant-Kadakia,2,semi_synthetic_for_cv_development,True
+IMG000538_1,PROD10537,product_images/IMG000538_1.png,synthetic_product_visual,Bags,Wallets,Mody-Kari,1,semi_synthetic_for_cv_development,True
+IMG000538_2,PROD10537,product_images/IMG000538_2.png,synthetic_product_visual,Bags,Wallets,Mody-Kari,2,semi_synthetic_for_cv_development,True
+IMG000539_1,PROD10538,product_images/IMG000539_1.png,synthetic_product_visual,Books,Comics,Sabharwal-Kothari,1,semi_synthetic_for_cv_development,True
+IMG000539_2,PROD10538,product_images/IMG000539_2.png,synthetic_product_visual,Books,Comics,Sabharwal-Kothari,2,semi_synthetic_for_cv_development,True
+IMG000540_1,PROD10539,product_images/IMG000540_1.png,synthetic_product_visual,Bags,Travel Bags,"Bhat,",1,semi_synthetic_for_cv_development,True
+IMG000540_2,PROD10539,product_images/IMG000540_2.png,synthetic_product_visual,Bags,Travel Bags,"Bhat,",2,semi_synthetic_for_cv_development,True
+IMG000541_1,PROD10540,product_images/IMG000541_1.png,synthetic_product_visual,Toys,Soft Toys,Rai,1,semi_synthetic_for_cv_development,True
+IMG000541_2,PROD10540,product_images/IMG000541_2.png,synthetic_product_visual,Toys,Soft Toys,Rai,2,semi_synthetic_for_cv_development,True
+IMG000542_1,PROD10541,product_images/IMG000542_1.png,synthetic_product_visual,Books,Children's Books,Mangal-Sampath,1,semi_synthetic_for_cv_development,True
+IMG000542_2,PROD10541,product_images/IMG000542_2.png,synthetic_product_visual,Books,Children's Books,Mangal-Sampath,2,semi_synthetic_for_cv_development,True
+IMG000543_1,PROD10542,product_images/IMG000543_1.png,synthetic_product_visual,Beauty,Skincare,"Mital,",1,semi_synthetic_for_cv_development,True
+IMG000543_2,PROD10542,product_images/IMG000543_2.png,synthetic_product_visual,Beauty,Skincare,"Mital,",2,semi_synthetic_for_cv_development,True
+IMG000544_1,PROD10543,product_images/IMG000544_1.png,synthetic_product_visual,Grocery,Staples,Kalla-Bhardwaj,1,semi_synthetic_for_cv_development,True
+IMG000544_2,PROD10543,product_images/IMG000544_2.png,synthetic_product_visual,Grocery,Staples,Kalla-Bhardwaj,2,semi_synthetic_for_cv_development,True
+IMG000545_1,PROD10544,product_images/IMG000545_1.png,synthetic_product_visual,Home & Kitchen,Home Decor,Kale,1,semi_synthetic_for_cv_development,True
+IMG000545_2,PROD10544,product_images/IMG000545_2.png,synthetic_product_visual,Home & Kitchen,Home Decor,Kale,2,semi_synthetic_for_cv_development,True
+IMG000546_1,PROD10545,product_images/IMG000546_1.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Ray,1,semi_synthetic_for_cv_development,True
+IMG000546_2,PROD10545,product_images/IMG000546_2.png,synthetic_product_visual,Mobile Accessories,Phone Cases,Ray,2,semi_synthetic_for_cv_development,True
+IMG000547_1,PROD10546,product_images/IMG000547_1.png,synthetic_product_visual,Grocery,Staples,Wali-Nadig,1,semi_synthetic_for_cv_development,True
+IMG000547_2,PROD10546,product_images/IMG000547_2.png,synthetic_product_visual,Grocery,Staples,Wali-Nadig,2,semi_synthetic_for_cv_development,True
+IMG000548_1,PROD10547,product_images/IMG000548_1.png,synthetic_product_visual,Health & Wellness,Ayurveda,Mody-Kari,1,semi_synthetic_for_cv_development,True
+IMG000548_2,PROD10547,product_images/IMG000548_2.png,synthetic_product_visual,Health & Wellness,Ayurveda,Mody-Kari,2,semi_synthetic_for_cv_development,True
+IMG000549_1,PROD10548,product_images/IMG000549_1.png,synthetic_product_visual,Fashion,Kids Wear,Chanda,1,semi_synthetic_for_cv_development,True
+IMG000549_2,PROD10548,product_images/IMG000549_2.png,synthetic_product_visual,Fashion,Kids Wear,Chanda,2,semi_synthetic_for_cv_development,True
+IMG000550_1,PROD10549,product_images/IMG000550_1.png,synthetic_product_visual,Health & Wellness,Medical Devices,"Sunder,",1,semi_synthetic_for_cv_development,True
+IMG000550_2,PROD10549,product_images/IMG000550_2.png,synthetic_product_visual,Health & Wellness,Medical Devices,"Sunder,",2,semi_synthetic_for_cv_development,True
